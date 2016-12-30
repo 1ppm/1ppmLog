@@ -51,6 +51,9 @@ Add your projects to the end of this List!
 
 
 ## [Amar Lakshya](https://github.com/amar-laksh)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
 | 05/2016 | [focusTV](https://github.com/amar-laksh/focusTV) | Bing-watch easily with Python and OPENCV |
 | 09/2016 | [TryingToKnowYouBetter](https://github.com/amar-laksh/TryingToKnowYouBetter) | Easy people tracking (for most of the India) |
 
@@ -81,7 +84,7 @@ Add your projects to the end of this List!
 ## [AlexKeyes](https://github.com/alex-keyes)
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
-| 01/2017 | [PHP Cowsay](https://github.com/Alex-Keyes/cowsay-php) | Cowsay written in PHP | 
+| 01/2017 | [PHP Cowsay](https://github.com/Alex-Keyes/cowsay-php) | Cowsay written in PHP |
 
 
 ## [gutfeeling](https://github.com/gutfeeling)
@@ -115,10 +118,10 @@ Add your projects to the end of this List!
 | 01/2017 | [Retro pi](https://retropie.org.uk/) | Start learning raspberry pi by creating a retro pi console for my kids |
 
 ## [zitterbewegung](https://github.com/zitterbewegung)
- 
- |Month   |Project                                               |Description             |
- |--------|------------------------------------------------------|------------------------------------------------|
- |01/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. |
- |02/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|01/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. |
+|02/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
 
 ## You?
