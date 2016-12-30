@@ -51,6 +51,14 @@ Add your projects to the end of this List!
 | 01/2017 | [Earthquator](https://telegram.me/earthquator) | Telegram bot and channel that publishes earthquake news from USGS data feed into Telegram |
 
 
+## [azurelogic](https://github.com/azurelogic)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+| 01/2017 | [AwsHomeNetworkToolkit](https://github.com/azurelogic/AwsHomeNetworkToolkit) | [In progress] Get notifications when your home network is down and keep dynamic DNS up to date all with AWS |
+
+
+
 ## [AlexKeyes](https://github.com/alex-keyes)
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
