@@ -2,6 +2,17 @@
 
 Add your projects to the end of this List!
 
+**Notes:**
+- Make sure you checked out/merged the latest version of this page
+- Add a status column if you like:
+  - Planning = Not started coding yet
+  - Started = Coding
+  - Done = Project is done / released
+  - Continued = Someone will continue working on this project
+  - Cancelled (?) - No result at all. Would be interesting to hear what happened though.
+
+---
+
 ## [ggerhard](https://github.com/ggerhard)
 
 |Month   |Project                                               |Description             |
