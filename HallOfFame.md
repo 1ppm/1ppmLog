@@ -37,7 +37,6 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|
 |12/2016 | [MusicRepair](https://github.com/lakshaykalbhor/musicrepair) | A python script to add album art and metadata to all music files |
 
-
 ## [darcinc](https://github.com/DarcInc)
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
@@ -56,5 +55,63 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|
 |1/2017 | [LaraMon](https://github.com/cameronbird6/LaraMon)     | A server monitor with history built in Laravel |
 
-## You?
 
+## [mukeshthawani](https://github.com/mukeshthawani)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|12/2016 | [FAQView](https://github.com/mukeshthawani/FAQView)     | An easy to use FAQ view for iOS written in Swift |
+
+
+
+## [azurelogic](https://github.com/azurelogic)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+| 01/2017 | [AwsHomeNetworkToolkit](https://github.com/azurelogic/AwsHomeNetworkToolkit) | [In progress] Get notifications when your home network is down and keep dynamic DNS up to date all with AWS |
+
+
+
+## [AlexKeyes](https://github.com/alex-keyes)
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+| 01/2017 | [PHP Cowsay](https://github.com/Alex-Keyes/cowsay-php) | Cowsay written in PHP | 
+
+## [gutfeeling](https://github.com/gutfeeling)
+
+| Month | Project | Description |
+|----|----|----|
+| 10/2016 | [python-boilerpipe](https://github.com/misja/python-boilerpipe) | Python 3 support for python-boilerpipe |
+| 11/2016 | [word_forms](https://github.com/gutfeeling/word_forms) | Accurately generate all possible forms of an English word e.g "election" --> "elect", "electoral", "electorate" etc. |
+| 12/2016 | [djangohero](https://github.com/gutfeeling/djangohero) | The fastest way to set up a Django project on the cloud (using Heroku) |
+
+
+## [Timopheym](https://github.com/timopheym)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|01/2017 | [Audition](https://audition.antareslab.ru/) | Platform to train your ear for music |
+
+
+## [asweingarten](https://github.com/asweingarten)
+
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|1/2017 | [architect](https://github.com/asweingarten/architect)     | Tiled Content |
+
+
+## [RHelman](https://github.com/RHelman)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+| 01/2017 | [Retro pi](https://retropie.org.uk/) | Start learning raspberry pi by creating a retro pi console for my kids |
+
+## [zitterbewegung](https://github.com/zitterbewegung)
+ 
+ |Month   |Project                                               |Description             |
+ |--------|------------------------------------------------------|------------------------------------------------|
+ |01/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. |
+ |02/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
+
+## You?
