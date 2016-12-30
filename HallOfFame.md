@@ -37,4 +37,10 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|
 |12/2016 | [MusicRepair](https://github.com/lakshaykalbhor/musicrepair) | A python script to add album art and metadata to all music files |
 
+## [ariefwt](https://github.com/ariefwt)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+| 01/2017 | [Earthquator](https://telegram.me/earthquator) | Telegram bot and channel that publishes earthquake news from USGS data feed into Telegram |
+
 ## You?
