@@ -1,6 +1,6 @@
 # 1PPM Hall of Fame
 
-Add your projects to this List!
+Add your projects to the end of this List!
 
 ## [ggerhard](https://github.com/ggerhard)
 
@@ -31,4 +31,4 @@ Add your projects to this List!
 |--------|------------------------------------------------------|------------------------------------------------|
 |12/2016 | [MusicRepair](https://github.com/lakshaykalbhor/musicrepair) | A python script to add album art and metadata to all music files |
 
-
+## You?
