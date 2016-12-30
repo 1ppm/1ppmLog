@@ -4,7 +4,7 @@
 
 ## Get Started!
 
-Here is an Article on how to come up with project ideas: "[12 Months / 12 Side Projects - Are you in?](https://medium.com/@gerji/12-months-12-side-projects-are-you-in-c395dbcd648e#.qle34253j)". Note that a 1PPM project can be anything, as long as it has a result, you learned something and is a one month project. So it could be an article, an online course certificate, a github project etc. Contributions to [open source projects](https://github.com/FreeCodeCamp/how-to-contribute-to-open-source)  are especially welcome! 
+Here is an Article on how to come up with project ideas: "[12 Months / 12 Side Projects - Are you in?](https://medium.com/@gerji/12-months-12-side-projects-are-you-in-c395dbcd648e#.qle34253j)". Note that a 1PPM project can be anything, as long as it has a result, you learned something and is a one month project. So it could be an article, an online course certificate, a github project etc. Contributions to [open source projects](https://github.com/FreeCodeCamp/how-to-contribute-to-open-source)  are especially welcome!
 
 
 To get started:
@@ -16,3 +16,5 @@ To get started:
 For any questions or feedback, contact [1ppm@1ppm.club](mailto:1ppm@1ppm.club). You can also follow [@1ppmclub](https://twitter.com/1ppmclub) on twitter, all new projects will be published there.
 
 We are excited to hear from your projects!
+
+PS.: Looking for collaborator, want to discuss ideas or improve 1PPM - feel free to use the issue tracker!
