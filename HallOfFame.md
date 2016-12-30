@@ -50,5 +50,11 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|
 | 01/2017 | [Earthquator](https://telegram.me/earthquator) | Telegram bot and channel that publishes earthquake news from USGS data feed into Telegram |
 
+## [cameronbird6](https://github.com/cameronbird6/)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|1/2017 | [LaraMon](https://github.com/cameronbird6/LaraMon)     | A server monitor with history built in Laravel |
+
 ## You?
 
