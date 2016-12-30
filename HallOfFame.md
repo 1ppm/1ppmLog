@@ -95,4 +95,10 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|
 | 01/2017 | [Retro pi](https://retropie.org.uk/) | Start learning raspberry pi by creating a retro pi console for my kids |
 
+## [zitterbewegung](https://github.com/zitterbewegung)
+ 
+ |Month   |Project                                               |Description             |
+ |--------|------------------------------------------------------|------------------------------------------------|
+ |01/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. |
+ |02/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
 ## You?
