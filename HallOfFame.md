@@ -50,6 +50,14 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|
 | 01/2017 | [Earthquator](https://telegram.me/earthquator) | Telegram bot and channel that publishes earthquake news from USGS data feed into Telegram |
 
+## [gutfeeling](https://github.com/gutfeeling)
+
+| Month | Project | Description |
+|----|----|----|
+| 10/2016 | [python-boilerpipe](https://github.com/misja/python-boilerpipe) | Python 3 support for python-boilerpipe |
+| 11/2016 | [word_forms](https://github.com/gutfeeling/word_forms) | Accurately generate all possible forms of an English word e.g "election" --> "elect", "electoral", "electorate" etc. |
+| 12/2016 | [djangohero](https://github.com/gutfeeling/djangohero) | The fastest way to set up a Django project on the cloud (using Heroku) |
+
 
 
 ## [Timopheym](https://github.com/timopheym)
