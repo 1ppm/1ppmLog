@@ -1,5 +1,8 @@
 # The 1PPM Challenge
 
+[![Join the chat at https://gitter.im/1ppm/challenge](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/1ppm/challenge)
+
+
 1PPM is a challenge for developers, makers and creatives. Its about accelerated learning, avoiding over engineering and getting things done. Find out more about the 1PPM in "[The 1PPM-Challenge](https://medium.com/1ppm/the-1ppm-challenge-eaed5df0ef5a#.oejtaqmy0)"
 
 ## Get Started!
