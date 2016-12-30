@@ -16,8 +16,19 @@ Add your projects to this List!
 |--------|------------------------------------------------------|------------------------------------------------|
 |01/2017 | Simple Documentation                                 | A minimal documentation/walkthrough app to create documentation for both desktop and mobile |
 
-## You
+
+
+## [dannav](https://github.com/dannav)
+
 
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
+|01/2017 | [linenum](https://www.linenum.com)     | A curator for tech and maker articles |
+
+## [lakshaykalbhor](https://github.com/lakshaykalbhor)
+
+|Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
+|12/2016 | [MusicRepair](https://github.com/lakshaykalbhor/musicrepair) | A python script to add album art and metadata to all music files |
+
+
