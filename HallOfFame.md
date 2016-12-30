@@ -43,4 +43,10 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|
 | 01/2017 | [Earthquator](https://telegram.me/earthquator) | Telegram bot and channel that publishes earthquake news from USGS data feed into Telegram |
 
-## You?
+## [Amar Lakshya](https://github.com/amar-laksh)
+| 05/2016 | [Earthquator](https://github.com/amar-laksh/focusTV) | Bing-watch easily with Python and OPENCV |
+| 09/2016 | [Earthquator](https://github.com/amar-laksh/TryingToKnowYouBetter) | Easy people tracking (for most of the India) |
+
+
+
+
