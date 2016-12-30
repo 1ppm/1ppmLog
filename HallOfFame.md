@@ -1,6 +1,6 @@
 # 1PPM Hall of Fame
 
-Add your projects to this List!
+Add your projects to the end of this List!
 
 ## [ggerhard](https://github.com/ggerhard)
 
@@ -36,3 +36,5 @@ Add your projects to this List!
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
 | 01/2017 | [Earthquator](https://telegram.me/earthquator) | Telegram bot and channel that publishes earthquake news from USGS data feed into Telegram |
+
+## You?
