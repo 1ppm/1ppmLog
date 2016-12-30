@@ -58,4 +58,26 @@ Add your projects to the end of this List!
 | 11/2016 | [word_forms](https://github.com/gutfeeling/word_forms) | Accurately generate all possible forms of an English word e.g "election" --> "elect", "electoral", "electorate" etc. |
 | 12/2016 | [djangohero](https://github.com/gutfeeling/djangohero) | The fastest way to set up a Django project on the cloud (using Heroku) |
 
+
+
+## [Timopheym](https://github.com/timopheym)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|01/2017 | [Audition](https://audition.antareslab.ru/) | Platform to train your ear for music |
+
+
+## [asweingarten](https://github.com/asweingarten)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|1/2017 | [architect](https://github.com/asweingarten/architect)     | Tiled Content |
+
+
+## [RHelman](https://github.com/RHelman)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+| 01/2017 | [Retro pi](https://retropie.org.uk/) | Start learning raspberry pi by creating a retro pi console for my kids |
+
 ## You?
