@@ -17,4 +17,4 @@ For any questions or feedback, contact [1ppm@1ppm.club](mailto:1ppm@1ppm.club). 
 
 We are excited to hear from your projects!
 
-PS.: Looking for collaborator, want to discuss ideas or improve 1PPM - feel free to use the issue tracker!
+PS.: Looking for collaborators, want to discuss ideas or improve 1PPM - feel free to use the *issue tracker*!
