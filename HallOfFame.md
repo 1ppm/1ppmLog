@@ -51,11 +51,25 @@ Add your projects to the end of this List!
 | 01/2017 | [Earthquator](https://telegram.me/earthquator) | Telegram bot and channel that publishes earthquake news from USGS data feed into Telegram |
 
 
+
 ## [Timopheym](https://github.com/timopheym)
 
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
 |01/2017 | [Audition](https://audition.antareslab.ru/) | Platform to train your ear for music |
 
-## You?
 
+## [asweingarten](https://github.com/asweingarten)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|1/2017 | [architect](https://github.com/asweingarten/architect)     | Tiled Content |
+
+
+## [RHelman](https://github.com/RHelman)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+| 01/2017 | [Retro pi](https://retropie.org.uk/) | Start learning raspberry pi by creating a retro pi console for my kids |
+
+## You?
