@@ -163,7 +163,10 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |2017/01 |Vulkan graphics engine                                | A graphics engine that runs on Vulkan API      | Planning |
 
+## [fuxes](https://twitter.com/fuxes_)
 
-
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2016/12 |[fuxes.github.io](https://fuxes.github.io) | Personal blog. | Released |
 
 ## You?
