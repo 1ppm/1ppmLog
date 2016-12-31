@@ -164,6 +164,14 @@ Add your projects to the end of this List!
 |2017/01 |Vulkan graphics engine                                | A graphics engine that runs on Vulkan API      | Planning |
 
 
+
+## [strathausen](https://github.com/strathausen)
+
+|Month   |Project                                   |Description                                  | Status      |
+|--------|------------------------------------------|---------------------------------------------|-------------|
+|2017/01 |hallelujah.blog                           | blogging platform with bible search wizzard | In progress |
+|2017/02 |gps map travel blog                       | travel blog with gps and map                | Planning    |
+
 ## [ifvictr](https://github.com/ifvictr)
 
 |Month   |Project                                               |Description             | Status                |
@@ -188,5 +196,6 @@ Add your projects to the end of this List!
 | 7/2016 | [Be like Bill](https://github.com/gautamkrishnar/Be-Like-Bill) | Be Like Bill meme generator and API created with PHP, Using this API you can include customized version of "Be like Bill" meme on your website. | Released |
 | 7/2016 | [SoCLI](http://github.com/gautamkrishnar/socli) | Stack overflow command line client. Search and browse stack overflow without leaving the terminal | Released |
 | 5/2016 | [Profanity finder js](https://github.com/gautamkrishnar/profanity-finder.js) | Simple profanity finding library for javascript to detect swear language.Created for nodejs. | Released |
+
 
 ## You ?
