@@ -164,6 +164,11 @@ Add your projects to the end of this List!
 |2017/01 |Vulkan graphics engine                                | A graphics engine that runs on Vulkan API      | Planning |
 
 
+## [strathausen](https://github.com/strathausen)
 
+|Month   |Project                                   |Description                                  | Status      |
+|--------|------------------------------------------|---------------------------------------------|-------------|
+|2017/01 |hallelujah.blog                           | blogging platform with bible search wizzard | In progress |
+|2017/02 |gps map travel blog                       | travel blog with gps and map                | Planning    |
 
 ## You?
