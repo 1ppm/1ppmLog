@@ -163,6 +163,11 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |2017/01 |Vulkan graphics engine                                | A graphics engine that runs on Vulkan API      | Planning |
 
+## [bheesma](https://github.com/bheesma)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2016/12 |Angular Star Rating Component                         | Star rating component written in angular      | Done |
 
 
 ## [strathausen](https://github.com/strathausen)
