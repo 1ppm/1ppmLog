@@ -148,6 +148,13 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |2017/01 |[ViewMe](https://github.com/TestMarrko/ViewMe)        | View any type of file on OS X (Starting with pictures). | Planning |
 
+## [Levi Bostian](https://twitter.com/levibostian)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2016/12 |[Life of Levi podcast](http://lifeoflevi.xyz) | Podcast audio version of my blog. | Released |
+|2016/12 |[Curiosity IO website](https://curiosityio.com) | Website for freelance mobile app dev. | Released |
+|2016/12 |[levibostian.com](http://levibostian.com) | Personal website. | Released |
 
 ## [davidseah](https://github.com/davidseah)
 
