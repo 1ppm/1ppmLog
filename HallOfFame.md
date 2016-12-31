@@ -163,12 +163,20 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |2017/01 |Vulkan graphics engine                                | A graphics engine that runs on Vulkan API      | Planning |
 
+
 ## [ifvictr](https://github.com/ifvictr)
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |2016/11 |[Faceclash](https://faceclash.ml) | Faceclash is a fully revamped version of Mark Zuckerberg's Facemash, with its own special sauce. | Released |
 |2016/12 |[Oca](https://oca.li) | A URL shortener that has a clean design, and is easy to use. Finally. | Released |
+
+
+## [fuxes](https://twitter.com/fuxes_)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2016/12 |[fuxes.github.io](https://fuxes.github.io) | Personal blog. | Released |
 
 
 ## You?
