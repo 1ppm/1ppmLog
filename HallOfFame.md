@@ -170,6 +170,14 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |2017/01 |Vulkan graphics engine                                | A graphics engine that runs on Vulkan API      | Planning |
 
+## [smhutch](https://github.com/smhutch)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2016/11 |[smhutch.co.uk](https://smhutch.co.uk/)| Redesigned Personal site | Released ✅ |
+|2016/12 |[Next Up Trello](https://smhutch.github.io/next-up-trello/)| Chrome Extension to view due Trello tickets | Released ✅|
+|2017/01 |[EasyInvoice](https://github.com/smhutch/easyInvoice)| Front End for invoice generator | Planning|
+
 ## [bheesma](https://github.com/bheesma)
 
 |Month   |Project                                               |Description             | Status                |
