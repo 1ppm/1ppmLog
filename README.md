@@ -47,3 +47,16 @@ Set a goal, build, release, learn, repeat :)
 
 Regards,  
 Gerhard
+
+## 01.01.2017 - POD, chat, project ideas
+
+Hello 1PPM Community,
+
+ As announced, the 1PPM Bot (which is me at first) will publish new projects via [@1ppmclub](https://twitter.com/1ppmclub) and later in Slack (see issue #23). Probably in the evening (CET) when he has the time ;) Everyday the Bot will pick one or more projects as "project(s) of the day" (#POD) so that everyone can be POD once a month. Feel free to discuss the project ideas, offer contributions and ask for advice, there will be a #pod channel in Slack. (Please be kind, find some tips on giving feedback [here](https://www.roberthalf.com/creativegroup/blog/7-tips-on-giving-feedback-to-employees))
+
+ As mentioned before, there will move from gitter to Slack, reasons see #23. I am working on an easier invitation method, early adopters can contact me via email (1ppm@1ppm.club, Subject: Slack).
+
+There are two ideas for 1PPM open for volunteers who are  looking for projects: #38 a 1ppm Bot and #39 a HallOfFame to JSON parser. Questions and voluntary notifications in the issue tracker.
+
+Regards,  
+Gerhard
