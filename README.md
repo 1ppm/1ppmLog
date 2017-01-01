@@ -21,3 +21,29 @@ For any questions or feedback, contact [1ppm@1ppm.club](mailto:1ppm@1ppm.club). 
 We are excited to hear from your projects!
 
 PS.: Looking for collaborators, want to discuss ideas or improve 1PPM - feel free to use the *issue tracker*!
+
+---
+# News
+
+## 01.01.2017
+
+Hello 1PPM Community,
+
+Today (8AM), we are already counting 135 forks of the 1PPM Log repository. This means, the 1PPM community could create up to **1620 new projects** in 2017! Now that would be exciting!
+
+Thanks to your engagement, 1PPM even made it to the [GitHub trending page](https://github.com/trending) yesterday. Don't forget to star and tell your friends, maybe we can do that again.
+
+For my 01/2017 project, I am going to create a first version of a 1ppm.club website. Minimum: *A JavaScript Page with the HallOfFame page as its "Backend", hosted on Github Pages, live by Jan 31 (latest).* (see [Issue Tracker](https://github.com/1ppm/1ppmLog/issues/9)). Collaborators are welcome, just contact me via [1ppm@1ppm.club](mailto:1ppm@1ppm.club) or [chat]((https://gitter.im/1ppm/challenge)).
+
+Also, I am announcing a **1PPM logo design contest** since Scott Hutchenson challenged my mighty MS Paint skills with his fancy photoshopping:
+
+<img src="logo/1PPM_Logo.png" width="200" height="150" />
+<img src="logo/scott_hutchensen.jpg" width="200" height="150" />
+
+Simply add your submissions to the "logo" folder with name/nickname as filename. **Voting starts on Jan. 7**, probably via Twitter survey.
+
+Happy new year and keep going:  
+Set a goal, build, release, learn, repeat :)
+
+Regards,  
+Gerhard
