@@ -137,6 +137,13 @@ Add your projects to the end of this List!
 |02/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
 
 
+## [Oyewale Ademola](https://github.com/saopayne)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+| 01/2017 | [DTRR](https://github.com/saopayne/DTRR) | This is a Android project example to showcase integration of Dependency Injection (Dagger 2) ,Retrofit ,Unit Testing (Junit), RxJava (ReactiveX |
+
+
 ## [mechasparrow](https://github.com/mechasparrow)
 
 |Month   |Project                                               |Description             |
@@ -222,3 +229,4 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description            |Status                  |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |01/2017 | Making a Theme For GNU/Linux              | A little book on how to make a theme for GNU/Linux system using gtk-3.0. | In progress |
+
