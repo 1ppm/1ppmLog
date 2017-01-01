@@ -54,7 +54,7 @@ Hello 1PPM Community,
 
  As announced, the 1PPM Bot (which is me at first) will publish new projects via [@1ppmclub](https://twitter.com/1ppmclub) and later in Slack (see issue [#23](https://github.com/1ppm/1ppmLog/issues/23)). Probably in the evening (CET) when he has the time ;) Everyday the Bot will pick one or more projects as "project(s) of the day" (#POD) so that everyone can be POD once a month. Feel free to discuss the project ideas, offer contributions and ask for advice, there will be a #pod channel in Slack. (Please be kind, find some tips on giving feedback [here](https://www.roberthalf.com/creativegroup/blog/7-tips-on-giving-feedback-to-employees))
 
- As mentioned before, there will a move from gitter to Slack, reasons see [#23](https://github.com/1ppm/1ppmLog/issues/23). I am working on an easier invitation method, early adopters can contact me via email (1ppm@1ppm.club, Subject: Slack).
+ As mentioned before, there will be a move from gitter to Slack, reasons see [#23](https://github.com/1ppm/1ppmLog/issues/23). I am working on an easier invitation method, early adopters can contact me via email (1ppm@1ppm.club, Subject: Slack).
 
 There are two 1PPM ideas open for volunteers who are  looking for projects: [#38](https://github.com/1ppm/1ppmLog/issues/38) a 1ppm Bot and [#39](https://github.com/1ppm/1ppmLog/issues/39) a HallOfFame to JSON parser. Questions and voluntary notifications in the issue tracker.
 
