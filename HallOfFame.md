@@ -15,10 +15,11 @@ Add your projects to the end of this List!
 
 ## [ggerhard](https://github.com/ggerhard)
 
-|Month   |Project                                               |Description             |
-|--------|------------------------------------------------------|------------------------------------------------|
-|11/2016 | [parsecal](https://github.com/ggerhard/parsecal)     | A ruby script to parse an iCal calendar and create a spreadsheet report |
-|12/2016 | [node-pdf-service](https://github.com/ggerhard/node-pdf-service)     | RESTful PDF creation Service with NodeJS / Express / PhantomJS / Docker |
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|11/2016 | [parsecal](https://github.com/ggerhard/parsecal)     | A ruby script to parse an iCal calendar and create a spreadsheet report |Done|
+|12/2016 | [node-pdf-service](https://github.com/ggerhard/node-pdf-service)     | RESTful PDF creation Service with NodeJS / Express / PhantomJS / Docker |Done|
+|01/2017 | [1ppm.github.io](https://github.com/1ppm/1ppm.github.io)     | 1ppm.club Website MVP | Planning |
 
 ## [aguaviva](https://github.com/aguaviva)
 
@@ -135,8 +136,97 @@ Add your projects to the end of this List!
 |01/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. |
 |02/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
 
+
 ## [Oyewale Ademola](https://github.com/saopayne)
 
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
 | 01/2017 | [DTRR](https://github.com/saopayne/DTRR) | This is a Android project example to showcase integration of Dependency Injection (Dagger 2) ,Retrofit ,Unit Testing (Junit), RxJava (ReactiveX |
+
+
+## [mechasparrow](https://github.com/mechasparrow)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|12/2016 | [cybernotes](http://cybernotes.herokuapp.com)        | A online note taking platform |
+
+## [TestMarrko](https://github.com/TestMarrko)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2017/01 |[ViewMe](https://github.com/TestMarrko/ViewMe)        | View any type of file on OS X (Starting with pictures). | Planning |
+
+## [Levi Bostian](https://twitter.com/levibostian)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2016/12 |[Life of Levi podcast](http://lifeoflevi.xyz) | Podcast audio version of my blog. | Released |
+|2016/12 |[Curiosity IO website](https://curiosityio.com) | Website for freelance mobile app dev. | Released |
+|2016/12 |[levibostian.com](http://levibostian.com) | Personal website. | Released |
+
+## [davidseah](https://github.com/davidseah)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2017/01 |Vulkan graphics engine                                | A graphics engine that runs on Vulkan API      | Planning |
+
+## [bheesma](https://github.com/bheesma)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2016/12 |Angular Star Rating Component                         | Star rating component written in angular      | Done |
+
+
+## [strathausen](https://github.com/strathausen)
+
+|Month   |Project                                   |Description                                  | Status      |
+|--------|------------------------------------------|---------------------------------------------|-------------|
+|2017/01 |hallelujah.blog                           | blogging platform with bible search wizzard | In progress |
+|2017/02 |gps map travel blog                       | travel blog with gps and map                | Planning    |
+
+## [ifvictr](https://github.com/ifvictr)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2016/11 |[Faceclash](https://faceclash.ml) | Faceclash is a fully revamped version of Mark Zuckerberg's Facemash, with its own special sauce. | Released |
+|2016/12 |[Oca](https://oca.li) | A URL shortener that has a clean design, and is easy to use. Finally. | Released |
+
+
+## [fuxes](https://twitter.com/fuxes_)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2016/12 |[fuxes.github.io](https://fuxes.github.io) | Personal blog. | Released |
+
+
+## [Gautam Krishna R](https://github.com/gautamkrishnar)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+| 10/2016 | [ASTRA](https://github.com/gautamkrishnar/ASTRA/) | A fully integrated workflow management system for government offices with built in queuing and complaint registration system | Released |
+| 8/2016 | [TcSO](https://github.com/gautamkrishnar/tcso/) | Try Catch Stack overflow (TcSo) Is a collection of Try statements in all the programming languages under the globe which catches the exception and searches for the cause of the caught exception in the stack overflow automatically. | Released |
+| 7/2016 | [Be like Bill](https://github.com/gautamkrishnar/Be-Like-Bill) | Be Like Bill meme generator and API created with PHP, Using this API you can include customized version of "Be like Bill" meme on your website. | Released |
+| 7/2016 | [SoCLI](http://github.com/gautamkrishnar/socli) | Stack overflow command line client. Search and browse stack overflow without leaving the terminal | Released |
+| 5/2016 | [Profanity finder js](https://github.com/gautamkrishnar/profanity-finder.js) | Simple profanity finding library for javascript to detect swear language.Created for nodejs. | Released |
+
+
+## [focuswish](https://github.com/focuswish)
+
+|Month   |Project                                               |Description            |Status                  |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|01/2017 | [ScheduleText](http://scheduletext.com)              | A whimsical tool for scheduling SMS reminders. | In progress |
+|02/2017 | [FormCandy](http://www.formcandy.com)                | A curated collection of tools to design better forms. | In progress |
+
+
+## [pcstl](https://github.com/pcstl)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|01/2017 |[8Chip](https://github.com/pcstl/8chip) | A [CHIP-8](https://en.wikipedia.org/wiki/Chip-8) emulator. | Started |
+ 
+## [kiran](https://github.com/chauhankiran)
+
+|Month   |Project                                               |Description            |Status                  |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|01/2017 | Making a Theme For GNU/Linux              | A little book on how to make a theme for GNU/Linux system using gtk-3.0. | In progress |
+
