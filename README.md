@@ -25,7 +25,7 @@ PS.: Looking for collaborators, want to discuss ideas or improve 1PPM - feel fre
 ---
 # News
 
-## 01.01.2017
+## 01.01.2017 - Let's Get Started!
 
 Hello 1PPM Community,
 
