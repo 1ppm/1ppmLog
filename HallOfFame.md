@@ -135,4 +135,8 @@ Add your projects to the end of this List!
 |01/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. |
 |02/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
 
-## You?
+## [Oyewale Ademola](https://github.com/saopayne)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+| 01/2017 | [DTRR](https://github.com/saopayne/DTRR) | This is a Android project example to showcase integration of Dependency Injection (Dagger 2) ,Retrofit ,Unit Testing (Junit), RxJava (ReactiveX |
