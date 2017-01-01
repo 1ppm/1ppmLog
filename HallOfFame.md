@@ -243,3 +243,9 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |11/2015 | [star.js](https://github.com/Decagon/star.js)     | A node library to automatically correct typos in messages based on the next message you send*. |Continued|
+
+## [tropicColin](https://github.com/colinrtaylor)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|12/2016 | [Live List](react-list-37a1e.firebaseapp.com), [Repo](https://github.com/ColinRTaylor/live-list)     | Create and share list with friends. See live updates between shared lists. Using React + Firebase. |Released ✅ (WIP)|
