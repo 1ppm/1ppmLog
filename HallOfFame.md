@@ -230,3 +230,8 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |01/2017 | Making a Theme For GNU/Linux              | A little book on how to make a theme for GNU/Linux system using gtk-3.0. | In progress |
 
+## [decagon](https://github.com/decagon)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|11/2015 | [star.js](https://github.com/Decagon/star.js)     | A node library to automatically correct typos in messages based on the next message you send*. |Continued|
