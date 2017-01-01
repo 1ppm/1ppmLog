@@ -215,6 +215,6 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-|01/2017 |[8Chip](https://github.com/pcstl/8chip) | A [CHIP-8](en.wikipedia.org/wiki/Chip-8) emulator. | Started |
+|01/2017 |[8Chip](https://github.com/pcstl/8chip) | A [CHIP-8](https://en.wikipedia.org/wiki/Chip-8) emulator. | Started |
  
 ## You ?
