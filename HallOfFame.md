@@ -156,6 +156,13 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |2017/01 |[ViewMe](https://github.com/TestMarrko/ViewMe)        | View any type of file on OS X (Starting with pictures). | Planning |
 
+
+## [jfoucher](https://github.com/jfoucher)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2017/01 |[Budget](https://github.com/jfoucher/budjetTracker)        | Offline budget tracker with online sync capability | Coding |
+
 ## [Levi Bostian](https://twitter.com/levibostian)
 
 |Month   |Project                                               |Description             | Status                |
