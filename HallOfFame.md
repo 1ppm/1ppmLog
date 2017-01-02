@@ -249,3 +249,9 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |12/2016 | [Live List](react-list-37a1e.firebaseapp.com), [Repo](https://github.com/ColinRTaylor/live-list)     | Create and share list with friends. See live updates between shared lists. Using React + Firebase. |Released ✅ (WIP)|
+
+## [joshcanhelp](https://github.com/joshcanhelp)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|1/2011 | [Repo](https://github.com/joshcanhelp/harvest-billable-time)     | Keep track of working, billable, and non-billable time in browser using Harvest |Started previously, WIP|
