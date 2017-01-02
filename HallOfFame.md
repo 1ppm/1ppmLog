@@ -169,7 +169,7 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-|2017/01 |[Budget](https://github.com/jfoucher/budjet)        | Offline budget tracker with online sync capability | Planning |
+|2017/01 |[Budget](https://github.com/jfoucher/budjetTracker)        | Offline budget tracker with online sync capability | Coding |
 
 
 ## You?
