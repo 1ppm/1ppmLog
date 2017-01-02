@@ -268,6 +268,6 @@ Add your projects to the end of this List!
 
 ## [recepinanc](https://github.com/cityzen)
 
-|Month   |Project                                               |Description             | |State|
-|--------|------------------------------------------------------|------------------------------------------------|
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | Simple Ruby Game                                 | A simple ruby game to sharpen my ruby skills | Planning |
