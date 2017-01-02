@@ -287,3 +287,9 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [safetydb.io](https://safetydb.io)                   | A tool to check dependencies for security vulnerabilities | Planning |
+
+## [VladimirRubin](https://github.com/VladimirRubin)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [1ppmHallOfFameParse](https://github.com/VladimirRubin/1ppmHallOfFameParser)                   | 1ppm HallOfFame MD to JSON parser! | Started |
