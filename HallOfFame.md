@@ -271,3 +271,11 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | Simple Ruby Game                                 | A simple ruby game to sharpen my ruby skills | Planning |
+
+
+
+## [jayfk](https://github.com/jayfk)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [safetydb.io](https://safetydb.io)                   | A tool to check dependencies for security vulnerabilities | Planning |
