@@ -20,9 +20,7 @@ Add your projects to this List!
 
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
-|01/2016 | [GA Fire Weather](https://github.com/brooksgarrett/GAFireWeather) | An Alexa skill for looking up the current \
-and forecasted NFDRS danger class for a region inside Georgia, USA. Data is retreived \
-from http://weather.gfc.state.ga.us/. No special hardware or permissions are needed. |
+|01/2016 | [GA Fire Weather](https://github.com/brooksgarrett/GAFireWeather) | An Alexa skill for looking up the current and forecasted NFDRS danger class for a region inside Georgia, USA. Data is retreived from http://weather.gfc.state.ga.us/. No special hardware or permissions are needed. |
 |02/2016 | []() | |
 |03/2016 | []() | |
 |04/2016 | []() | |
