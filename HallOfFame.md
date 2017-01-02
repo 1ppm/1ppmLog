@@ -204,7 +204,8 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-|2016/12 |[fuxes.github.io](https://fuxes.github.io) | Personal blog. | Released |
+|12/2016 | [fuxes.github.io](https://fuxes.github.io) | Personal blog | Released |
+|01/2017 | SocialAlgo | A crowdspeaking platform for supporting NGOs campaigns. Spread massively and get awareness of your social campaigns through the help of your supporters  | Planning |
 
 
 ## [Gautam Krishna R](https://github.com/gautamkrishnar)
