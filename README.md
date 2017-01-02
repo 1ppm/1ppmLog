@@ -58,3 +58,18 @@ There are two 1PPM ideas open for volunteers who are  looking for projects: [#38
 
 Regards,  
 Gerhard
+
+## 02.01.2017 - 1ppm.club
+
+Hello 1PPM Community,
+
+Woha, 150 forks and counting! So we are looking forward to **1800+ new projects** in 2017? Now that would be something!
+
+Also, almost 40 challengers have already entered the hall of fame. Lots of great stuff there, go have a look around!
+
+In the meantime, I've set up a landing page for [1ppm.club](http://1ppm.club). However, there were some problems with the hexo-excerpt plugin. Any help in this matter would be appreciated, simply contact 1ppm in Slack.
+
+Have a productive week,
+
+Regards,
+Gerhard
