@@ -149,4 +149,8 @@ Add your projects to the end of this List!
 |2017/01 |[ViewMe](https://github.com/TestMarrko/ViewMe)        | View any type of file on OS X (Starting with pictures). | Planning |
 
 
-## You?
+## [JosephVC](https://github.com/JosephVC)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|01/2017 | Intranet App                                         | A Django app for work                          |
