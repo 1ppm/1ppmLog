@@ -265,3 +265,9 @@ Add your projects to the end of this List!
 |1/2017 | [TopShots](https://topshots.co/)     |Top shots for any Dribbble user for 2016. Inspired by best of 9 for instagram |Released|
 
 
+
+## [recepinanc](https://github.com/cityzen)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | Simple Ruby Game                                 | A simple ruby game to sharpen my ruby skills | Planning |
