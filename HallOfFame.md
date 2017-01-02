@@ -255,7 +255,7 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-|1/2011 | [Repo](https://github.com/joshcanhelp/harvest-billable-time)     | Keep track of working, billable, and non-billable time in browser using Harvest |Started previously, WIP|
+|1/2017 | [Repo](https://github.com/joshcanhelp/harvest-billable-time)     | Keep track of working, billable, and non-billable time in browser using Harvest |Started previously, WIP|
 
 
 ## [mubashariqbal](https://github.com/mubashariqbal)
