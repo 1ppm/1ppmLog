@@ -173,6 +173,13 @@ Add your projects to the end of this List!
 |2017/01 |[ViewMe](https://github.com/TestMarrko/ViewMe)        | View any type of file on OS X (Starting with pictures). | Planning |
 
 
+
+## [JosephVC](https://github.com/JosephVC)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|01/2017 | Intranet App                                         | A Django app for work                          |
+
 ## [jfoucher](https://github.com/jfoucher)
 
 |Month   |Project                                               |Description             | Status                |
@@ -324,4 +331,5 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS | Planning |
+
 
