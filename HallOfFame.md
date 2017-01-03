@@ -353,3 +353,8 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [pi-arcade-system](https://github.com/benwicks/pi-arcade-system)     | Raspberry Pi NES Emulator with 2 Arduino USB controllers | Planning |
 
+
+## [kenangel](https://github.com/kenangel)
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | Retrofit mame cab to retropie  | replace old arcade cab with x-arcade and pi3 | Planning|
