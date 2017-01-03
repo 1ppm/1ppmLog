@@ -136,6 +136,22 @@ Add your projects to the end of this List!
 |01/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. |
 |02/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
 
+## [brooksgarrett](https://github.com/brooksgarrett)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|01/2017 | [GA Fire Weather](https://github.com/brooksgarrett/GAFireWeather) | An Alexa skill for looking up the current and forecasted NFDRS danger class for a region inside Georgia, USA. Data is retreived from http://weather.gfc.state.ga.us/. No special hardware or permissions are needed. |
+|02/2017 | []() | |
+|03/2017 | []() | |
+|04/2017 | []() | |
+|05/2017 | []() | |
+|06/2017 | []() | |
+|07/2017 | []() | |
+|08/2017 | []() | |
+|09/2017 | []() | |
+|10/2017 | []() | |
+|11/2017 | []() | |
+|12/2017 | []() | |
 
 ## [Oyewale Ademola](https://github.com/saopayne)
 
@@ -238,7 +254,8 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-|01/2017 |[8Chip](https://github.com/pcstl/8chip) | A [CHIP-8](https://en.wikipedia.org/wiki/Chip-8) emulator. | Started |
+|01/2017 |[8Chip](https://github.com/pcstl/8chip) | A [CHIP-8](https://en.wikipedia.org/wiki/Chip-8) emulator. | Started  |
+|02/2017 |Personal website                        | A prototype of my personal website.                        | Planning |
  
 ## [kiran](https://github.com/chauhankiran)
 
@@ -263,7 +280,7 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-|1/2011 | [Repo](https://github.com/joshcanhelp/harvest-billable-time)     | Keep track of working, billable, and non-billable time in browser using Harvest |Started previously, WIP|
+|1/2017 | [Repo](https://github.com/joshcanhelp/harvest-billable-time)     | Keep track of working, billable, and non-billable time in browser using Harvest |Started previously, WIP|
 
 
 ## [mubashariqbal](https://github.com/mubashariqbal)
@@ -287,6 +304,12 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [safetydb.io](https://safetydb.io)                   | A tool to check dependencies for security vulnerabilities | Planning |
+
+
+## [Dylan Marriott](https://github.com/d-32)
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [PhotoCluster](https://github.com/D-32/1ppm#01-photocluster)                   | App to filter photos by creating clusters (iOS) | Planning |
 
 
 ## [jakekschwartz](https://github.com/jakekschwartz)
