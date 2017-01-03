@@ -3,23 +3,24 @@
 Add your projects to the end of this List!
 
 **Notes:**
+- If you would like to be mentionend on **twitter**, e.g. when project of the day (#POD), add your handle in brackets next to your name/nickname, for example **"ggerhard (@gerji)"**
 - Make sure you checked out/merged the latest version of this page
-- Add a status column if you like:
+- Please add a state column:
   - Planning = Not started coding yet
   - Started = Coding
-  - Done = Project is done / released
+  - Released = Project is released
   - Continued = Someone will continue working on this project
   - Cancelled (?) - No result at all. Would be interesting to hear what happened though.
 
 ---
 
-## [ggerhard](https://github.com/ggerhard)
+## [ggerhard](https://github.com/ggerhard) (@gerji)
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-|11/2016 | [parsecal](https://github.com/ggerhard/parsecal)     | A ruby script to parse an iCal calendar and create a spreadsheet report |Done|
-|12/2016 | [node-pdf-service](https://github.com/ggerhard/node-pdf-service)     | RESTful PDF creation Service with NodeJS / Express / PhantomJS / Docker |Done|
-|01/2017 | [1ppm.github.io](https://github.com/1ppm/1ppm.github.io)     | 1ppm.club Website MVP | Planning |
+|11/2016 | [parsecal](https://github.com/ggerhard/parsecal)     | A ruby script to parse an iCal calendar and create a spreadsheet report |Released|
+|12/2016 | [node-pdf-service](https://github.com/ggerhard/node-pdf-service)     | RESTful PDF creation Service with NodeJS / Express / PhantomJS / Docker |Released|
+|01/2017 | [1ppm.github.io](https://github.com/1ppm/1ppm.github.io)     | 1ppm.club Website MVP | Started |
 
 ## [aguaviva](https://github.com/aguaviva)
 
@@ -263,7 +264,7 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |01/2017 |[8Chip](https://github.com/pcstl/8chip) | A [CHIP-8](https://en.wikipedia.org/wiki/Chip-8) emulator. | Started  |
 |02/2017 |Personal website                        | A prototype of my personal website.                        | Planning |
- 
+
 ## [kiran](https://github.com/chauhankiran)
 
 |Month   |Project                                               |Description            |Status                  |
@@ -331,5 +332,3 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS | Planning |
-
-
