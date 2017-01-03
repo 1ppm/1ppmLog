@@ -332,3 +332,10 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS | Planning |
+
+
+## [benwicks](https://github.com/benwicks)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [pi-arcade-system](https://github.com/benwicks/pi-arcade-system)     | Raspberry Pi NES Emulator with 2 Arduino USB controllers | Planning |
