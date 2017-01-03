@@ -306,6 +306,13 @@ Add your projects to the end of this List!
 |01/2017 | [safetydb.io](https://safetydb.io)                   | A tool to check dependencies for security vulnerabilities | Planning |
 
 
+## [VladimirRubin](https://github.com/VladimirRubin)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [1ppmHallOfFameParse](https://github.com/VladimirRubin/1ppmHallOfFameParser)                   | 1ppm HallOfFame MD to JSON parser! | Started |
+
+
 ## [Dylan Marriott](https://github.com/d-32)
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
@@ -317,3 +324,4 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS | Planning |
+
