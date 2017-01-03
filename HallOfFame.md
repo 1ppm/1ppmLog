@@ -173,6 +173,11 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |2017/01 |[ViewMe](https://github.com/TestMarrko/ViewMe)        | View any type of file on OS X (Starting with pictures). | Planning |
 
+## [eddiekollar](https://github.com/eddiekollar)
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2017/01 |[VoiceNotes](https://github.com/eddiekollar/VoiceNotes)| React Native App for taking notes using your voice  | Planning |
 
 
 ## [JosephVC](https://github.com/JosephVC)
