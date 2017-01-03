@@ -9,8 +9,9 @@ Here is an Article on how to come up with project ideas: "[12 Months / 12 Side P
 
 To get started:
 
-1. Fork this repository
-2. Start a new section in [HallOfFame.md](HallOfFame.md) with your name/nickname as title and add a description of your projects + links to repository or articles  
+0. Create a GitHub account if needed
+1. Fork this repository ("Fork" Button in the top right corner)
+2. Start a new section in [HallOfFame.md](HallOfFame.md) with your name/nickname as title, a twitter handle if present and add a description of your projects. Add a link to GitHub repository, Website, Blog etc if present. You can simpy use the GitHub editor to edit in your browser: ![brower edit](img/browser_edit.png)   
 3. Make a [pull request](http://kbroman.org/github_tutorial/pages/fork.html) to merge your changes back
 4. Join 1ppm on [Slack](https://1ppmclub.slack.com) - until auto-invite is working, you can request an invite via mail [1ppm@1ppm.club](mailto:1ppm@1ppm.club), Subject "Slack Access".
 
