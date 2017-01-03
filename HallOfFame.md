@@ -293,4 +293,4 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-|01/2017 | Unnamed budgeting app (backend)      | A backend server that pulls transaction data from bank accounts | Planning |
+|01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS | Planning |
