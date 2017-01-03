@@ -1,0 +1,828 @@
+[
+    {
+        "username": "aguaviva",
+        "githubUrl": "https://github.com/aguaviva",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201611": {
+                    "name": "Physics engine",
+                    "description": "Physics engine, along with a short tutorial on constraints (runs in browser)",
+                    "status": ""
+                }
+            },
+            {
+                "201612": {
+                    "name": "Neural network",
+                    "description": "Neural network classifier, includes tutorial on backpropagation (runs in browser)",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "cityzen",
+        "githubUrl": "https://github.com/cityzen",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "Simple Documentation",
+                    "description": "A minimal documentation/walkthrough app to create documentation for both desktop and mobile",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "dannav",
+        "githubUrl": "https://github.com/dannav",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "linenum",
+                    "description": "A curator for tech and maker articles",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "lakshaykalbhor",
+        "githubUrl": "https://github.com/lakshaykalbhor",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201612": {
+                    "name": "MusicRepair",
+                    "description": "A python script to add album art and metadata to all music files",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "Hardenberg",
+        "githubUrl": "https://github.com/Hardenberg",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "ZooCli",
+                    "description": "a small Desptop Cookie-Clicker :-)",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "darcinc",
+        "githubUrl": "https://github.com/DarcInc",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "Go Feed Forward",
+                    "description": "A simple feed forward network in Go",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "ariefwt",
+        "githubUrl": "https://github.com/ariefwt",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "Earthquator",
+                    "description": "Telegram bot and channel that publishes earthquake news from USGS data feed into Telegram",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "Amar Lakshya",
+        "githubUrl": "https://github.com/amar-laksh",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201605": {
+                    "name": "focusTV",
+                    "description": "Bing-watch easily with Python and OPENCV",
+                    "status": ""
+                }
+            },
+            {
+                "201609": {
+                    "name": "TryingToKnowYouBetter",
+                    "description": "Easy people tracking (for most of the India)",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "cameronbird6",
+        "githubUrl": "https://github.com/cameronbird6/",
+        "otherUrl": "",
+        "projects": [
+            {
+                "20171": {
+                    "name": "LaraMon",
+                    "description": "A server monitor with history built in Laravel",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "mukeshthawani",
+        "githubUrl": "https://github.com/mukeshthawani",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201612": {
+                    "name": "FAQView",
+                    "description": "An easy to use FAQ view for iOS written in Swift",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "azurelogic",
+        "githubUrl": "https://github.com/azurelogic",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "AwsHomeNetworkToolkit",
+                    "description": "[In progress] Get notifications when your home network is down and keep dynamic DNS up to date all with AWS",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "AlexKeyes",
+        "githubUrl": "https://github.com/alex-keyes",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "PHP Cowsay",
+                    "description": "Cowsay written in PHP",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "gutfeeling",
+        "githubUrl": "https://github.com/gutfeeling",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201610": {
+                    "name": "python-boilerpipe",
+                    "description": "Python 3 support for python-boilerpipe",
+                    "status": ""
+                }
+            },
+            {
+                "201611": {
+                    "name": "word_forms",
+                    "description": "Accurately generate all possible forms of an English word e.g \"election\" --> \"elect\", \"electoral\", \"electorate\" etc.",
+                    "status": ""
+                }
+            },
+            {
+                "201612": {
+                    "name": "djangohero",
+                    "description": "The fastest way to set up a Django project on the cloud (using Heroku)",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "Timopheym",
+        "githubUrl": "https://github.com/timopheym",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "Audition",
+                    "description": "Platform to train your ear for music",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "asweingarten",
+        "githubUrl": "https://github.com/asweingarten",
+        "otherUrl": "",
+        "projects": [
+            {
+                "20171": {
+                    "name": "architect",
+                    "description": "Tiled Content",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "RHelman",
+        "githubUrl": "https://github.com/RHelman",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "Retro pi",
+                    "description": "Start learning raspberry pi by creating a retro pi console for my kids",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "zitterbewegung",
+        "githubUrl": "https://github.com/zitterbewegung",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "dataknife",
+                    "description": "A command line tool that can convert tabular data from one format to another.",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "brooksgarrett",
+        "githubUrl": "https://github.com/brooksgarrett",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "GA Fire Weather",
+                    "description": "An Alexa skill for looking up the current and forecasted NFDRS danger class for a region inside Georgia, USA. Data is retreived from http://weather.gfc.state.ga.us/. No special hardware or permissions are needed.",
+                    "status": ""
+                }
+            },
+            {
+                "201702": {
+                    "name": "",
+                    "description": "",
+                    "status": ""
+                }
+            },
+            {
+                "201703": {
+                    "name": "",
+                    "description": "",
+                    "status": ""
+                }
+            },
+            {
+                "201704": {
+                    "name": "",
+                    "description": "",
+                    "status": ""
+                }
+            },
+            {
+                "201705": {
+                    "name": "",
+                    "description": "",
+                    "status": ""
+                }
+            },
+            {
+                "201706": {
+                    "name": "",
+                    "description": "",
+                    "status": ""
+                }
+            },
+            {
+                "201707": {
+                    "name": "",
+                    "description": "",
+                    "status": ""
+                }
+            },
+            {
+                "201708": {
+                    "name": "",
+                    "description": "",
+                    "status": ""
+                }
+            },
+            {
+                "201709": {
+                    "name": "",
+                    "description": "",
+                    "status": ""
+                }
+            },
+            {
+                "201710": {
+                    "name": "",
+                    "description": "",
+                    "status": ""
+                }
+            },
+            {
+                "201711": {
+                    "name": "",
+                    "description": "",
+                    "status": ""
+                }
+            },
+            {
+                "201712": {
+                    "name": "",
+                    "description": "",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "Oyewale Ademola",
+        "githubUrl": "https://github.com/saopayne",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "DTRR",
+                    "description": "This is a Android project example to showcase integration of Dependency Injection (Dagger 2) ,Retrofit ,Unit Testing (Junit), RxJava (ReactiveX",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "mechasparrow",
+        "githubUrl": "https://github.com/mechasparrow",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201612": {
+                    "name": "cybernotes",
+                    "description": "A online note taking platform",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "TestMarrko",
+        "githubUrl": "https://github.com/TestMarrko",
+        "otherUrl": "",
+        "projects": [
+            {
+                "012017": {
+                    "name": "ViewMe",
+                    "description": "View any type of file on OS X (Starting with pictures).",
+                    "status": "Planning"
+                }
+            }
+        ]
+    },
+    {
+        "username": "eddiekollar",
+        "githubUrl": "https://github.com/eddiekollar",
+        "otherUrl": "",
+        "projects": [
+            {
+                "012017": {
+                    "name": "VoiceNotes",
+                    "description": "React Native App for taking notes using your voice",
+                    "status": "Planning"
+                }
+            }
+        ]
+    },
+    {
+        "username": "JosephVC",
+        "githubUrl": "https://github.com/JosephVC",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "Intranet App",
+                    "description": "A Django app for work",
+                    "status": ""
+                }
+            }
+        ]
+    },
+    {
+        "username": "jfoucher",
+        "githubUrl": "https://github.com/jfoucher",
+        "otherUrl": "",
+        "projects": [
+            {
+                "012017": {
+                    "name": "Budget",
+                    "description": "Offline budget tracker with online sync capability",
+                    "status": "Coding"
+                }
+            }
+        ]
+    },
+    {
+        "username": "Levi Bostian",
+        "githubUrl": "",
+        "otherUrl": "https://twitter.com/levibostian",
+        "projects": [
+            {
+                "122016": {
+                    "name": "Life of Levi podcast",
+                    "description": "Podcast audio version of my blog.",
+                    "status": "Released"
+                }
+            },
+            {
+                "122016": {
+                    "name": "Curiosity IO website",
+                    "description": "Website for freelance mobile app dev.",
+                    "status": "Released"
+                }
+            },
+            {
+                "122016": {
+                    "name": "levibostian.com",
+                    "description": "Personal website.",
+                    "status": "Released"
+                }
+            }
+        ]
+    },
+    {
+        "username": "davidseah",
+        "githubUrl": "https://github.com/davidseah",
+        "otherUrl": "",
+        "projects": [
+            {
+                "012017": {
+                    "name": "Vulkan graphics engine",
+                    "description": "A graphics engine that runs on Vulkan API",
+                    "status": "Planning"
+                }
+            }
+        ]
+    },
+    {
+        "username": "smhutch",
+        "githubUrl": "https://github.com/smhutch",
+        "otherUrl": "",
+        "projects": [
+            {
+                "112016": {
+                    "name": "smhutch.co.uk",
+                    "description": "Redesigned Personal site",
+                    "status": "Released ✅"
+                }
+            },
+            {
+                "122016": {
+                    "name": "Next Up Trello",
+                    "description": "Chrome Extension to view due Trello tickets",
+                    "status": "Released ✅"
+                }
+            },
+            {
+                "012017": {
+                    "name": "EasyInvoice",
+                    "description": "Front End for invoice generator",
+                    "status": "Planning"
+                }
+            }
+        ]
+    },
+    {
+        "username": "bheesma",
+        "githubUrl": "https://github.com/bheesma",
+        "otherUrl": "",
+        "projects": [
+            {
+                "122016": {
+                    "name": "Angular Star Rating Component",
+                    "description": "Star rating component written in angular",
+                    "status": "Done"
+                }
+            }
+        ]
+    },
+    {
+        "username": "strathausen",
+        "githubUrl": "https://github.com/strathausen",
+        "otherUrl": "",
+        "projects": [
+            {
+                "012017": {
+                    "name": "hallelujah.blog",
+                    "description": "blogging platform with bible search wizzard",
+                    "status": "In progress"
+                }
+            },
+            {
+                "022017": {
+                    "name": "gps map travel blog",
+                    "description": "travel blog with gps and map",
+                    "status": "Planning"
+                }
+            }
+        ]
+    },
+    {
+        "username": "ifvictr",
+        "githubUrl": "https://github.com/ifvictr",
+        "otherUrl": "",
+        "projects": [
+            {
+                "112016": {
+                    "name": "Faceclash",
+                    "description": "Faceclash is a fully revamped version of Mark Zuckerberg's Facemash, with its own special sauce.",
+                    "status": "Released"
+                }
+            },
+            {
+                "122016": {
+                    "name": "Oca",
+                    "description": "A URL shortener that has a clean design, and is easy to use. Finally.",
+                    "status": "Released"
+                }
+            }
+        ]
+    },
+    {
+        "username": "fuxes",
+        "githubUrl": "",
+        "otherUrl": "https://twitter.com/fuxes_",
+        "projects": [
+            {
+                "201612": {
+                    "name": "fuxes.github.io",
+                    "description": "Personal blog",
+                    "status": "Released"
+                }
+            },
+            {
+                "201701": {
+                    "name": "SocialAlgo",
+                    "description": "A crowdspeaking platform for supporting NGOs campaigns. Spread massively and get awareness of your social campaigns through the help of your supporters",
+                    "status": "Started"
+                }
+            }
+        ]
+    },
+    {
+        "username": "Gautam Krishna R",
+        "githubUrl": "https://github.com/gautamkrishnar",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201610": {
+                    "name": "ASTRA",
+                    "description": "A fully integrated workflow management system for government offices with built in queuing and complaint registration system",
+                    "status": "Released"
+                }
+            },
+            {
+                "20168": {
+                    "name": "TcSO",
+                    "description": "Try Catch Stack overflow (TcSo) Is a collection of Try statements in all the programming languages under the globe which catches the exception and searches for the cause of the caught exception in the stack overflow automatically.",
+                    "status": "Released"
+                }
+            },
+            {
+                "20167": {
+                    "name": "Be like Bill",
+                    "description": "Be Like Bill meme generator and API created with PHP, Using this API you can include customized version of \"Be like Bill\" meme on your website.",
+                    "status": "Released"
+                }
+            },
+            {
+                "20167": {
+                    "name": "SoCLI",
+                    "description": "Stack overflow command line client. Search and browse stack overflow without leaving the terminal",
+                    "status": "Released"
+                }
+            },
+            {
+                "20165": {
+                    "name": "Profanity finder js",
+                    "description": "Simple profanity finding library for javascript to detect swear language.Created for nodejs.",
+                    "status": "Released"
+                }
+            }
+        ]
+    },
+    {
+        "username": "focuswish",
+        "githubUrl": "https://github.com/focuswish",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "ScheduleText",
+                    "description": "A whimsical tool for scheduling SMS reminders.",
+                    "status": "In progress"
+                }
+            },
+            {
+                "201702": {
+                    "name": "FormCandy",
+                    "description": "A curated collection of tools to design better forms.",
+                    "status": "In progress"
+                }
+            }
+        ]
+    },
+    {
+        "username": "pcstl",
+        "githubUrl": "https://github.com/pcstl",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "8Chip",
+                    "description": "A [CHIP-8](https://en.wikipedia.org/wiki/Chip-8) emulator.",
+                    "status": "Started"
+                }
+            },
+            {
+                "201702": {
+                    "name": "Personal website",
+                    "description": "A prototype of my personal website.",
+                    "status": "Planning"
+                }
+            }
+        ]
+    },
+    {
+        "username": "kiran",
+        "githubUrl": "https://github.com/chauhankiran",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "Making a Theme For GNU/Linux",
+                    "description": "A little book on how to make a theme for GNU/Linux system using gtk-3.0.",
+                    "status": "In progress"
+                }
+            }
+        ]
+    },
+    {
+        "username": "decagon",
+        "githubUrl": "https://github.com/decagon",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201511": {
+                    "name": "star.js",
+                    "description": "A node library to automatically correct typos in messages based on the next message you send*.",
+                    "status": "Continued"
+                }
+            }
+        ]
+    },
+    {
+        "username": "tropicColin",
+        "githubUrl": "https://github.com/colinrtaylor",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201612": {
+                    "name": "Live List",
+                    "description": "Create and share list with friends. See live updates between shared lists. Using React + Firebase.",
+                    "status": "Released ✅ (WIP)"
+                }
+            }
+        ]
+    },
+    {
+        "username": "joshcanhelp",
+        "githubUrl": "https://github.com/joshcanhelp",
+        "otherUrl": "",
+        "projects": [
+            {
+                "20171": {
+                    "name": "Repo",
+                    "description": "Keep track of working, billable, and non-billable time in browser using Harvest",
+                    "status": "Started previously, WIP"
+                }
+            }
+        ]
+    },
+    {
+        "username": "mubashariqbal",
+        "githubUrl": "https://github.com/mubashariqbal",
+        "otherUrl": "",
+        "projects": [
+            {
+                "20171": {
+                    "name": "TopShots",
+                    "description": "Top shots for any Dribbble user for 2016. Inspired by best of 9 for instagram",
+                    "status": "Released"
+                }
+            }
+        ]
+    },
+    {
+        "username": "recepinanc",
+        "githubUrl": "https://github.com/cityzen",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "Simple Ruby Game",
+                    "description": "A simple ruby game to sharpen my ruby skills",
+                    "status": "Planning"
+                }
+            }
+        ]
+    },
+    {
+        "username": "jayfk",
+        "githubUrl": "https://github.com/jayfk",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "safetydb.io",
+                    "description": "A tool to check dependencies for security vulnerabilities",
+                    "status": "Planning"
+                }
+            }
+        ]
+    },
+    {
+        "username": "VladimirRubin",
+        "githubUrl": "https://github.com/VladimirRubin",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "1ppmHallOfFameParse",
+                    "description": "1ppm HallOfFame MD to JSON parser!",
+                    "status": "Started"
+                }
+            }
+        ]
+    },
+    {
+        "username": "Dylan Marriott",
+        "githubUrl": "https://github.com/d-32",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "PhotoCluster",
+                    "description": "App to filter photos by creating clusters (iOS)",
+                    "status": "Planning"
+                }
+            }
+        ]
+    },
+    {
+        "username": "jakekschwartz",
+        "githubUrl": "https://github.com/jakekschwartz",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "recipe-scraper",
+                    "description": "An HTML parser that looks for schema.org recipes using ScalaJS",
+                    "status": "Planning"
+                }
+            }
+        ]
+    },
+    {
+        "username": "benwicks",
+        "githubUrl": "https://github.com/benwicks",
+        "otherUrl": "",
+        "projects": [
+            {
+                "201701": {
+                    "name": "pi-arcade-system",
+                    "description": "Raspberry Pi NES Emulator with 2 Arduino USB controllers",
+                    "status": "Planning"
+                }
+            }
+        ]
+    }
+]
