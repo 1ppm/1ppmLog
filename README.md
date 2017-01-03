@@ -73,3 +73,20 @@ Have a productive week,
 
 Regards,
 Gerhard
+
+## 03.01.2017 - 1PPM Rocket Launcher
+
+Hello 1PPM Community,
+
+Just a few days, and 1PPM already inspired me to yet another side-side-...project. I'm presenting you : project **[Rocket Launch](https://github.com/1ppm/RocketLaunch)** . It's about providing motivation and inspiration, encouraging and boosting project launches.
+
+ Also, since 1PPM is step by step attracting new members and twitter followers, this should give **you** the chance harness the **power of the community** for your promising projects (so bring your friends in ;)).
+
+ I hope that "Rocket Launch" will eventually attract new club members, which will the Rocket Launcher more powerfull and so on. You see where this is going :)
+
+Have a look at the project, contribute and discuss with me via [1ppm.club](http://1ppm.club) and slack about it!
+
+**Note: Please do not post about Rocket Launch on Hacker News etc.** When it's time, Rocket Launch is going to be launched...via Rocket Launch (launching itself, now how cool is that ;)
+
+Regards,  
+Gerhard
