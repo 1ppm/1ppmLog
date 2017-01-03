@@ -82,7 +82,7 @@ Just a few days, and 1PPM already inspired me to yet another side-side-...projec
 
  Also, since 1PPM is step by step attracting new members and twitter followers, this should give **you** the chance harness the **power of the community** for your promising projects (so bring your friends in ;)).
 
- I hope that "Rocket Launch" will eventually attract new club members, which will the Rocket Launcher more powerfull and so on. You see where this is going :)
+ I hope that "Rocket Launch" will eventually attract new club members, which will make the Rocket Launcher more powerfull and so on. You see where this is going :)
 
 Have a look at the project, contribute and discuss with me via [1ppm.club](http://1ppm.club) and slack about it!
 
