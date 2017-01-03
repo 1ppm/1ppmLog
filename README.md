@@ -87,7 +87,7 @@ Just a few days, and 1PPM already inspired me to yet another side-side-...projec
 
  I hope that "Rocket Launch" will eventually attract new club members, which will make the Rocket Launcher more powerfull and so on. You see where this is going :)
 
-Have a look at the project, contribute and discuss with me via [1ppm.club](http://1ppm.club) and slack about it!
+Have a look at the project, contribute and discuss with me via [1ppm@1ppm.club](mailto:1ppm@1ppm.club) and slack about it!
 
 **Note: Please do not post about Rocket Launch on Hacker News etc.** When it's time, Rocket Launch is going to be launched...via Rocket Launch (launching itself, now how cool is that ;)
 
