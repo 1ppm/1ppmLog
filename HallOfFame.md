@@ -16,4 +16,9 @@ Add your projects to this List!
 |--------|------------------------------------------------------|------------------------------------------------|
 |12/2016 | [MusicRepair](https://github.com/lakshaykalbhor/musicrepair) | A python script to add album art and metadata to all music files |
 
+## [Hardenberg](https://github.com/Hardenberg)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|01/2017 | ZooCli| a small Desptop Cookie-Clicker :-) |
 
