@@ -12,3 +12,8 @@
 [aguaviva](https://github.com/aguaviva) - 11/2016 -	[Physics engine](https://github.com/aguaviva/Physics),	JavaScript physics simulations, along with a short tutorial on constraints (runs in browser)
 
 [lakshaykalbhor](https://github.com/lakshaykalbhor) - 12/2016 - |12/2016 | [MusicRepair](https://github.com/lakshaykalbhor/musicrepair), A python script to add album art and metadata to all music files (already 476 Stars!)
+
+## 4.1.2017
+[gutfeeling](https://github.com/gutfeeling) - 11/2016 - [word_forms](https://github.com/gutfeeling/word_forms), Accurately generate all possible forms of an English word e.g "election" --> "elect", "electoral", "electorate" etc. (171 Stars + 10 Forks)
+
+[RHelman](https://github.com/RHelman) - 01/2017 - [Retro pi](https://retropie.org.uk/), Start learning raspberry pi by creating a retro pi console for my kids (a role model for the next generation of makers)
