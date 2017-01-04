@@ -358,3 +358,11 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | Retrofit mame cab to retropie  | replace old arcade cab with x-arcade and pi3 | Planning|
+
+
+## [retrocede](https://github.com/retrocede)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [umbrella-scheduler](https://github.com/retrocede/umbrella-scheduler) | Personal Scheduling and todo list tool. | Planning |
+
