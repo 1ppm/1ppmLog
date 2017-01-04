@@ -32,7 +32,7 @@ The 1PPM [Rocket Launch](https://github.com/1ppm/RocketLaunch) program is thrill
 
 |Time   |Project  |Description |Platform | Twitter | Feedback Channel| Campaign Link |
 |-------|---------|------------|---------|---------|-----------------|---------------|
-|01/05/16 15:30 CET, 6:30 PST, 9:30 EST| Article | [Validating a business idea with a $50 budget](https://medium.com/1ppm/validating-a-business-idea-with-a-50-budget-890eccae457a#.ode9vyp0u) | [Hacker News](https://news.ycombinator.com/newest) | - | TBA |
+|01/05/16 15:30 CET, 6:30 PST, 9:30 EST| Article | [Validating a business idea with a $50 budget](https://medium.com/1ppm/validating-a-business-idea-with-a-50-budget-890eccae457a#.ode9vyp0u) | [Hacker News](https://news.ycombinator.com/newest) | - | jayfk | TBA on Slack |
 
 Have a look at jayfk's article and if you like it please support!
 
