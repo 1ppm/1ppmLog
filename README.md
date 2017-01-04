@@ -26,6 +26,19 @@ We are excited to hear from your projects!
 PS.: Looking for collaborators, want to discuss ideas or improve 1PPM - feel free to use the *issue tracker*! Interested in the 1PPM site development process? Join "sitedev" on Slack!
 
 ---
+# Upcoming Launches
+
+The 1PPM [Rocket Launch](https://github.com/1ppm/RocketLaunch) program is thrilled to announce the first launch of a 1PPM project on a major platform:
+
+|Time   |Project  |Description |Platform | Twitter | Feedback Channel| Campaign Link |
+|-------|---------|------------|---------|---------|-----------------|---------------|
+|01/05/16 15:30 CET, 6:30 PST, 9:30 EST| Article | [Validating a business idea with a $50 budget](https://medium.com/1ppm/validating-a-business-idea-with-a-50-budget-890eccae457a#.ode9vyp0u) | [Hacker News](https://news.ycombinator.com/newest) | - | TBA |
+
+Have a look at jayfk's article and if you like it please support!
+
+Watch out for announcements on Twitter!
+
+---
 # News
 
 ## 03.01.2017 - 1PPM Rocket Launcher
