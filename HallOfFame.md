@@ -360,9 +360,17 @@ Add your projects to the end of this List!
 |01/2017 | Retrofit mame cab to retropie  | replace old arcade cab with x-arcade and pi3 | Planning|
 
 
+
 ## [retrocede](https://github.com/retrocede)
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [umbrella-scheduler](https://github.com/retrocede/umbrella-scheduler) | Personal Scheduling and todo list tool. | Planning |
+
+
+## [hashhar](https://github.com/hashhar) (@hashhar)
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [gitattributes extension for VSCode](https://github.com/hashhar/vscode-gitattributes)  | Pull `.gitattributes` from GitHub and merge them into your local `.gitattributes` file | Released |
+|01/2017 | [stackoverflow shell](https://github.com/hashhar/stackoverflow-shell) | A .NET Core console app to use stackoverflow.com from a terminal. Will be unit testable and well designed. | Planning |
 
