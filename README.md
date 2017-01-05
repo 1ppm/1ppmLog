@@ -1,10 +1,10 @@
 # The 1PPM Challenge
 
-"One Project per Month" is a challenge for developers, makers and creatives. Its about accelerated learning, avoiding over engineering and getting things done. Find out more about the 1PPM in "[The 1PPM-Challenge](https://medium.com/1ppm/the-1ppm-challenge-eaed5df0ef5a#.oejtaqmy0)"
+"One Project per Month" is a challenge for developers, makers and creatives. It's about accelerated learning, avoiding over engineering and getting things done. Find out more about the 1PPM in "[The 1PPM-Challenge](https://medium.com/1ppm/the-1ppm-challenge-eaed5df0ef5a#.oejtaqmy0)"
 
 ## Get Started!
 
-Here is an Article on how to come up with project ideas: "[12 Months / 12 Side Projects - Are you in?](https://medium.com/@gerji/12-months-12-side-projects-are-you-in-c395dbcd648e#.qle34253j)". Note that 1PPM projects can be anything, as long as it has a result, you learned something and is a one month project. So it could be an article, an online course certificate, a github project etc. Contributions to [open source projects](https://github.com/FreeCodeCamp/how-to-contribute-to-open-source)  are especially welcome!
+Here is an article on how to come up with project ideas: "[12 Months / 12 Side Projects - Are you in?](https://medium.com/@gerji/12-months-12-side-projects-are-you-in-c395dbcd648e#.qle34253j)". Note that 1PPM projects can be anything, as long as it has a result, you learned something and it is a one month project. So it could be an article, an online course certificate, a github project etc. Contributions to [open source projects](https://github.com/FreeCodeCamp/how-to-contribute-to-open-source)  are especially welcome!
 
 
 To get started:
