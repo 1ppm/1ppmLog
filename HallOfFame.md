@@ -374,3 +374,8 @@ Add your projects to the end of this List!
 |01/2017 | [gitattributes extension for VSCode](https://github.com/hashhar/vscode-gitattributes)  | Pull `.gitattributes` from GitHub and merge them into your local `.gitattributes` file | Released |
 |01/2017 | [stackoverflow shell](https://github.com/hashhar/stackoverflow-shell) | A .NET Core console app to use stackoverflow.com from a terminal. Will be unit testable and well designed. | Planning |
 
+## [josephbhunt](https://github.com/josephbhunt)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | rails-request-color | Easily distiguish between requests to your rails app with alternating colors | Planning |
