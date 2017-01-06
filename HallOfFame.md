@@ -389,3 +389,11 @@ Add your projects to the end of this List!
 |12/2016 | [LoudHailer](https://github.com/qabbasi/Loudhailer) | A mnmlst voice recognition app based on Akka Streams, wit.ai (aka NLP as service) and Firebase for messaging. | Released |
 |01/2017 | [dailyprogrammer](https://github.com/qabbasi/dailyprogrammer) | Solved challenges from https://www.reddit.com/r/dailyprogrammer/ | Continued |
 |01/2017 | [pure-spider](https://github.com/qabbasi/pure-spider) | A remote-controlled ESP8266-based Hexapod programmed in Purescript | Started |
+
+## [Stuart P. Bentley](https://github.com/stuartpb) ([@stuartpb](https://twitter.com/stuartpb))
+
+| Month   | Project                                              | Description | State |
+|---------|------------------------------------------------------|-------------|-------|
+| 2017-01 | [Rainpower][]                                        | A personal watchface for my Pebble Time watch showing time, date, watch and phone battery levels, temperature, and precipitation forecast | Started (currently viable but incomplete) |
+
+[Rainpower]: https://github.com/stuartpb/rainpower-watchface
