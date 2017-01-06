@@ -24,6 +24,11 @@
 [tropicColin](https://github.com/colinrtaylor) - 12/2016 - [Live List](react-list-37a1e.firebaseapp.com), [Repo](https://github.com/ColinRTaylor/live-list), Create and share list with friends. See live updates between shared lists. Using React + Firebase.
 
 ## 6.1.2017
-[Faceclash](https://faceclash.ml) - 2016/11 - Faceclash is a fully revamped version of Mark Zuckerberg's Facemash, with its own special sauce.
+[gutfeeling](https://github.com/gutfeeling) - 2016/11 - [Faceclash](https://faceclash.ml) - Faceclash is a fully revamped version of Mark Zuckerberg's Facemash, with its own special sauce.
 
 [smhutch.co.uk](https://smhutch.co.uk/) - 2016/11 - Redesigned Personal site - Lookin good ;)
+
+## 7.1.2016
+[djangohero](https://github.com/gutfeeling/djangohero) - 12/2016 - The fastest way to set up a Django project on the cloud (using Heroku)
+
+[fuxes](https://twitter.com/fuxes_) - 12/2016 - [fuxes.github.io](https://fuxes.github.io), Personal blog
