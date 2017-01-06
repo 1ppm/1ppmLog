@@ -15,7 +15,7 @@ To get started:
 
  ![brower edit](img/browser_edit.png)   
 3. Make a [pull request](http://kbroman.org/github_tutorial/pages/fork.html) to merge your changes back
-4. Join 1ppm on [Slack](https://1ppmclub.slack.com) - until auto-invite is working, you can request an invite via mail [1ppm@1ppm.club](mailto:1ppm@1ppm.club), Subject "Slack Access".
+4. Join 1ppm on [Slack](https://1ppmclub.slack.com) - <script async defer src="https://slack.1ppm.club/slackin.js"></script> [1ppm@1ppm.club](mailto:1ppm@1ppm.club), Subject "Slack Access".
 
 *Too complicated? Please be patient with us. The newly formed 1PPM development team is already working intensively to improve registration and project management. Contact [1ppm@1ppm.club](mailto:1ppm@1ppm.club), Subject "News", so we get back to you when the new version is released.*
 

@@ -17,3 +17,13 @@
 [gutfeeling](https://github.com/gutfeeling) - 11/2016 - [word_forms](https://github.com/gutfeeling/word_forms), Accurately generate all possible forms of an English word e.g "election" --> "elect", "electoral", "electorate" etc. (171 Stars + 10 Forks)
 
 [RHelman](https://github.com/RHelman) - 01/2017 - [Retro pi](https://retropie.org.uk/), Start learning raspberry pi by creating a retro pi console for my kids (a role model for the next generation of makers)
+
+## 5.1.2017
+[mubashariqbal](https://github.com/mubashariqbal) - 1/2017 - [TopShots](https://topshots.co/), Top shots for any Dribbble user for 2016. Inspired by best of 9 for instagram (Released)
+
+[tropicColin](https://github.com/colinrtaylor) - 12/2016 - [Live List](react-list-37a1e.firebaseapp.com), [Repo](https://github.com/ColinRTaylor/live-list), Create and share list with friends. See live updates between shared lists. Using React + Firebase.
+
+## 6.1.2017
+[Faceclash](https://faceclash.ml) - 2016/11 - Faceclash is a fully revamped version of Mark Zuckerberg's Facemash, with its own special sauce.
+
+[smhutch.co.uk](https://smhutch.co.uk/) - 2016/11 - Redesigned Personal site - Lookin good ;)
