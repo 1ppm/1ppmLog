@@ -167,6 +167,7 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
 | 01/2017 | [DTRR](https://github.com/saopayne/DTRR) | This is a Android project example to showcase integration of Dependency Injection (Dagger 2) ,Retrofit ,Unit Testing (Junit), RxJava (ReactiveX |
+| 02/2017 | Groovy-Paystack | A Paystack.co library for developers to integrate into their existing project |
 
 
 ## [mechasparrow](https://github.com/mechasparrow)
@@ -379,3 +380,12 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | rails-request-color | Easily distiguish between requests to your rails app with alternating colors | Planning |
+
+## [qabbasi](https://github.com/qabbasi)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|11/2016 | [qabbasi.github.io](http://qabbasi.github.io) | Personal tech blog | Released |
+|12/2016 | [LoudHailer](https://github.com/qabbasi/Loudhailer) | A mnmlst voice recognition app based on Akka Streams, wit.ai (aka NLP as service) and Firebase for messaging. | Released |
+|01/2017 | [dailyprogrammer](https://github.com/qabbasi/dailyprogrammer) | Solved challenges from https://www.reddit.com/r/dailyprogrammer/ | Continued |
+|01/2017 | [pure-spider](https://github.com/qabbasi/pure-spider) | A remote-controlled ESP8266-based Hexapod programmed in Purescript | Started |
