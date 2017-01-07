@@ -1,6 +1,7 @@
 {
-    users:
+    "users":
     [
+      {
         "username": "aguaviva",
         "githubUrl": "https://github.com/aguaviva",
         "otherUrl": "",
