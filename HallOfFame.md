@@ -397,3 +397,10 @@ Add your projects to the end of this List!
 | 2017-01 | [Rainpower][]                                        | A personal watchface for my Pebble Time watch showing time, date, watch and phone battery levels, temperature, and precipitation forecast | Started (currently viable but incomplete) |
 
 [Rainpower]: https://github.com/stuartpb/rainpower-watchface
+
+## [jupazave](https://github.com/jupazave)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [https://github.com/jupazave/1PPM-Ionic-App](https://github.com/jupazave/1PPM-Ionic-App) | 1PPM Ionic App | Started |
+
