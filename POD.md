@@ -32,3 +32,9 @@
 [djangohero](https://github.com/gutfeeling/djangohero) - 12/2016 - The fastest way to set up a Django project on the cloud (using Heroku)
 
 [fuxes](https://twitter.com/fuxes_) - 12/2016 - [fuxes.github.io](https://fuxes.github.io), Personal blog
+
+## 8.1.2016
+[dannav](https://github.com/dannav) - 01/2017 -  [linenum](https://www.linenum.com), A curator for tech and maker articles
+
+## 9.1.2016
+[lakshaykalbhor](https://github.com/lakshaykalbhor) - [MemeDensity](https://github.com/lakshaykalbhor/MemeDensity), A python script to fetch and tell the number of memes in your facebook newsfeed
