@@ -38,3 +38,8 @@
 
 ## 9.1.2016
 [lakshaykalbhor](https://github.com/lakshaykalbhor) - [MemeDensity](https://github.com/lakshaykalbhor/MemeDensity), A python script to fetch and tell the number of memes in your facebook newsfeed
+
+## 10.1.2016
+
+[bheesma](https://github.com/bheesma) - 2016/12 - https://github.com/Bheesma/angular-rating , Star rating component written in angular
+[LoudHailer](https://github.com/qabbasi/Loudhailer) 12/2016   A mnmlst voice recognition app based on Akka Streams, wit.ai (aka NLP as service) and Firebase for messaging. | Released |
