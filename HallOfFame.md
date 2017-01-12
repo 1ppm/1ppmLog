@@ -404,3 +404,8 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [https://github.com/jupazave/1PPM-Ionic-App](https://github.com/jupazave/1PPM-Ionic-App) | 1PPM Ionic App | Started |
 
+## [dethos](https://github.com/dethos)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | Mic and Cam Monitor | Gives you alerts when your Web-cam and/or Microphone is being used |Planning|
