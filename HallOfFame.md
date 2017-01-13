@@ -172,9 +172,10 @@ Add your projects to the end of this List!
 
 ## [mechasparrow](https://github.com/mechasparrow)
 
-|Month   |Project                                               |Description             |
-|--------|------------------------------------------------------|------------------------------------------------|
-|12/2016 | [cybernotes](http://cybernotes.herokuapp.com)        | A online note taking platform |
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|12/2016 | [cybernotes](http://cybernotes.herokuapp.com)        | A online note taking platform                  |Released|
+|1/2017 | [MusicList](https://musiclist.github.io)             | A simple list app for your music               |Released|
 
 ## [TestMarrko](https://github.com/TestMarrko)
 
