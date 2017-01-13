@@ -175,6 +175,7 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
 |12/2016 | [cybernotes](http://cybernotes.herokuapp.com)        | A online note taking platform |
+|1/2017  | [MusicList](https://musiclist.github.io)             | A simple list app for your music |
 
 ## [TestMarrko](https://github.com/TestMarrko)
 
