@@ -311,6 +311,8 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |1/2017 | [TopShots](https://topshots.co/)     |Top shots for any Dribbble user for 2016. Inspired by best of 9 for instagram |Released|
+|1/2017 | [500products](http://500products.com/)     |A forever changing list of the Top 500 Products on Product Hunt |Released|
+|1/2017 | [TopLists](https://toplists.xyz/)     |A Leaderboard for Twitter Lists |Released|
 
 
 
