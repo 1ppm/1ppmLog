@@ -196,11 +196,11 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|
 |01/2017 | Intranet App                                         | A Django app for work                          |
 
-## [jfoucher](https://github.com/jfoucher) ([@jfoucher](https://twitter.com/jfoucher))
+## [jfoucher](https://github.com/jfoucher)
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-|2017/01 |[Budgt](https://budgt.eu)        | Offline budget tracker with online sync capability | Released |
+|2017/01 |[Budget](https://github.com/jfoucher/budjetTracker)        | Offline budget tracker with online sync capability | Coding |
 
 ## [Levi Bostian](https://twitter.com/levibostian)
 
@@ -413,8 +413,16 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | Mic and Cam Monitor | Gives you alerts when your Web-cam and/or Microphone is being used |Planning|
 
+
+## [garethramen](https://github.com/garethramen)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+| 01/2017 | Presentation Timer | Countdown timer for conference presentations | Released |
+
 ## [roryok](https://github.com/roryok) ([@roryok](https://twitter.com/roryok))
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | Unit Converter PWA | A progressive web app (offline enabled) for converting between SI/metric units  |Planning|
+
