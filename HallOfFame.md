@@ -413,8 +413,16 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | Mic and Cam Monitor | Gives you alerts when your Web-cam and/or Microphone is being used |Planning|
 
+
 ## [garethramen](https://github.com/garethramen)
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 | 01/2017 | Presentation Timer | Countdown timer for conference presentations | Released |
+
+## [roryok](https://github.com/roryok) ([@roryok](https://twitter.com/roryok))
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | Unit Converter PWA | A progressive web app (offline enabled) for converting between SI/metric units  |Planning|
+
