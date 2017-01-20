@@ -14,13 +14,15 @@ Add your projects to the end of this List!
 
 ---
 
-## [ggerhard](https://github.com/ggerhard) (@gerji)
+## [ggerhard](https://github.com/ggerhard)
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |11/2016 | [parsecal](https://github.com/ggerhard/parsecal)     | A ruby script to parse an iCal calendar and create a spreadsheet report |Released|
 |12/2016 | [node-pdf-service](https://github.com/ggerhard/node-pdf-service)     | RESTful PDF creation Service with NodeJS / Express / PhantomJS / Docker |Released|
 |01/2017 | [1ppm.github.io](https://github.com/1ppm/1ppm.github.io)     | 1ppm.club Website MVP | Started |
+|02/2017 | [http://1ppm.club/](http://1ppm.club/)     | Dynamic 1ppm website, Social Login | Planning |
+|03/2017 | [Rocket Launch](https://github.com/1ppm/RocketLaunch)     | Consolidate and Review Links and Tweets for an MVP Database | Planning |
 
 ## [aguaviva](https://github.com/aguaviva)
 
