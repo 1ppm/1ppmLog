@@ -426,7 +426,7 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-|01/2017 | Unit Converter PWA | A progressive web app (offline enabled) for converting between SI/metric units  |Planning|
+|01/2017 | Unit Converter PWA | A progressive web app (offline enabled) for converting between SI/metric units (http://roryok.com/unitard)  | Released |
 
 ## [JoshHrach](https://github.com/JoshHrach) ([@JoshHrach](https://twitter.com/JoshHrach))
 
