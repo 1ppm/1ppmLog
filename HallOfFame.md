@@ -435,3 +435,14 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [Provincial](https://github.com/JoshHrach/Provincial) | Provincial is a small Swift library to quickly get a list of states or provinces from various countries.  |Started|
+
+## [robhowell](https://github.com/robhowell) ([@playrob](https://twitter.com/playrob))
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [simple-commit-emoji](https://github.com/robhowell/simple-commit-emoji) | A simple set of emoji to improve readability of source control commit messages  |Completed|
+|02/2017 | [component-toolkit](https://github.com/robhowell/component-toolkit) | A toolkit to help build, test and develop UI components  |Started|
+|03/2017 | [opinionated.guide](https://github.com/robhowell/opinionated.guide) | A simple, pragmatic set of tools and techniques for developing web applications in 2017.   |Planning|
+|04/2017 | [shelved](https://github.com/robhowell/shelved) | JavaScript functions for getting stuff done   |Planning|
+|05/2017 | [rummage](https://github.com/robhowell/rummage) | Remote search and file downloading for geeks   |Planning|
+
