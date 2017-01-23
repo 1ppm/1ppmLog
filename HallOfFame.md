@@ -348,11 +348,11 @@ Add your projects to the end of this List!
 |01/2017 | [PhotoCluster](https://github.com/D-32/1ppm#01-photocluster)                   | App to filter photos by creating clusters (iOS) | Planning |
 
 
-## [jakekschwartz](https://github.com/jakekschwartz)
+## [jakehschwartz](https://github.com/jakehschwartz)
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-|01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS | Planning |
+|01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS | Started |
 
 
 ## [benwicks](https://github.com/benwicks)
