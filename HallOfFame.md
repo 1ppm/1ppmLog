@@ -336,7 +336,7 @@ Add your projects to the end of this List!
 
 ## [amoghbanta](https://github.com/amoghbanta)
 
-|Month   |Project                                               |Description             |
-|--------|------------------------------------------------------|------------------------------------------------|
+|Month   |Project                                               |Description             |Status                |
+|--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [ReactNativeEverywhere](https://github.com/amoghbanta/reactNativeEverywhere) | Starter kit to target multiple platforms :globe_with_meridians: :iphone: :computer: with react-native' APIs. | Released |
 
