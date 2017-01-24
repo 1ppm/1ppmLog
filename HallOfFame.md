@@ -144,10 +144,12 @@ Add your projects to the end of this List!
 
 ## [zitterbewegung](https://github.com/zitterbewegung)
 
-|Month   |Project                                               |Description             |
+|Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|
-|01/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. |
-|02/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
+|01/2017 | HN point inflation blogpost | BigQuery analysis of Hackernews | Started
+|02/2017 | ESP8266corder| Wi-fi sensor system based on a wio-link| Started
+|03/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. | Started
+|04/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
 
 ## [brooksgarrett](https://github.com/brooksgarrett)
 
