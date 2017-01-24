@@ -332,3 +332,11 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS | Planning |
+
+
+## [amoghbanta](https://github.com/amoghbanta)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|01/2017 | [ReactNativeEverywhere](https://github.com/amoghbanta/reactNativeEverywhere) | Starter kit to target multiple platforms :globe_with_meridians: :iphone: :computer: with react-native' APIs. | Released |
+
