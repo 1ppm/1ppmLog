@@ -375,6 +375,14 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS | Planning |
+
+
+## [amoghbanta](https://github.com/amoghbanta)
+
+|Month   |Project                                               |Description             |Status                |
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [ReactNativeEverywhere](https://github.com/amoghbanta/reactNativeEverywhere) | Starter kit to target multiple platforms :globe_with_meridians: :iphone: :computer: with react-native' APIs. | Released |
 |01/2017 | [umbrella-scheduler](https://github.com/retrocede/umbrella-scheduler) | Personal Scheduling and todo list tool. | Planning |
 
 
@@ -447,4 +455,5 @@ Add your projects to the end of this List!
 |03/2017 | [opinionated.guide](https://github.com/robhowell/opinionated.guide) | A simple, pragmatic set of tools and techniques for developing web applications in 2017.   |Planning|
 |04/2017 | [shelved](https://github.com/robhowell/shelved) | JavaScript functions for getting stuff done   |Planning|
 |05/2017 | [rummage](https://github.com/robhowell/rummage) | Remote search and file downloading for geeks   |Planning|
+
 
