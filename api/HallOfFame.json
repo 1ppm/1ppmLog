@@ -23,12 +23,12 @@
                 "date": "201701",
                 "name": "1ppm.github.io",
                 "url": "https://github.com/1ppm/1ppm.github.io",
-                "description": "1ppm.club Website MVP",
-                "status": "Started"
+                "description": "1ppm.club Website + HallOfFame View",
+                "status": "Released"
             },
             {
                 "date": "201702",
-                "name": "http://1ppm.club/",
+                "name": "1ppm.club",
                 "url": "http://1ppm.club/",
                 "description": "Dynamic 1ppm website, Social Login",
                 "status": "Planning"
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "username": "Amar Lakshya",
+        "username": "amar-laksh",
         "githubUrl": "https://github.com/amar-laksh",
         "twitterName": "",
         "otherUrl": "",
@@ -229,7 +229,7 @@
         ]
     },
     {
-        "username": "AlexKeyes",
+        "username": "alex-keyes",
         "githubUrl": "https://github.com/alex-keyes",
         "twitterName": "",
         "otherUrl": "",
@@ -325,9 +325,9 @@
         "projects": [
             {
                 "date": "201701",
-                "name": "dataknife",
+                "name": "HN point inflation blogpost",
                 "url": "",
-                "description": "A command line tool that can convert tabular data from one format to another.",
+                "description": "BigQuery analysis of Hackernews",
                 "status": ""
             }
         ]
@@ -425,7 +425,7 @@
         ]
     },
     {
-        "username": "Oyewale Ademola",
+        "username": "saopayne",
         "githubUrl": "https://github.com/saopayne",
         "twitterName": "",
         "otherUrl": "",
@@ -522,14 +522,14 @@
             {
                 "date": "012017",
                 "name": "Budget",
-                "url": "https://github.com/jfoucher/budjetTracker",
+                "url": "https://budgt.eu",
                 "description": "Offline budget tracker with online sync capability",
-                "status": "Coding"
+                "status": "Released"
             }
         ]
     },
     {
-        "username": "Levi Bostian",
+        "username": "levibostian",
         "githubUrl": "",
         "twitterName": "",
         "otherUrl": "https://twitter.com/levibostian",
@@ -770,7 +770,7 @@
         ]
     },
     {
-        "username": "kiran",
+        "username": "chauhankiran",
         "githubUrl": "https://github.com/chauhankiran",
         "twitterName": "",
         "otherUrl": "",
@@ -800,7 +800,7 @@
         ]
     },
     {
-        "username": "tropicColin",
+        "username": "colinrtaylor",
         "githubUrl": "https://github.com/colinrtaylor",
         "twitterName": "",
         "otherUrl": "",
@@ -904,7 +904,7 @@
         ]
     },
     {
-        "username": "Dylan Marriott",
+        "username": "d-32",
         "githubUrl": "https://github.com/d-32",
         "twitterName": "",
         "otherUrl": "",
@@ -919,8 +919,8 @@
         ]
     },
     {
-        "username": "jakekschwartz",
-        "githubUrl": "https://github.com/jakekschwartz",
+        "username": "jakehschwartz",
+        "githubUrl": "https://github.com/jakehschwartz",
         "twitterName": "",
         "otherUrl": "",
         "projects": [
@@ -929,7 +929,7 @@
                 "name": "recipe-scraper",
                 "url": "https://github.com/jakehschwartz/recipe-scraper",
                 "description": "An HTML parser that looks for schema.org recipes using ScalaJS",
-                "status": "Planning"
+                "status": "Started"
             }
         ]
     },
@@ -969,6 +969,28 @@
         "twitterName": "",
         "otherUrl": "",
         "projects": [
+            {
+                "date": "201701",
+                "name": "recipe-scraper",
+                "url": "https://github.com/jakehschwartz/recipe-scraper",
+                "description": "An HTML parser that looks for schema.org recipes using ScalaJS",
+                "status": "Planning"
+            }
+        ]
+    },
+    {
+        "username": "amoghbanta",
+        "githubUrl": "https://github.com/amoghbanta",
+        "twitterName": "",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "ReactNativeEverywhere",
+                "url": "https://github.com/amoghbanta/reactNativeEverywhere",
+                "description": "Starter kit to target multiple platforms :globe_with_meridians: :iphone: :computer: with react-native' APIs.",
+                "status": "Released"
+            },
             {
                 "date": "201701",
                 "name": "umbrella-scheduler",
@@ -1052,7 +1074,7 @@
         ]
     },
     {
-        "username": "Stuart P. Bentley",
+        "username": "stuartpb",
         "githubUrl": "https://github.com/stuartpb",
         "twitterName": "@stuartpb",
         "otherUrl": "",
@@ -1113,8 +1135,8 @@
                 "date": "201701",
                 "name": "Unit Converter PWA",
                 "url": "",
-                "description": "A progressive web app (offline enabled) for converting between SI/metric units",
-                "status": "Planning"
+                "description": "A progressive web app (offline enabled) for converting between SI/metric units (http://roryok.com/unitard)",
+                "status": "Released"
             }
         ]
     },
@@ -1130,6 +1152,64 @@
                 "url": "https://github.com/JoshHrach/Provincial",
                 "description": "Provincial is a small Swift library to quickly get a list of states or provinces from various countries.",
                 "status": "Started"
+            }
+        ]
+    },
+    {
+        "username": "robhowell",
+        "githubUrl": "https://github.com/robhowell",
+        "twitterName": "@playrob",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "simple-commit-emoji",
+                "url": "https://github.com/robhowell/simple-commit-emoji",
+                "description": "A simple set of emoji to improve readability of source control commit messages",
+                "status": "Completed"
+            },
+            {
+                "date": "201702",
+                "name": "component-toolkit",
+                "url": "https://github.com/robhowell/component-toolkit",
+                "description": "A toolkit to help build, test and develop UI components",
+                "status": "Started"
+            },
+            {
+                "date": "201703",
+                "name": "opinionated.guide",
+                "url": "https://github.com/robhowell/opinionated.guide",
+                "description": "A simple, pragmatic set of tools and techniques for developing web applications in 2017.",
+                "status": "Planning"
+            },
+            {
+                "date": "201704",
+                "name": "shelved",
+                "url": "https://github.com/robhowell/shelved",
+                "description": "JavaScript functions for getting stuff done",
+                "status": "Planning"
+            },
+            {
+                "date": "201705",
+                "name": "rummage",
+                "url": "https://github.com/robhowell/rummage",
+                "description": "Remote search and file downloading for geeks",
+                "status": "Planning"
+            }
+        ]
+    },
+    {
+        "username": "paep3nguin",
+        "githubUrl": "https://github.com/paep3nguin",
+        "twitterName": "",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "TL;DR for MixMax",
+                "url": "https://github.com/paeP3nguin/tldr-mixmax-enchancement",
+                "description": "Link summarizer enhancement for [MixMax](https://mixmax.com/)",
+                "status": "Released"
             }
         ]
     }
