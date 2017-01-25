@@ -456,4 +456,8 @@ Add your projects to the end of this List!
 |04/2017 | [shelved](https://github.com/robhowell/shelved) | JavaScript functions for getting stuff done   |Planning|
 |05/2017 | [rummage](https://github.com/robhowell/rummage) | Remote search and file downloading for geeks   |Planning|
 
+## [SaifMulla](https://github.com/saifmulla) ([@saifthe1](https://twitter.com/saifthe1))  
 
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [Simple Blog](https://github.com/saifmulla/simple-blog) | A simple multipurpose blog using python Flask framework to move current blog from GitHub pages and also to learn python development |Started|
