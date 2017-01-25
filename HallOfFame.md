@@ -456,4 +456,8 @@ Add your projects to the end of this List!
 |04/2017 | [shelved](https://github.com/robhowell/shelved) | JavaScript functions for getting stuff done   |Planning|
 |05/2017 | [rummage](https://github.com/robhowell/rummage) | Remote search and file downloading for geeks   |Planning|
 
+## [paep3nguin](https://github.com/paep3nguin)
 
+|Month   |Project                                               |Description                                     |State    |
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [TL;DR for MixMax](https://github.com/paeP3nguin/tldr-mixmax-enchancement)    | Link summarizer enhancement for [MixMax](https://mixmax.com/) |Released|
