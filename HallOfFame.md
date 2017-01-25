@@ -22,7 +22,7 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |11/2016 | [parsecal](https://github.com/ggerhard/parsecal)     | A ruby script to parse an iCal calendar and create a spreadsheet report |Released|
 |12/2016 | [node-pdf-service](https://github.com/ggerhard/node-pdf-service)     | RESTful PDF creation Service with NodeJS / Express / PhantomJS / Docker |Released|
-|01/2017 | [1ppm.github.io](https://github.com/1ppm/1ppm.github.io)     | 1ppm.club Website MVP | Started |
+|01/2017 | [1ppm.github.io](https://github.com/1ppm/1ppm.github.io)     | 1ppm.club Website + HallOfFame View | Released |
 |02/2017 | [1ppm.club](http://1ppm.club/)     | Dynamic 1ppm website, Social Login | Planning |
 |03/2017 | [Rocket Launch](https://github.com/1ppm/RocketLaunch)     | Consolidate and Review Links and Tweets for an MVP Database | Planning |
 
@@ -75,7 +75,7 @@ Add your projects to the end of this List!
 | 01/2017 | [Earthquator](https://telegram.me/earthquator) | Telegram bot and channel that publishes earthquake news from USGS data feed into Telegram |
 
 
-## [Amar Lakshya](https://github.com/amar-laksh)
+## [amar-laksh](https://github.com/amar-laksh)
 
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
@@ -106,7 +106,7 @@ Add your projects to the end of this List!
 
 
 
-## [AlexKeyes](https://github.com/alex-keyes)
+## [alex-keyes](https://github.com/alex-keyes)
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
 | 01/2017 | [PHP Cowsay](https://github.com/Alex-Keyes/cowsay-php) | Cowsay written in PHP |
@@ -168,7 +168,7 @@ Add your projects to the end of this List!
 |11/2017 | []() | |
 |12/2017 | []() | |
 
-## [Oyewale Ademola](https://github.com/saopayne)
+## [saopayne](https://github.com/saopayne)
 
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
@@ -208,7 +208,7 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |2017/01 |[Budget](https://budgt.eu)        | Offline budget tracker with online sync capability | Released |
 
-## [Levi Bostian](https://twitter.com/levibostian)
+## [levibostian](https://twitter.com/levibostian)
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
@@ -286,7 +286,7 @@ Add your projects to the end of this List!
 |01/2017 |[8Chip](https://github.com/pcstl/8chip) | A [CHIP-8](https://en.wikipedia.org/wiki/Chip-8) emulator. | Started  |
 |02/2017 |Personal website                        | A prototype of my personal website.                        | Planning |
 
-## [kiran](https://github.com/chauhankiran)
+## [chauhankiran](https://github.com/chauhankiran)
 
 |Month   |Project                                               |Description            |Status                  |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
@@ -298,7 +298,7 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |11/2015 | [star.js](https://github.com/Decagon/star.js)     | A node library to automatically correct typos in messages based on the next message you send*. |Continued|
 
-## [tropicColin](https://github.com/colinrtaylor)
+## [colinrtaylor](https://github.com/colinrtaylor)
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
@@ -344,7 +344,7 @@ Add your projects to the end of this List!
 |01/2017 | [1ppmHallOfFameParse](https://github.com/VladimirRubin/1ppmHallOfFameParser)                   | 1ppm HallOfFame MD to JSON parser! | Started |
 
 
-## [Dylan Marriott](https://github.com/d-32)
+## [d-32](https://github.com/d-32)
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [PhotoCluster](https://github.com/D-32/1ppm#01-photocluster)                   | App to filter photos by creating clusters (iOS) | Planning |
@@ -407,13 +407,13 @@ Add your projects to the end of this List!
 |01/2017 | [dailyprogrammer](https://github.com/qabbasi/dailyprogrammer) | Solved challenges from https://www.reddit.com/r/dailyprogrammer/ | Continued |
 |01/2017 | [pure-spider](https://github.com/qabbasi/pure-spider) | A remote-controlled ESP8266-based Hexapod programmed in Purescript | Started |
 
-## [Stuart P. Bentley](https://github.com/stuartpb) ([@stuartpb](https://twitter.com/stuartpb))
+## [stuartpb](https://github.com/stuartpb) ([@stuartpb](https://twitter.com/stuartpb))
 
 | Month   | Project                                              | Description | State |
 |---------|------------------------------------------------------|-------------|-------|
-| 2017-01 | [Rainpower][]                                        | A personal watchface for my Pebble Time watch showing time, date, watch and phone battery levels, temperature, and precipitation forecast | Started (currently viable but incomplete) |
+| 2017-01 | [Rainpower](https://github.com/stuartpb/rainpower-watchface) | A personal watchface for my Pebble Time watch showing time, date, watch and phone battery levels, temperature, and precipitation forecast | Started (currently viable but incomplete) |
 
-[Rainpower]: https://github.com/stuartpb/rainpower-watchface
+
 
 ## [jupazave](https://github.com/jupazave)
 
