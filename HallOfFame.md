@@ -264,7 +264,11 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-| 10/2016 | [ASTRA](https://github.com/gautamkrishnar/ASTRA/) | A fully integrated workflow management system for government offices with built in queuing and complaint registration system | Released |
+| 1/2017 | [Naughtychecker.js](http://github.com/gautamkrishnar/naughtychecker.js/) | NodeJS module to check Naughty Strings, it is a set of strings which have a high probability of causing issues when used as user-input data. | Released |
+| 12/2016 | [Nothing Private](https://github.com/gautamkrishnar/nothing-private) | This project is a proof of concept that anyone can identify and track you, even if you are using Private Browsing or Icognito Mode in your web browser. | Released |
+| 11/2016 | [ASTRA](https://github.com/gautamkrishnar/ASTRA/) | A fully integrated workflow management system for government offices with built in queuing and complaint registration system | Released |
+| 10/2016 | [Joker](https://github.com/gautamkrishnar/joker) | Random jokes from the best sources | Started |
+| 9/2016 | [Openshift quickstart](https://github.com/gautamkrishnar/openshift-quickstart) | One click quickstart to make your website online in Redhat's openshift cloud without typing a single command | Released |
 | 8/2016 | [TcSO](https://github.com/gautamkrishnar/tcso/) | Try Catch Stack overflow (TcSo) Is a collection of Try statements in all the programming languages under the globe which catches the exception and searches for the cause of the caught exception in the stack overflow automatically. | Released |
 | 7/2016 | [Be like Bill](https://github.com/gautamkrishnar/Be-Like-Bill) | Be Like Bill meme generator and API created with PHP, Using this API you can include customized version of "Be like Bill" meme on your website. | Released |
 | 7/2016 | [SoCLI](http://github.com/gautamkrishnar/socli) | Stack overflow command line client. Search and browse stack overflow without leaving the terminal | Released |
