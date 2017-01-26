@@ -461,3 +461,9 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description                                     |State    |
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [TL;DR for MixMax](https://github.com/paeP3nguin/tldr-mixmax-enchancement)    | Link summarizer enhancement for [MixMax](https://mixmax.com/) |Released|
+
+## [karan10](https://github.com/karan10) ([@iamkarandev](https://twitter.com/iamkarandev))
+
+|Month   |Project                                               |Description                                     |State    |
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+| 01/2017 | [Directory Synchronizer](https://github.com/karan10/Sync-Dir) | A simple Project to synchronize all folders/files between two folders on different systems | Planning
