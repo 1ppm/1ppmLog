@@ -264,7 +264,7 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-| 1/2016 | [Naughtychecker.js](http://github.com/gautamkrishnar/naughtychecker.js/) | NodeJS module to check Naughty Strings, it is a set of strings which have a high probability of causing issues when used as user-input data. | Released |
+| 1/2017 | [Naughtychecker.js](http://github.com/gautamkrishnar/naughtychecker.js/) | NodeJS module to check Naughty Strings, it is a set of strings which have a high probability of causing issues when used as user-input data. | Released |
 | 12/2016 | [Nothing Private](https://github.com/gautamkrishnar/nothing-private) | This project is a proof of concept that anyone can identify and track you, even if you are using Private Browsing or Icognito Mode in your web browser. | Released |
 | 11/2016 | [ASTRA](https://github.com/gautamkrishnar/ASTRA/) | A fully integrated workflow management system for government offices with built in queuing and complaint registration system | Released |
 | 10/2016 | [Joker](https://github.com/gautamkrishnar/joker) | Random jokes from the best sources | Started |
