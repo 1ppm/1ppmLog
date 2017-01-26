@@ -683,16 +683,44 @@
         ]
     },
     {
-        "username": "Gautam Krishna R",
+        "username": "gautamkrishnar",
         "githubUrl": "https://github.com/gautamkrishnar",
         "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
-                "date": "201610",
+                "date": "20171",
+                "name": "Naughtychecker.js",
+                "url": "http://github.com/gautamkrishnar/naughtychecker.js/",
+                "description": "NodeJS module to check Naughty Strings, it is a set of strings which have a high probability of causing issues when used as user-input data.",
+                "status": "Released"
+            },
+            {
+                "date": "201612",
+                "name": "Nothing Private",
+                "url": "https://github.com/gautamkrishnar/nothing-private",
+                "description": "This project is a proof of concept that anyone can identify and track you, even if you are using Private Browsing or Icognito Mode in your web browser.",
+                "status": "Released"
+            },
+            {
+                "date": "201611",
                 "name": "ASTRA",
                 "url": "https://github.com/gautamkrishnar/ASTRA/",
                 "description": "A fully integrated workflow management system for government offices with built in queuing and complaint registration system",
+                "status": "Released"
+            },
+            {
+                "date": "201610",
+                "name": "Joker",
+                "url": "https://github.com/gautamkrishnar/joker",
+                "description": "Random jokes from the best sources",
+                "status": "Started"
+            },
+            {
+                "date": "20169",
+                "name": "Openshift quickstart",
+                "url": "https://github.com/gautamkrishnar/openshift-quickstart",
+                "description": "One click quickstart to make your website online in Redhat's openshift cloud without typing a single command",
                 "status": "Released"
             },
             {
@@ -1210,6 +1238,21 @@
                 "url": "https://github.com/paeP3nguin/tldr-mixmax-enchancement",
                 "description": "Link summarizer enhancement for [MixMax](https://mixmax.com/)",
                 "status": "Released"
+            }
+        ]
+    },
+    {
+        "username": "karan10",
+        "githubUrl": "https://github.com/karan10",
+        "twitterName": "@iamkarandev",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "Directory Synchronizer",
+                "url": "https://github.com/karan10/Sync-Dir",
+                "description": "A simple Project to synchronize all folders/files between two folders on different systems",
+                "status": "Planning"
             }
         ]
     }
