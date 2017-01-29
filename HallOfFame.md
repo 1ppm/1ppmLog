@@ -173,7 +173,7 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
 | 01/2017 | [DTRR](https://github.com/saopayne/DTRR) | This is a Android project example to showcase integration of Dependency Injection (Dagger 2) ,Retrofit ,Unit Testing (Junit), RxJava (ReactiveX |
-| 02/2017 | Groovy-Paystack | A Paystack.co library for developers to integrate into their existing project |
+| 02/2017 | GO-urltools | Some functions to parse and normalize URLs in GOLang. |
 
 
 ## [mechasparrow](https://github.com/mechasparrow)
