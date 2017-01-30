@@ -15,6 +15,10 @@ Add your projects to the end of this List!
   - Cancelled (?) - No result at all. Would be interesting to hear what happened though.
 
 ---
+## [sAbakumoff](https://github.com/sAbakumoff) (@sAbakumoff)
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [sociting](https://github.com/sAbakumoff/sociting2)     | Catalog of references to StackOverflow questions found in GitHub sources |Released|
 
 ## [ggerhard](https://github.com/ggerhard)
 
