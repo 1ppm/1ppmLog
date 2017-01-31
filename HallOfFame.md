@@ -474,7 +474,7 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description                                     |State    |
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-| 01/2017 | [Directory Synchronizer](https://github.com/karan10/Sync-Dir) | A simple Project to synchronize all folders/files between two folders on different systems | Planning |  
+| 01/2017 | [Directory Synchronizer](https://github.com/karan10/Sync-Dir) | A simple Project to synchronize all folders/files between two folders on different systems | Released |  
 
 ## [SaifMulla](https://github.com/saifmulla) ([@saifthe1](https://twitter.com/saifthe1))  
 
