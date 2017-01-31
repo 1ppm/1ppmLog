@@ -488,7 +488,7 @@ Add your projects to the end of this List!
 | -----  | ------- | ----------- | ----- |
 | 01/2017 | [pushcap](https://github.com/rosswd/pushcap) | Push notifications for internet data usage on the Huawei B593s-22 Router | Released |
 
-## [rcdexta](https://github.com/rcdexta/) (@rcdexta)
+## [rcdexta](https://github.com/rcdexta/) ([@rcdexta](https://twitter.com/rcdexta))
 
 | Month  | Project | Description | State |
 | -----  | ------- | ----------- | ----- |
