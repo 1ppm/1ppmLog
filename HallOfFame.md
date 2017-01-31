@@ -494,3 +494,9 @@ Add your projects to the end of this List!
 | -----  | ------- | ----------- | ----- |
 | 01/2017 | [react-trello](https://github.com/rcdexta/react-trello) | Pluggable components to add a trello like kanban board to your application | Released |
 
+
+## [msadowski](https://github.com/msadowski) ([@msadowski90](https://twitter.com/msadowski90))
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|01/2017 |[Haptic control of UAV](https://msadowski.github.io/1ppm/uav-haptic-control-pt1/)        | Project to control a UAV remotely using Novint Falcon Haptic controller | Started |
