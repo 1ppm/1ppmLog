@@ -1,5 +1,20 @@
 [
     {
+        "username": "sAbakumoff",
+        "githubUrl": "https://github.com/sAbakumoff",
+        "twitterName": "@sAbakumoff",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "sociting",
+                "url": "https://github.com/sAbakumoff/sociting2",
+                "description": "Catalog of references to StackOverflow questions found in GitHub sources",
+                "status": "Released"
+            }
+        ]
+    },
+    {
         "username": "ggerhard",
         "githubUrl": "https://github.com/ggerhard",
         "twitterName": "",
@@ -327,7 +342,7 @@
                 "date": "201701",
                 "name": "HN point inflation blogpost",
                 "url": "",
-                "description": "BigQuery analysis of Hackernews",
+                "description": "[BigQuery analysis of Hackernews](https://medium.com/@zitterbewegung/measuring-point-inflation-c88c325bf090#.wjgnmfg6q)",
                 "status": ""
             }
         ]
@@ -439,9 +454,9 @@
             },
             {
                 "date": "201702",
-                "name": "Groovy-Paystack",
+                "name": "GO-urltools",
                 "url": "",
-                "description": "A Paystack.co library for developers to integrate into their existing project",
+                "description": "Some functions to parse and normalize URLs in GOLang.",
                 "status": ""
             }
         ]
@@ -683,7 +698,7 @@
         ]
     },
     {
-        "username": "gautamkrishnar",
+        "username": "Gautam Krishna R",
         "githubUrl": "https://github.com/gautamkrishnar",
         "twitterName": "",
         "otherUrl": "",
@@ -1149,7 +1164,7 @@
                 "name": "Presentation Timer",
                 "url": "http://www.presentation-timer.com/",
                 "description": "Countdown timer for conference presentations",
-                "status": "Released"
+                "status": "Bug (in Chrome)"
             }
         ]
     },
@@ -1165,6 +1180,13 @@
                 "url": "",
                 "description": "A progressive web app (offline enabled) for converting between SI/metric units (http://roryok.com/unitard)",
                 "status": "Released"
+            },
+            {
+                "date": "201702",
+                "name": "CalendarJenny",
+                "url": "",
+                "description": "A node.js app to read event dates from both local (yaml, json) and remote sources and compile a printable calendar",
+                "status": "Started"
             }
         ]
     },
@@ -1252,7 +1274,67 @@
                 "name": "Directory Synchronizer",
                 "url": "https://github.com/karan10/Sync-Dir",
                 "description": "A simple Project to synchronize all folders/files between two folders on different systems",
-                "status": "Planning"
+                "status": "Released"
+            }
+        ]
+    },
+    {
+        "username": "rosswd",
+        "githubUrl": "https://github.com/rosswd/",
+        "twitterName": "@macabhaird",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "pushcap",
+                "url": "https://github.com/rosswd/pushcap",
+                "description": "Push notifications for internet data usage on the Huawei B593s-22 Router",
+                "status": "Released"
+            }
+        ]
+    },
+    {
+        "username": "rcdexta",
+        "githubUrl": "https://github.com/rcdexta/",
+        "twitterName": "@rcdexta",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "react-trello",
+                "url": "https://github.com/rcdexta/react-trello",
+                "description": "Pluggable components to add a trello like kanban board to your application",
+                "status": "Released"
+            }
+        ]
+    },
+    {
+        "username": "msadowski",
+        "githubUrl": "https://github.com/msadowski",
+        "twitterName": "@msadowski90",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "Haptic control of UAV",
+                "url": "https://msadowski.github.io/1ppm/uav-haptic-control-pt1/",
+                "description": "Project to control a UAV remotely using Novint Falcon Haptic controller",
+                "status": "Started"
+            }
+        ]
+    },
+    {
+        "username": "nkantar",
+        "githubUrl": "https://github.com/nkantar",
+        "twitterName": "@nkantar",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "Autohook",
+                "url": "https://github.com/nkantar/Autohook",
+                "description": "A very, _very_ small Git hook \"framework\". Essentially a shell script meant to be symlinked to that looks for appropriately named scripts to run.",
+                "status": "Released"
             }
         ]
     }
