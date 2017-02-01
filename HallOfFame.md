@@ -494,3 +494,8 @@ Add your projects to the end of this List!
 | -----  | ------- | ----------- | ----- |
 | 01/2017 | [react-trello](https://github.com/rcdexta/react-trello) | Pluggable components to add a trello like kanban board to your application | Released |
 
+## [nkantar](https://github.com/nkantar) ([@nkantar](https://twitter.com/nkantar))
+
+| Month | Project | Description | State |
+| ----- | ------- | ----------- | ----- |
+| 01/2017 | [Autohook](https://github.com/nkantar/Autohook) | A very, _very_ small Git hook "framework". Essentially a shell script meant to be symlinked to that looks for appropriately named scripts to run. | Released |
