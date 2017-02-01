@@ -447,6 +447,7 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | Unit Converter PWA | A progressive web app (offline enabled) for converting between SI/metric units (http://roryok.com/unitard)  | Released |
+|02/2017 | CalendarJenny | A node.js app to read event dates from both local (yaml, json) and remote sources and compile a printable calendar | Started |
 
 ## [JoshHrach](https://github.com/JoshHrach) ([@JoshHrach](https://twitter.com/JoshHrach))
 
