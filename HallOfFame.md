@@ -419,7 +419,7 @@ Add your projects to the end of this List!
 
 | Month   | Project                                              | Description | State |
 |---------|------------------------------------------------------|-------------|-------|
-| 2017-01 | [Rainpower](https://github.com/stuartpb/rainpower-watchface) | A personal watchface for my Pebble Time watch showing time, date, watch and phone battery levels, temperature, and precipitation forecast | Started (currently viable but incomplete) |
+| 2017-01 | [Rainpower](https://github.com/stuartpb/rainpower-watchface) | A personal watchface for my Pebble Time watch showing time, date, watch and phone battery levels, temperature, and precipitation forecast | [Released](https://apps.getpebble.com/en_US/application/58915f4895ce5bfaf80007d0) |
 
 
 
