@@ -149,8 +149,8 @@ Add your projects to the end of this List!
 ## [zitterbewegung](https://github.com/zitterbewegung)
 
 |Month   |Project                                               |Description             |State|
-|--------|------------------------------------------------------|------------------------------------------------|
-|01/2017 | HN point inflation blogpost | BigQuery analysis of Hackernews | Started
+|--------|------------------------------------------------------|----------------------------|--------------------|
+|01/2017 | HN point inflation blogpost | [BigQuery analysis of Hackernews](https://medium.com/@zitterbewegung/measuring-point-inflation-c88c325bf090#.wjgnmfg6q) | Completed
 |02/2017 | ESP8266corder| Wi-fi sensor system based on a wio-link| Started
 |03/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. | Started
 |04/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
@@ -419,7 +419,7 @@ Add your projects to the end of this List!
 
 | Month   | Project                                              | Description | State |
 |---------|------------------------------------------------------|-------------|-------|
-| 2017-01 | [Rainpower](https://github.com/stuartpb/rainpower-watchface) | A personal watchface for my Pebble Time watch showing time, date, watch and phone battery levels, temperature, and precipitation forecast | Started (currently viable but incomplete) |
+| 2017-01 | [Rainpower](https://github.com/stuartpb/rainpower-watchface) | A personal watchface for my Pebble Time watch showing time, date, watch and phone battery levels, temperature, and precipitation forecast | [Released](https://apps.getpebble.com/en_US/application/58915f4895ce5bfaf80007d0) |
 
 
 
@@ -447,6 +447,7 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | Unit Converter PWA | A progressive web app (offline enabled) for converting between SI/metric units (http://roryok.com/unitard)  | Released |
+|02/2017 | CalendarJenny | A node.js app to read event dates from both local (yaml, json) and remote sources and compile a printable calendar | Started |
 
 ## [JoshHrach](https://github.com/JoshHrach) ([@JoshHrach](https://twitter.com/JoshHrach))
 
@@ -495,8 +496,16 @@ Add your projects to the end of this List!
 | 01/2017 | [react-trello](https://github.com/rcdexta/react-trello) | Pluggable components to add a trello like kanban board to your application | Released |
 
 
+
 ## [msadowski](https://github.com/msadowski) ([@msadowski90](https://twitter.com/msadowski90))
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |01/2017 |[Haptic control of UAV](https://msadowski.github.io/1ppm/uav-haptic-control-pt1/)        | Project to control a UAV remotely using Novint Falcon Haptic controller | Started |
+
+## [nkantar](https://github.com/nkantar) ([@nkantar](https://twitter.com/nkantar))
+
+| Month | Project | Description | State |
+| ----- | ------- | ----------- | ----- |
+| 01/2017 | [Autohook](https://github.com/nkantar/Autohook) | A very, _very_ small Git hook "framework". Essentially a shell script meant to be symlinked to that looks for appropriately named scripts to run. | Released |
+
