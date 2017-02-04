@@ -398,7 +398,9 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [gitattributes extension for VSCode](https://github.com/hashhar/vscode-gitattributes)  | Pull `.gitattributes` from GitHub and merge them into your local `.gitattributes` file | Released |
-|01/2017 | [stackoverflow shell](https://github.com/hashhar/stackoverflow-shell) | A .NET Core console app to use stackoverflow.com from a terminal. Will be unit testable and well designed. | Planning |
+|01/2017 | [stackoverflow shell](https://github.com/hashhar/stackoverflow-shell) | A .NET Core console app to use stackoverflow.com from a terminal. Will be unit testable and well designed. | Started |
+|02/2017 | [Windows-Hacks](https://github.com/hashhar/Windows-Hacks) | A collection of scripts, knowledge base articles, registry scripts, scheduled tasks to pimp out a windows installation. | Started |
+|02/2017 | [linux-deployment-toolbox](https://github.com/hashhar/linux-deployment-toolbox) | A loose framework of portable shell scripts to help provision a Linux system - installing packages, applying settings, installing software from source and a lot of other stuff. Basically a one-click system-restore for Linux. | Started |
 
 ## [josephbhunt](https://github.com/josephbhunt)
 
