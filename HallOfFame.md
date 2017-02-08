@@ -260,9 +260,10 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-|12/2016 | [fuxes.github.io](https://fuxes.github.io) | Personal blog | Released |
-|01/2017 | SocialAlgo | A crowdspeaking platform for supporting NGOs campaigns. Spread massively and get awareness of your social campaigns through the help of your supporters  | Started |
-
+| 12/2016 | [fuxes.github.io](https://fuxes.github.io) | Personal blog | Released |
+| 01/2017 | Doople | A crowdspeaking platform for supporting NGOs campaigns. Spread massively and get awareness of your social campaigns through the help of your supporters  | Started |
+| 02/2016 | N/A | Learn Java and Apache Camel | Started |
+| 02/2016 | N/A | Write a scientific paper | Started |
 
 ## [Gautam Krishna R](https://github.com/gautamkrishnar)
 
