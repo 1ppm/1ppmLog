@@ -15,6 +15,21 @@
         ]
     },
     {
+        "username": "1ps0",
+        "githubUrl": "https://github.com/1ps0",
+        "twitterName": "",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "20171",
+                "name": "local-link",
+                "url": "https://github.com/1ps0/local-link",
+                "description": "A local LAN site for simple sharing of links, text, images, etc.",
+                "status": ""
+            }
+        ]
+    },
+    {
         "username": "ggerhard",
         "githubUrl": "https://github.com/ggerhard",
         "twitterName": "",
@@ -690,9 +705,23 @@
             },
             {
                 "date": "201701",
-                "name": "SocialAlgo",
+                "name": "Doople",
                 "url": "",
                 "description": "A crowdspeaking platform for supporting NGOs campaigns. Spread massively and get awareness of your social campaigns through the help of your supporters",
+                "status": "Started"
+            },
+            {
+                "date": "201602",
+                "name": "N/A",
+                "url": "",
+                "description": "Learn Java and Apache Camel",
+                "status": "Started"
+            },
+            {
+                "date": "201602",
+                "name": "N/A",
+                "url": "",
+                "description": "Write a scientific paper",
                 "status": "Started"
             }
         ]
@@ -971,8 +1000,15 @@
                 "date": "201701",
                 "name": "recipe-scraper",
                 "url": "https://github.com/jakehschwartz/recipe-scraper",
-                "description": "An HTML parser that looks for schema.org recipes using ScalaJS",
-                "status": "Started"
+                "description": "An HTML parser that looks for schema.org recipes using ScalaJS (proof of concept)",
+                "status": "Released"
+            },
+            {
+                "date": "201702",
+                "name": "show-tracker",
+                "url": "https://github.com/jakehschwartz/show-tracker-android",
+                "description": "Android app to track your TV shows using Trakt.TV",
+                "status": "Planning"
             }
         ]
     },
@@ -1061,7 +1097,21 @@
                 "name": "stackoverflow shell",
                 "url": "https://github.com/hashhar/stackoverflow-shell",
                 "description": "A .NET Core console app to use stackoverflow.com from a terminal. Will be unit testable and well designed.",
-                "status": "Planning"
+                "status": "Started"
+            },
+            {
+                "date": "201702",
+                "name": "Windows-Hacks",
+                "url": "https://github.com/hashhar/Windows-Hacks",
+                "description": "A collection of scripts, knowledge base articles, registry scripts, scheduled tasks to pimp out a windows installation.",
+                "status": "Started"
+            },
+            {
+                "date": "201702",
+                "name": "linux-deployment-toolbox",
+                "url": "https://github.com/hashhar/linux-deployment-toolbox",
+                "description": "A loose framework of portable shell scripts to help provision a Linux system - installing packages, applying settings, installing software from source and a lot of other stuff. Basically a one-click system-restore for Linux.",
+                "status": "Started"
             }
         ]
     },
