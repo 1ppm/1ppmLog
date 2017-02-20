@@ -192,8 +192,8 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |12/2016 | [cybernotes](http://cybernotes.herokuapp.com)        | A online note taking platform                  |Released|
-|1/2017 | [MusicList](https://musiclist.github.io)             | A simple list app for your music               |Released|
-
+|1/2017 | [MusicList](https://musiclist.github.io)              | A simple list app for your music               |Released|
+|2/2017 | [Vesna](https://github.com/Mechasparrow/Vesna)        | An opensource online forum for ideas           |Released|  
 ## [TestMarrko](https://github.com/TestMarrko)
 
 |Month   |Project                                               |Description             | Status                |
