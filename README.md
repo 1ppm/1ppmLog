@@ -26,37 +26,21 @@ We are excited to hear from your projects!
 PS.: Looking for collaborators, want to discuss ideas or improve 1PPM - feel free to use the *issue tracker*! Interested in the 1PPM site development process? Join "sitedev" on Slack!
 
 ---
-# Upcoming Launches
-
-The 1PPM [Rocket Launch](https://github.com/1ppm/RocketLaunch) program is thrilled to announce the first launch of a 1PPM project on a major platform:
-
-|Time   |Project  |Description |Platform | Twitter | Feedback Channel| Campaign Link |
-|-------|---------|------------|---------|---------|-----------------|---------------|
-|01/05/16 15:30 CET, 6:30 PST, 9:30 EST| Article | [Validating a business idea with a $50 budget](https://medium.com/1ppm/validating-a-business-idea-with-a-50-budget-890eccae457a#.ode9vyp0u) | [Hacker News](https://news.ycombinator.com/newest) | - | jayfk | TBA on Slack |
-
-Have a look at jayfk's article and if you like it please support!
-
-Watch out for announcements on Twitter!
-
----
 # News
 
-## 03.01.2017 - 1PPM Rocket Launcher
+## 21.01.2017 - Hallo of Fame
 
-Hello 1PPM Community,
+An interactive view for the Hall of Fame is now available at [1ppm.club/hallOfFame](http://1ppm.club/hallOfFame)!
 
-Just a few days, and 1PPM already inspired me to yet another side-side-...project. I'm presenting you : project **[Rocket Launch](https://github.com/1ppm/RocketLaunch)** . It's about providing motivation and inspiration, encouraging and boosting project launches.
+For any  feedback, contact [1ppm@1ppm.club](mailto:1ppm@1ppm.club) or post to #sitedev in Slack.
 
- Also, since 1PPM is step by step attracting new members and twitter followers, this should give **you** the chance harness the **power of the community** for your promising projects (so bring your friends in ;)).
+The view is freely available as AngularJS + Yeoman + Grunt project at [https://github.com/ggerhard/HallOfFameView](https://github.com/ggerhard/HallOfFameView).
 
- I hope that "Rocket Launch" will eventually attract new club members, which will make the Rocket Launcher more powerfull and so on. You see where this is going :)
+An interactive website is under development. First features should be available in February.
 
-Have a look at the project, contribute and discuss with me via [1ppm@1ppm.club](mailto:1ppm@1ppm.club) and slack about it!
-
-**Note:** Please do not post about Rocket Launch on Hacker News etc. yet. When it's time, Rocket Launch is going to launch itself, now how cool is that ;)
-
-Regards,  
+Regards,
 Gerhard
+
 
 ---
 Find more news in the [News Archive](News_201701.md)
