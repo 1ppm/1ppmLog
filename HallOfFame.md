@@ -488,7 +488,7 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 | 01/2017 | [Directory Synchronizer](https://github.com/karan10/Sync-Dir) | A simple Project to synchronize all folders/files between two folders on different systems | Released |  
 | 02/2017 | [Top 10 Algorithms](https://github.com/karan10/Top-10-algorithms) | Repository containing Top 10 asked in interview questions solution by topics | Started |  
-| 02/2017 | [Bajna Chahiye Gana](https://github.com/karan10/Bajna-Chahiye-Gaana) | Play youtube song in browser directly from terminal. | Planning |  
+| 02/2017 | [GaanaCLI](https://github.com/karan10/gaanacli) | Play youtube song in browser directly from terminal. | Released |  
 
 ## [SaifMulla](https://github.com/saifmulla) ([@saifthe1](https://twitter.com/saifthe1))  
 
