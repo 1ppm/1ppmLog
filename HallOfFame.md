@@ -370,8 +370,8 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-|01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS (proof of concept) | Released |
-|02/2017 | [show-tracker](https://github.com/jakehschwartz/show-tracker-android) | Android app to track your TV shows using Trakt.TV | Planning |
+|01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper) | An HTML parser that looks for schema.org recipes using ScalaJS (proof of concept) | Released |
+|02/2017 | [sbt-release](https://github.com/jakehschwartz/sbt-release) | Adding branch switiching capabilities to [sbt-release](https://github.com/sbt/sbt-release) | In Review |
 
 
 ## [benwicks](https://github.com/benwicks)
