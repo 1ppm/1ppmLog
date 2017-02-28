@@ -20,6 +20,13 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [sociting](https://github.com/sAbakumoff/sociting2)     | Catalog of references to StackOverflow questions found in GitHub sources |Released|
 
+## [1ps0](https://github.com/1ps0)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|1/2017 | [local-link](https://github.com/1ps0/local-link)     | A local LAN site for simple sharing of links, text, images, etc. |
+
+
 ## [ggerhard](https://github.com/ggerhard)
 
 |Month   |Project                                               |Description             |State|
@@ -149,8 +156,8 @@ Add your projects to the end of this List!
 ## [zitterbewegung](https://github.com/zitterbewegung)
 
 |Month   |Project                                               |Description             |State|
-|--------|------------------------------------------------------|------------------------------------------------|
-|01/2017 | HN point inflation blogpost | BigQuery analysis of Hackernews | Started
+|--------|------------------------------------------------------|----------------------------|--------------------|
+|01/2017 | HN point inflation blogpost | [BigQuery analysis of Hackernews](https://medium.com/@zitterbewegung/measuring-point-inflation-c88c325bf090#.wjgnmfg6q) | Completed
 |02/2017 | ESP8266corder| Wi-fi sensor system based on a wio-link| Started
 |03/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. | Started
 |04/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
@@ -185,8 +192,8 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |12/2016 | [cybernotes](http://cybernotes.herokuapp.com)        | A online note taking platform                  |Released|
-|1/2017 | [MusicList](https://musiclist.github.io)             | A simple list app for your music               |Released|
-
+|1/2017 | [MusicList](https://musiclist.github.io)              | A simple list app for your music               |Released|
+|2/2017 | [Vesna](https://github.com/Mechasparrow/Vesna)        | An opensource online forum for ideas           |Released|  
 ## [TestMarrko](https://github.com/TestMarrko)
 
 |Month   |Project                                               |Description             | Status                |
@@ -260,9 +267,10 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-|12/2016 | [fuxes.github.io](https://fuxes.github.io) | Personal blog | Released |
-|01/2017 | SocialAlgo | A crowdspeaking platform for supporting NGOs campaigns. Spread massively and get awareness of your social campaigns through the help of your supporters  | Started |
-
+| 12/2016 | [fuxes.github.io](https://fuxes.github.io) | Personal blog | Released |
+| 01/2017 | Doople | A crowdspeaking platform for supporting NGOs campaigns. Spread massively and get awareness of your social campaigns through the help of your supporters  | Started |
+| 02/2016 | N/A | Learn Java and Apache Camel | Started |
+| 02/2016 | N/A | Write a scientific paper | Started |
 
 ## [Gautam Krishna R](https://github.com/gautamkrishnar)
 
@@ -362,7 +370,8 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-|01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS | Started |
+|01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper) | An HTML parser that looks for schema.org recipes using ScalaJS (proof of concept) | Released |
+|02/2017 | [sbt-release](https://github.com/jakehschwartz/sbt-release) | Adding branch switiching capabilities to [sbt-release](https://github.com/sbt/sbt-release) | In Review |
 
 
 ## [benwicks](https://github.com/benwicks)
@@ -398,7 +407,9 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [gitattributes extension for VSCode](https://github.com/hashhar/vscode-gitattributes)  | Pull `.gitattributes` from GitHub and merge them into your local `.gitattributes` file | Released |
-|01/2017 | [stackoverflow shell](https://github.com/hashhar/stackoverflow-shell) | A .NET Core console app to use stackoverflow.com from a terminal. Will be unit testable and well designed. | Planning |
+|01/2017 | [stackoverflow shell](https://github.com/hashhar/stackoverflow-shell) | A .NET Core console app to use stackoverflow.com from a terminal. Will be unit testable and well designed. | Started |
+|02/2017 | [Windows-Hacks](https://github.com/hashhar/Windows-Hacks) | A collection of scripts, knowledge base articles, registry scripts, scheduled tasks to pimp out a windows installation. | Started |
+|02/2017 | [linux-deployment-toolbox](https://github.com/hashhar/linux-deployment-toolbox) | A loose framework of portable shell scripts to help provision a Linux system - installing packages, applying settings, installing software from source and a lot of other stuff. Basically a one-click system-restore for Linux. | Started |
 
 ## [josephbhunt](https://github.com/josephbhunt)
 
@@ -419,7 +430,7 @@ Add your projects to the end of this List!
 
 | Month   | Project                                              | Description | State |
 |---------|------------------------------------------------------|-------------|-------|
-| 2017-01 | [Rainpower](https://github.com/stuartpb/rainpower-watchface) | A personal watchface for my Pebble Time watch showing time, date, watch and phone battery levels, temperature, and precipitation forecast | Started (currently viable but incomplete) |
+| 2017-01 | [Rainpower](https://github.com/stuartpb/rainpower-watchface) | A personal watchface for my Pebble Time watch showing time, date, watch and phone battery levels, temperature, and precipitation forecast | [Released](https://apps.getpebble.com/en_US/application/58915f4895ce5bfaf80007d0) |
 
 
 
@@ -447,6 +458,7 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | Unit Converter PWA | A progressive web app (offline enabled) for converting between SI/metric units (http://roryok.com/unitard)  | Released |
+|02/2017 | CalendarJenny | A node.js app to read event dates from both local (yaml, json) and remote sources and compile a printable calendar | Started |
 
 ## [JoshHrach](https://github.com/JoshHrach) ([@JoshHrach](https://twitter.com/JoshHrach))
 
@@ -474,7 +486,9 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description                                     |State    |
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-| 01/2017 | [Directory Synchronizer](https://github.com/karan10/Sync-Dir) | A simple Project to synchronize all folders/files between two folders on different systems | Planning |  
+| 01/2017 | [Directory Synchronizer](https://github.com/karan10/Sync-Dir) | A simple Project to synchronize all folders/files between two folders on different systems | Released |  
+| 02/2017 | [Top 10 Algorithms](https://github.com/karan10/Top-10-algorithms) | Repository containing Top 10 asked in interview questions solution by topics | Started |  
+| 02/2017 | [GaanaCLI](https://github.com/karan10/gaanacli) | Play youtube song in browser directly from terminal. | Released |  
 
 ## [SaifMulla](https://github.com/saifmulla) ([@saifthe1](https://twitter.com/saifthe1))  
 
@@ -493,4 +507,26 @@ Add your projects to the end of this List!
 | Month  | Project | Description | State |
 | -----  | ------- | ----------- | ----- |
 | 01/2017 | [react-trello](https://github.com/rcdexta/react-trello) | Pluggable components to add a trello like kanban board to your application | Released |
-|02/2017| [chappie](https://github.com/rcdexta/chappie) | Chappie is a slackbot for remote workplaces | Released|
+| 02/2017 | [chappie](https://github.com/rcdexta/chappie) | Chappie is a slackbot for remote workplaces | Released|
+
+
+## [msadowski](https://github.com/msadowski) ([@msadowski90](https://twitter.com/msadowski90))
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|01/2017 |[Haptic control of UAV](https://msadowski.github.io/1ppm/uav-haptic-control-pt1/)        | Project to control a UAV remotely using Novint Falcon Haptic controller | Started |
+
+## [nkantar](https://github.com/nkantar) ([@nkantar](https://twitter.com/nkantar))
+
+| Month | Project | Description | State |
+| ----- | ------- | ----------- | ----- |
+| 01/2017 | [Autohook](https://github.com/nkantar/Autohook) | A very, _very_ small Git hook "framework". Essentially a shell script meant to be symlinked to that looks for appropriately named scripts to run. | Released |
+| 02/2017 | [SendOtterLove.com](https://www.sendotterlove.com/) | Send cute otter pictures with puns to someone you love. | Released |
+
+## [milanchheda](https://github.com/milanchheda) ([@milanchheda](https://twitter.com/milanchheda))
+
+| Month | Project | Description | State |
+| ----- | ------- | ----------- | ----- |
+| 01/2017 | [FPL Analysis](https://github.com/milanchheda/fplanalysis) | FPL Analysis for Fantasy Premier League Managers. Shows different types of stats and charts for FPL managers and their teams. | Released |
+
+
