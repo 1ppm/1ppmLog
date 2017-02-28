@@ -493,4 +493,4 @@ Add your projects to the end of this List!
 | Month  | Project | Description | State |
 | -----  | ------- | ----------- | ----- |
 | 01/2017 | [react-trello](https://github.com/rcdexta/react-trello) | Pluggable components to add a trello like kanban board to your application | Released |
-
+|02/2017| [chappie](https://github.com/rcdexta/chappie) | Chappie is a slackbot for remote workplaces | Released|
