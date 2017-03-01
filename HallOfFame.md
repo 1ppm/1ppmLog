@@ -218,6 +218,7 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |2017/01 |[Budget](https://budgt.eu)        | Offline budget tracker with online sync capability | Released |
+|2017/02 |[Lecture](https://github.com/jfoucher/Lecture)        | Learn to read app for children. In French | Released |
 
 ## [levibostian](https://twitter.com/levibostian)
 
