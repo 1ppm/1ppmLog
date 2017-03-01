@@ -452,7 +452,9 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-| 01/2017 | [Presentation Timer](http://www.presentation-timer.com/) | Countdown timer for conference presentations | Bug (in Chrome) |
+| 01/2017 | [Presentation Timer](http://www.presentation-timer.com/) | Countdown timer for conference presentations | Released |
+| 02/2017 | Failed this month. Just been too busy at work. |
+
 
 ## [roryok](https://github.com/roryok) ([@roryok](https://twitter.com/roryok))
 
