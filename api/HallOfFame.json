@@ -1,18 +1,94 @@
 [
     {
+        "username": "sAbakumoff",
+        "githubUrl": "https://github.com/sAbakumoff",
+        "twitterName": "@sAbakumoff",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "sociting",
+                "url": "https://github.com/sAbakumoff/sociting2",
+                "description": "Catalog of references to StackOverflow questions found in GitHub sources",
+                "status": "Released"
+            }
+        ]
+    },
+    {
+        "username": "1ps0",
+        "githubUrl": "https://github.com/1ps0",
+        "twitterName": "",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "20171",
+                "name": "local-link",
+                "url": "https://github.com/1ps0/local-link",
+                "description": "A local LAN site for simple sharing of links, text, images, etc.",
+                "status": ""
+            }
+        ]
+    },
+    {
+        "username": "ggerhard",
+        "githubUrl": "https://github.com/ggerhard",
+        "twitterName": "",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201611",
+                "name": "parsecal",
+                "url": "https://github.com/ggerhard/parsecal",
+                "description": "A ruby script to parse an iCal calendar and create a spreadsheet report",
+                "status": "Released"
+            },
+            {
+                "date": "201612",
+                "name": "node-pdf-service",
+                "url": "https://github.com/ggerhard/node-pdf-service",
+                "description": "RESTful PDF creation Service with NodeJS / Express / PhantomJS / Docker",
+                "status": "Released"
+            },
+            {
+                "date": "201701",
+                "name": "1ppm.github.io",
+                "url": "https://github.com/1ppm/1ppm.github.io",
+                "description": "1ppm.club Website + HallOfFame View",
+                "status": "Released"
+            },
+            {
+                "date": "201702",
+                "name": "1ppm.club",
+                "url": "http://1ppm.club/",
+                "description": "Dynamic 1ppm website, Social Login",
+                "status": "Planning"
+            },
+            {
+                "date": "201703",
+                "name": "Rocket Launch",
+                "url": "https://github.com/1ppm/RocketLaunch",
+                "description": "Consolidate and Review Links and Tweets for an MVP Database",
+                "status": "Planning"
+            }
+        ]
+    },
+    {
         "username": "aguaviva",
         "githubUrl": "https://github.com/aguaviva",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201611",
                 "name": "Physics engine",
+                "url": "https://github.com/aguaviva/Physics",
                 "description": "Physics engine, along with a short tutorial on constraints (runs in browser)",
                 "status": ""
             },
             {
                 "date": "201612",
                 "name": "Neural network",
+                "url": "https://github.com/aguaviva/ArtificialIntelligence",
                 "description": "Neural network classifier, includes tutorial on backpropagation (runs in browser)",
                 "status": ""
             }
@@ -21,11 +97,13 @@
     {
         "username": "cityzen",
         "githubUrl": "https://github.com/cityzen",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "Simple Documentation",
+                "url": "",
                 "description": "A minimal documentation/walkthrough app to create documentation for both desktop and mobile",
                 "status": ""
             }
@@ -34,11 +112,13 @@
     {
         "username": "dannav",
         "githubUrl": "https://github.com/dannav",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "linenum",
+                "url": "https://www.linenum.com",
                 "description": "A curator for tech and maker articles",
                 "status": ""
             }
@@ -47,17 +127,20 @@
     {
         "username": "lakshaykalbhor",
         "githubUrl": "https://github.com/lakshaykalbhor",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "MemeDensity",
+                "url": "https://github.com/lakshaykalbhor/musicrepair",
                 "description": "A python script to fetch and tell the number of memes in your facebook newsfeed",
                 "status": ""
             },
             {
                 "date": "201612",
                 "name": "MusicRepair",
+                "url": "https://github.com/lakshaykalbhor/musicrepair",
                 "description": "A python script to add album art and metadata to all music files",
                 "status": ""
             }
@@ -66,11 +149,13 @@
     {
         "username": "Hardenberg",
         "githubUrl": "https://github.com/Hardenberg",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "ZooCli",
+                "url": "",
                 "description": "a small Desptop Cookie-Clicker :-)",
                 "status": ""
             }
@@ -79,11 +164,13 @@
     {
         "username": "darcinc",
         "githubUrl": "https://github.com/DarcInc",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "Go Feed Forward",
+                "url": "https://github.com/darcinc/gofeedforward",
                 "description": "A simple feed forward network in Go",
                 "status": ""
             }
@@ -92,30 +179,35 @@
     {
         "username": "ariefwt",
         "githubUrl": "https://github.com/ariefwt",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "Earthquator",
+                "url": "https://telegram.me/earthquator",
                 "description": "Telegram bot and channel that publishes earthquake news from USGS data feed into Telegram",
                 "status": ""
             }
         ]
     },
     {
-        "username": "Amar Lakshya",
+        "username": "amar-laksh",
         "githubUrl": "https://github.com/amar-laksh",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201605",
                 "name": "focusTV",
+                "url": "https://github.com/amar-laksh/focusTV",
                 "description": "Bing-watch easily with Python and OPENCV",
                 "status": ""
             },
             {
                 "date": "201609",
                 "name": "TryingToKnowYouBetter",
+                "url": "https://github.com/amar-laksh/TryingToKnowYouBetter",
                 "description": "Easy people tracking (for most of the India)",
                 "status": ""
             }
@@ -124,11 +216,13 @@
     {
         "username": "cameronbird6",
         "githubUrl": "https://github.com/cameronbird6/",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "20171",
                 "name": "LaraMon",
+                "url": "https://github.com/cameronbird6/LaraMon",
                 "description": "A server monitor with history built in Laravel",
                 "status": ""
             }
@@ -137,11 +231,13 @@
     {
         "username": "mukeshthawani",
         "githubUrl": "https://github.com/mukeshthawani",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201612",
                 "name": "FAQView",
+                "url": "https://github.com/mukeshthawani/FAQView",
                 "description": "An easy to use FAQ view for iOS written in Swift",
                 "status": ""
             }
@@ -150,24 +246,28 @@
     {
         "username": "azurelogic",
         "githubUrl": "https://github.com/azurelogic",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "AwsHomeNetworkToolkit",
+                "url": "https://github.com/azurelogic/AwsHomeNetworkToolkit",
                 "description": "[In progress] Get notifications when your home network is down and keep dynamic DNS up to date all with AWS",
                 "status": ""
             }
         ]
     },
     {
-        "username": "AlexKeyes",
+        "username": "alex-keyes",
         "githubUrl": "https://github.com/alex-keyes",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "PHP Cowsay",
+                "url": "https://github.com/Alex-Keyes/cowsay-php",
                 "description": "Cowsay written in PHP",
                 "status": ""
             }
@@ -176,23 +276,27 @@
     {
         "username": "gutfeeling",
         "githubUrl": "https://github.com/gutfeeling",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201610",
                 "name": "python-boilerpipe",
+                "url": "https://github.com/misja/python-boilerpipe",
                 "description": "Python 3 support for python-boilerpipe",
                 "status": ""
             },
             {
                 "date": "201611",
                 "name": "word_forms",
+                "url": "https://github.com/gutfeeling/word_forms",
                 "description": "Accurately generate all possible forms of an English word e.g \"election\" --> \"elect\", \"electoral\", \"electorate\" etc.",
                 "status": ""
             },
             {
                 "date": "201612",
                 "name": "djangohero",
+                "url": "https://github.com/gutfeeling/djangohero",
                 "description": "The fastest way to set up a Django project on the cloud (using Heroku)",
                 "status": ""
             }
@@ -201,11 +305,13 @@
     {
         "username": "Timopheym",
         "githubUrl": "https://github.com/timopheym",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "Audition",
+                "url": "https://audition.antareslab.ru/",
                 "description": "Platform to train your ear for music",
                 "status": ""
             }
@@ -214,11 +320,13 @@
     {
         "username": "asweingarten",
         "githubUrl": "https://github.com/asweingarten",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "20171",
                 "name": "architect",
+                "url": "https://github.com/asweingarten/architect",
                 "description": "Tiled Content",
                 "status": ""
             }
@@ -227,11 +335,13 @@
     {
         "username": "RHelman",
         "githubUrl": "https://github.com/RHelman",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "Retro pi",
+                "url": "https://retropie.org.uk/",
                 "description": "Start learning raspberry pi by creating a retro pi console for my kids",
                 "status": ""
             }
@@ -240,12 +350,14 @@
     {
         "username": "zitterbewegung",
         "githubUrl": "https://github.com/zitterbewegung",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
-                "name": "dataknife",
-                "description": "A command line tool that can convert tabular data from one format to another.",
+                "name": "HN point inflation blogpost",
+                "url": "",
+                "description": "[BigQuery analysis of Hackernews](https://medium.com/@zitterbewegung/measuring-point-inflation-c88c325bf090#.wjgnmfg6q)",
                 "status": ""
             }
         ]
@@ -253,97 +365,113 @@
     {
         "username": "brooksgarrett",
         "githubUrl": "https://github.com/brooksgarrett",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "GA Fire Weather",
+                "url": "https://github.com/brooksgarrett/GAFireWeather",
                 "description": "An Alexa skill for looking up the current and forecasted NFDRS danger class for a region inside Georgia, USA. Data is retreived from http://weather.gfc.state.ga.us/. No special hardware or permissions are needed.",
                 "status": ""
             },
             {
                 "date": "201702",
                 "name": "",
+                "url": "",
                 "description": "",
                 "status": ""
             },
             {
                 "date": "201703",
                 "name": "",
+                "url": "",
                 "description": "",
                 "status": ""
             },
             {
                 "date": "201704",
                 "name": "",
+                "url": "",
                 "description": "",
                 "status": ""
             },
             {
                 "date": "201705",
                 "name": "",
+                "url": "",
                 "description": "",
                 "status": ""
             },
             {
                 "date": "201706",
                 "name": "",
+                "url": "",
                 "description": "",
                 "status": ""
             },
             {
                 "date": "201707",
                 "name": "",
+                "url": "",
                 "description": "",
                 "status": ""
             },
             {
                 "date": "201708",
                 "name": "",
+                "url": "",
                 "description": "",
                 "status": ""
             },
             {
                 "date": "201709",
                 "name": "",
+                "url": "",
                 "description": "",
                 "status": ""
             },
             {
                 "date": "201710",
                 "name": "",
+                "url": "",
                 "description": "",
                 "status": ""
             },
             {
                 "date": "201711",
                 "name": "",
+                "url": "",
                 "description": "",
                 "status": ""
             },
             {
                 "date": "201712",
                 "name": "",
+                "url": "",
                 "description": "",
                 "status": ""
             }
         ]
     },
     {
-        "username": "Oyewale Ademola",
+        "username": "saopayne",
         "githubUrl": "https://github.com/saopayne",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "DTRR",
+                "url": "https://github.com/saopayne/DTRR",
                 "description": "This is a Android project example to showcase integration of Dependency Injection (Dagger 2) ,Retrofit ,Unit Testing (Junit), RxJava (ReactiveX",
                 "status": ""
             },
             {
                 "date": "201702",
-                "name": "Groovy-Paystack",
-                "description": "A Paystack.co library for developers to integrate into their existing project",
+                "name": "GO-urltools",
+                "url": "",
+                "description": "Some functions to parse and normalize URLs in GOLang.",
                 "status": ""
             }
         ]
@@ -351,24 +479,35 @@
     {
         "username": "mechasparrow",
         "githubUrl": "https://github.com/mechasparrow",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201612",
                 "name": "cybernotes",
+                "url": "http://cybernotes.herokuapp.com",
                 "description": "A online note taking platform",
-                "status": ""
+                "status": "Released"
+            },
+            {
+                "date": "20171",
+                "name": "MusicList",
+                "url": "https://musiclist.github.io",
+                "description": "A simple list app for your music",
+                "status": "Released"
             }
         ]
     },
     {
         "username": "TestMarrko",
         "githubUrl": "https://github.com/TestMarrko",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "012017",
                 "name": "ViewMe",
+                "url": "https://github.com/TestMarrko/ViewMe",
                 "description": "View any type of file on OS X (Starting with pictures).",
                 "status": "Planning"
             }
@@ -377,11 +516,13 @@
     {
         "username": "eddiekollar",
         "githubUrl": "https://github.com/eddiekollar",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "012017",
                 "name": "VoiceNotes",
+                "url": "https://github.com/eddiekollar/VoiceNotes",
                 "description": "React Native App for taking notes using your voice",
                 "status": "Planning"
             }
@@ -390,11 +531,13 @@
     {
         "username": "JosephVC",
         "githubUrl": "https://github.com/JosephVC",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "Intranet App",
+                "url": "",
                 "description": "A Django app for work",
                 "status": ""
             }
@@ -403,36 +546,42 @@
     {
         "username": "jfoucher",
         "githubUrl": "https://github.com/jfoucher",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "012017",
                 "name": "Budget",
+                "url": "https://budgt.eu",
                 "description": "Offline budget tracker with online sync capability",
-                "status": "Coding"
+                "status": "Released"
             }
         ]
     },
     {
-        "username": "Levi Bostian",
+        "username": "levibostian",
         "githubUrl": "",
+        "twitterName": "",
         "otherUrl": "https://twitter.com/levibostian",
         "projects": [
             {
                 "date": "122016",
                 "name": "Life of Levi podcast",
+                "url": "http://lifeoflevi.xyz",
                 "description": "Podcast audio version of my blog.",
                 "status": "Released"
             },
             {
                 "date": "122016",
                 "name": "Curiosity IO website",
+                "url": "https://curiosityio.com",
                 "description": "Website for freelance mobile app dev.",
                 "status": "Released"
             },
             {
                 "date": "122016",
                 "name": "levibostian.com",
+                "url": "http://levibostian.com",
                 "description": "Personal website.",
                 "status": "Released"
             }
@@ -441,11 +590,13 @@
     {
         "username": "davidseah",
         "githubUrl": "https://github.com/davidseah",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "012017",
                 "name": "Vulkan graphics engine",
+                "url": "",
                 "description": "A graphics engine that runs on Vulkan API",
                 "status": "Planning"
             }
@@ -454,23 +605,27 @@
     {
         "username": "smhutch",
         "githubUrl": "https://github.com/smhutch",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "112016",
                 "name": "smhutch.co.uk",
+                "url": "https://smhutch.co.uk/",
                 "description": "Redesigned Personal site",
                 "status": "Released ✅"
             },
             {
                 "date": "122016",
                 "name": "Next Up Trello",
+                "url": "https://smhutch.github.io/next-up-trello/",
                 "description": "Chrome Extension to view due Trello tickets",
                 "status": "Released ✅"
             },
             {
                 "date": "012017",
                 "name": "EasyInvoice",
+                "url": "https://github.com/smhutch/easyInvoice",
                 "description": "Front End for invoice generator",
                 "status": "Planning"
             }
@@ -479,11 +634,13 @@
     {
         "username": "bheesma",
         "githubUrl": "https://github.com/bheesma",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "122016",
                 "name": "Angular Star Rating Component",
+                "url": "",
                 "description": "Star rating component written in angular",
                 "status": "Done"
             }
@@ -492,17 +649,20 @@
     {
         "username": "strathausen",
         "githubUrl": "https://github.com/strathausen",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "012017",
                 "name": "hallelujah.blog",
+                "url": "",
                 "description": "blogging platform with bible search wizzard",
                 "status": "In progress"
             },
             {
                 "date": "022017",
                 "name": "gps map travel blog",
+                "url": "",
                 "description": "travel blog with gps and map",
                 "status": "Planning"
             }
@@ -511,17 +671,20 @@
     {
         "username": "ifvictr",
         "githubUrl": "https://github.com/ifvictr",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "112016",
                 "name": "Faceclash",
+                "url": "https://faceclash.ml",
                 "description": "Faceclash is a fully revamped version of Mark Zuckerberg's Facemash, with its own special sauce.",
                 "status": "Released"
             },
             {
                 "date": "122016",
                 "name": "Oca",
+                "url": "https://oca.li",
                 "description": "A URL shortener that has a clean design, and is easy to use. Finally.",
                 "status": "Released"
             }
@@ -530,18 +693,35 @@
     {
         "username": "fuxes",
         "githubUrl": "",
+        "twitterName": "",
         "otherUrl": "https://twitter.com/fuxes_",
         "projects": [
             {
                 "date": "201612",
                 "name": "fuxes.github.io",
+                "url": "https://fuxes.github.io",
                 "description": "Personal blog",
                 "status": "Released"
             },
             {
                 "date": "201701",
-                "name": "SocialAlgo",
+                "name": "Doople",
+                "url": "",
                 "description": "A crowdspeaking platform for supporting NGOs campaigns. Spread massively and get awareness of your social campaigns through the help of your supporters",
+                "status": "Started"
+            },
+            {
+                "date": "201602",
+                "name": "N/A",
+                "url": "",
+                "description": "Learn Java and Apache Camel",
+                "status": "Started"
+            },
+            {
+                "date": "201602",
+                "name": "N/A",
+                "url": "",
+                "description": "Write a scientific paper",
                 "status": "Started"
             }
         ]
@@ -549,35 +729,69 @@
     {
         "username": "Gautam Krishna R",
         "githubUrl": "https://github.com/gautamkrishnar",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
-                "date": "201610",
+                "date": "20171",
+                "name": "Naughtychecker.js",
+                "url": "http://github.com/gautamkrishnar/naughtychecker.js/",
+                "description": "NodeJS module to check Naughty Strings, it is a set of strings which have a high probability of causing issues when used as user-input data.",
+                "status": "Released"
+            },
+            {
+                "date": "201612",
+                "name": "Nothing Private",
+                "url": "https://github.com/gautamkrishnar/nothing-private",
+                "description": "This project is a proof of concept that anyone can identify and track you, even if you are using Private Browsing or Icognito Mode in your web browser.",
+                "status": "Released"
+            },
+            {
+                "date": "201611",
                 "name": "ASTRA",
+                "url": "https://github.com/gautamkrishnar/ASTRA/",
                 "description": "A fully integrated workflow management system for government offices with built in queuing and complaint registration system",
+                "status": "Released"
+            },
+            {
+                "date": "201610",
+                "name": "Joker",
+                "url": "https://github.com/gautamkrishnar/joker",
+                "description": "Random jokes from the best sources",
+                "status": "Started"
+            },
+            {
+                "date": "20169",
+                "name": "Openshift quickstart",
+                "url": "https://github.com/gautamkrishnar/openshift-quickstart",
+                "description": "One click quickstart to make your website online in Redhat's openshift cloud without typing a single command",
                 "status": "Released"
             },
             {
                 "date": "20168",
                 "name": "TcSO",
+                "url": "https://github.com/gautamkrishnar/tcso/",
                 "description": "Try Catch Stack overflow (TcSo) Is a collection of Try statements in all the programming languages under the globe which catches the exception and searches for the cause of the caught exception in the stack overflow automatically.",
                 "status": "Released"
             },
             {
                 "date": "20167",
                 "name": "Be like Bill",
+                "url": "https://github.com/gautamkrishnar/Be-Like-Bill",
                 "description": "Be Like Bill meme generator and API created with PHP, Using this API you can include customized version of \"Be like Bill\" meme on your website.",
                 "status": "Released"
             },
             {
                 "date": "20167",
                 "name": "SoCLI",
+                "url": "http://github.com/gautamkrishnar/socli",
                 "description": "Stack overflow command line client. Search and browse stack overflow without leaving the terminal",
                 "status": "Released"
             },
             {
                 "date": "20165",
                 "name": "Profanity finder js",
+                "url": "https://github.com/gautamkrishnar/profanity-finder.js",
                 "description": "Simple profanity finding library for javascript to detect swear language.Created for nodejs.",
                 "status": "Released"
             }
@@ -586,17 +800,20 @@
     {
         "username": "focuswish",
         "githubUrl": "https://github.com/focuswish",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "ScheduleText",
+                "url": "http://scheduletext.com",
                 "description": "A whimsical tool for scheduling SMS reminders.",
                 "status": "In progress"
             },
             {
                 "date": "201702",
                 "name": "FormCandy",
+                "url": "http://www.formcandy.com",
                 "description": "A curated collection of tools to design better forms.",
                 "status": "In progress"
             }
@@ -605,30 +822,35 @@
     {
         "username": "pcstl",
         "githubUrl": "https://github.com/pcstl",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "8Chip",
+                "url": "https://github.com/pcstl/8chip",
                 "description": "A [CHIP-8](https://en.wikipedia.org/wiki/Chip-8) emulator.",
                 "status": "Started"
             },
             {
                 "date": "201702",
                 "name": "Personal website",
+                "url": "",
                 "description": "A prototype of my personal website.",
                 "status": "Planning"
             }
         ]
     },
     {
-        "username": "kiran",
+        "username": "chauhankiran",
         "githubUrl": "https://github.com/chauhankiran",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "Making a Theme For GNU/Linux",
+                "url": "",
                 "description": "A little book on how to make a theme for GNU/Linux system using gtk-3.0.",
                 "status": "In progress"
             }
@@ -637,24 +859,28 @@
     {
         "username": "decagon",
         "githubUrl": "https://github.com/decagon",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201511",
                 "name": "star.js",
+                "url": "https://github.com/Decagon/star.js",
                 "description": "A node library to automatically correct typos in messages based on the next message you send*.",
                 "status": "Continued"
             }
         ]
     },
     {
-        "username": "tropicColin",
+        "username": "colinrtaylor",
         "githubUrl": "https://github.com/colinrtaylor",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201612",
                 "name": "Live List",
+                "url": "react-list-37a1e.firebaseapp.com, [Repo",
                 "description": "Create and share list with friends. See live updates between shared lists. Using React + Firebase.",
                 "status": "Released ✅ (WIP)"
             }
@@ -663,11 +889,13 @@
     {
         "username": "joshcanhelp",
         "githubUrl": "https://github.com/joshcanhelp",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "20171",
                 "name": "Repo",
+                "url": "https://github.com/joshcanhelp/harvest-billable-time",
                 "description": "Keep track of working, billable, and non-billable time in browser using Harvest",
                 "status": "Started previously, WIP"
             }
@@ -676,12 +904,28 @@
     {
         "username": "mubashariqbal",
         "githubUrl": "https://github.com/mubashariqbal",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "20171",
                 "name": "TopShots",
+                "url": "https://topshots.co/",
                 "description": "Top shots for any Dribbble user for 2016. Inspired by best of 9 for instagram",
+                "status": "Released"
+            },
+            {
+                "date": "20171",
+                "name": "500products",
+                "url": "http://500products.com/",
+                "description": "A forever changing list of the Top 500 Products on Product Hunt",
+                "status": "Released"
+            },
+            {
+                "date": "20171",
+                "name": "TopLists",
+                "url": "https://toplists.xyz/",
+                "description": "A Leaderboard for Twitter Lists",
                 "status": "Released"
             }
         ]
@@ -689,11 +933,13 @@
     {
         "username": "recepinanc",
         "githubUrl": "https://github.com/cityzen",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "Simple Ruby Game",
+                "url": "",
                 "description": "A simple ruby game to sharpen my ruby skills",
                 "status": "Planning"
             }
@@ -702,11 +948,13 @@
     {
         "username": "jayfk",
         "githubUrl": "https://github.com/jayfk",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "safetydb.io",
+                "url": "https://safetydb.io",
                 "description": "A tool to check dependencies for security vulnerabilities",
                 "status": "Planning"
             }
@@ -715,38 +963,51 @@
     {
         "username": "VladimirRubin",
         "githubUrl": "https://github.com/VladimirRubin",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "1ppmHallOfFameParse",
+                "url": "https://github.com/VladimirRubin/1ppmHallOfFameParser",
                 "description": "1ppm HallOfFame MD to JSON parser!",
                 "status": "Started"
             }
         ]
     },
     {
-        "username": "Dylan Marriott",
+        "username": "d-32",
         "githubUrl": "https://github.com/d-32",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "PhotoCluster",
+                "url": "https://github.com/D-32/1ppm#01-photocluster",
                 "description": "App to filter photos by creating clusters (iOS)",
                 "status": "Planning"
             }
         ]
     },
     {
-        "username": "jakekschwartz",
-        "githubUrl": "https://github.com/jakekschwartz",
+        "username": "jakehschwartz",
+        "githubUrl": "https://github.com/jakehschwartz",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "recipe-scraper",
-                "description": "An HTML parser that looks for schema.org recipes using ScalaJS",
+                "url": "https://github.com/jakehschwartz/recipe-scraper",
+                "description": "An HTML parser that looks for schema.org recipes using ScalaJS (proof of concept)",
+                "status": "Released"
+            },
+            {
+                "date": "201702",
+                "name": "show-tracker",
+                "url": "https://github.com/jakehschwartz/show-tracker-android",
+                "description": "Android app to track your TV shows using Trakt.TV",
                 "status": "Planning"
             }
         ]
@@ -754,11 +1015,13 @@
     {
         "username": "benwicks",
         "githubUrl": "https://github.com/benwicks",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "pi-arcade-system",
+                "url": "https://github.com/benwicks/pi-arcade-system",
                 "description": "Raspberry Pi NES Emulator with 2 Arduino USB controllers",
                 "status": "Planning"
             }
@@ -767,11 +1030,13 @@
     {
         "username": "kenangel",
         "githubUrl": "https://github.com/kenangel",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "Retrofit mame cab to retropie",
+                "url": "",
                 "description": "replace old arcade cab with x-arcade and pi3",
                 "status": "Planning"
             }
@@ -780,24 +1045,86 @@
     {
         "username": "retrocede",
         "githubUrl": "https://github.com/retrocede",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
+                "name": "recipe-scraper",
+                "url": "https://github.com/jakehschwartz/recipe-scraper",
+                "description": "An HTML parser that looks for schema.org recipes using ScalaJS",
+                "status": "Planning"
+            }
+        ]
+    },
+    {
+        "username": "amoghbanta",
+        "githubUrl": "https://github.com/amoghbanta",
+        "twitterName": "",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "ReactNativeEverywhere",
+                "url": "https://github.com/amoghbanta/reactNativeEverywhere",
+                "description": "Starter kit to target multiple platforms :globe_with_meridians: :iphone: :computer: with react-native' APIs.",
+                "status": "Released"
+            },
+            {
+                "date": "201701",
                 "name": "umbrella-scheduler",
+                "url": "https://github.com/retrocede/umbrella-scheduler",
                 "description": "Personal Scheduling and todo list tool.",
                 "status": "Planning"
             }
         ]
     },
     {
+        "username": "hashhar",
+        "githubUrl": "https://github.com/hashhar",
+        "twitterName": "@hashhar",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "gitattributes extension for VSCode",
+                "url": "https://github.com/hashhar/vscode-gitattributes",
+                "description": "Pull `.gitattributes` from GitHub and merge them into your local `.gitattributes` file",
+                "status": "Released"
+            },
+            {
+                "date": "201701",
+                "name": "stackoverflow shell",
+                "url": "https://github.com/hashhar/stackoverflow-shell",
+                "description": "A .NET Core console app to use stackoverflow.com from a terminal. Will be unit testable and well designed.",
+                "status": "Started"
+            },
+            {
+                "date": "201702",
+                "name": "Windows-Hacks",
+                "url": "https://github.com/hashhar/Windows-Hacks",
+                "description": "A collection of scripts, knowledge base articles, registry scripts, scheduled tasks to pimp out a windows installation.",
+                "status": "Started"
+            },
+            {
+                "date": "201702",
+                "name": "linux-deployment-toolbox",
+                "url": "https://github.com/hashhar/linux-deployment-toolbox",
+                "description": "A loose framework of portable shell scripts to help provision a Linux system - installing packages, applying settings, installing software from source and a lot of other stuff. Basically a one-click system-restore for Linux.",
+                "status": "Started"
+            }
+        ]
+    },
+    {
         "username": "josephbhunt",
         "githubUrl": "https://github.com/josephbhunt",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "rails-request-color",
+                "url": "",
                 "description": "Easily distiguish between requests to your rails app with alternating colors",
                 "status": "Planning"
             }
@@ -806,42 +1133,56 @@
     {
         "username": "qabbasi",
         "githubUrl": "https://github.com/qabbasi",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201611",
                 "name": "qabbasi.github.io",
+                "url": "http://qabbasi.github.io",
                 "description": "Personal tech blog",
                 "status": "Released"
             },
             {
                 "date": "201612",
                 "name": "LoudHailer",
+                "url": "https://github.com/qabbasi/Loudhailer",
                 "description": "A mnmlst voice recognition app based on Akka Streams, wit.ai (aka NLP as service) and Firebase for messaging.",
                 "status": "Released"
             },
             {
                 "date": "201701",
                 "name": "dailyprogrammer",
+                "url": "https://github.com/qabbasi/dailyprogrammer",
                 "description": "Solved challenges from https://www.reddit.com/r/dailyprogrammer/",
                 "status": "Continued"
             },
             {
                 "date": "201701",
                 "name": "pure-spider",
+                "url": "https://github.com/qabbasi/pure-spider",
                 "description": "A remote-controlled ESP8266-based Hexapod programmed in Purescript",
                 "status": "Started"
             }
         ]
     },
     {
+        "username": "stuartpb",
+        "githubUrl": "https://github.com/stuartpb",
+        "twitterName": "@stuartpb",
+        "otherUrl": "",
+        "projects": []
+    },
+    {
         "username": "jupazave",
         "githubUrl": "https://github.com/jupazave",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "https://github.com/jupazave/1PPM-Ionic-App",
+                "url": "https://github.com/jupazave/1PPM-Ionic-App",
                 "description": "1PPM Ionic App",
                 "status": "Started"
             }
@@ -850,13 +1191,200 @@
     {
         "username": "dethos",
         "githubUrl": "https://github.com/dethos",
+        "twitterName": "",
         "otherUrl": "",
         "projects": [
             {
                 "date": "201701",
                 "name": "Mic and Cam Monitor",
+                "url": "",
                 "description": "Gives you alerts when your Web-cam and/or Microphone is being used",
                 "status": "Planning"
+            }
+        ]
+    },
+    {
+        "username": "garethramen",
+        "githubUrl": "https://github.com/garethramen",
+        "twitterName": "",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "Presentation Timer",
+                "url": "http://www.presentation-timer.com/",
+                "description": "Countdown timer for conference presentations",
+                "status": "Bug (in Chrome)"
+            }
+        ]
+    },
+    {
+        "username": "roryok",
+        "githubUrl": "https://github.com/roryok",
+        "twitterName": "@roryok",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "Unit Converter PWA",
+                "url": "",
+                "description": "A progressive web app (offline enabled) for converting between SI/metric units (http://roryok.com/unitard)",
+                "status": "Released"
+            },
+            {
+                "date": "201702",
+                "name": "CalendarJenny",
+                "url": "",
+                "description": "A node.js app to read event dates from both local (yaml, json) and remote sources and compile a printable calendar",
+                "status": "Started"
+            }
+        ]
+    },
+    {
+        "username": "JoshHrach",
+        "githubUrl": "https://github.com/JoshHrach",
+        "twitterName": "@JoshHrach",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "Provincial",
+                "url": "https://github.com/JoshHrach/Provincial",
+                "description": "Provincial is a small Swift library to quickly get a list of states or provinces from various countries.",
+                "status": "Started"
+            }
+        ]
+    },
+    {
+        "username": "robhowell",
+        "githubUrl": "https://github.com/robhowell",
+        "twitterName": "@playrob",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "simple-commit-emoji",
+                "url": "https://github.com/robhowell/simple-commit-emoji",
+                "description": "A simple set of emoji to improve readability of source control commit messages",
+                "status": "Completed"
+            },
+            {
+                "date": "201702",
+                "name": "component-toolkit",
+                "url": "https://github.com/robhowell/component-toolkit",
+                "description": "A toolkit to help build, test and develop UI components",
+                "status": "Started"
+            },
+            {
+                "date": "201703",
+                "name": "opinionated.guide",
+                "url": "https://github.com/robhowell/opinionated.guide",
+                "description": "A simple, pragmatic set of tools and techniques for developing web applications in 2017.",
+                "status": "Planning"
+            },
+            {
+                "date": "201704",
+                "name": "shelved",
+                "url": "https://github.com/robhowell/shelved",
+                "description": "JavaScript functions for getting stuff done",
+                "status": "Planning"
+            },
+            {
+                "date": "201705",
+                "name": "rummage",
+                "url": "https://github.com/robhowell/rummage",
+                "description": "Remote search and file downloading for geeks",
+                "status": "Planning"
+            }
+        ]
+    },
+    {
+        "username": "paep3nguin",
+        "githubUrl": "https://github.com/paep3nguin",
+        "twitterName": "",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "TL;DR for MixMax",
+                "url": "https://github.com/paeP3nguin/tldr-mixmax-enchancement",
+                "description": "Link summarizer enhancement for [MixMax](https://mixmax.com/)",
+                "status": "Released"
+            }
+        ]
+    },
+    {
+        "username": "karan10",
+        "githubUrl": "https://github.com/karan10",
+        "twitterName": "@iamkarandev",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "Directory Synchronizer",
+                "url": "https://github.com/karan10/Sync-Dir",
+                "description": "A simple Project to synchronize all folders/files between two folders on different systems",
+                "status": "Released"
+            }
+        ]
+    },
+    {
+        "username": "rosswd",
+        "githubUrl": "https://github.com/rosswd/",
+        "twitterName": "@macabhaird",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "pushcap",
+                "url": "https://github.com/rosswd/pushcap",
+                "description": "Push notifications for internet data usage on the Huawei B593s-22 Router",
+                "status": "Released"
+            }
+        ]
+    },
+    {
+        "username": "rcdexta",
+        "githubUrl": "https://github.com/rcdexta/",
+        "twitterName": "@rcdexta",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "react-trello",
+                "url": "https://github.com/rcdexta/react-trello",
+                "description": "Pluggable components to add a trello like kanban board to your application",
+                "status": "Released"
+            }
+        ]
+    },
+    {
+        "username": "msadowski",
+        "githubUrl": "https://github.com/msadowski",
+        "twitterName": "@msadowski90",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "Haptic control of UAV",
+                "url": "https://msadowski.github.io/1ppm/uav-haptic-control-pt1/",
+                "description": "Project to control a UAV remotely using Novint Falcon Haptic controller",
+                "status": "Started"
+            }
+        ]
+    },
+    {
+        "username": "nkantar",
+        "githubUrl": "https://github.com/nkantar",
+        "twitterName": "@nkantar",
+        "otherUrl": "",
+        "projects": [
+            {
+                "date": "201701",
+                "name": "Autohook",
+                "url": "https://github.com/nkantar/Autohook",
+                "description": "A very, _very_ small Git hook \"framework\". Essentially a shell script meant to be symlinked to that looks for appropriately named scripts to run.",
+                "status": "Released"
             }
         ]
     }

@@ -2,6 +2,8 @@
 
 Add your projects to the end of this List!
 
+**An interactive view for the Hall of Fame is now available at [1ppm.club/hallOfFame](http://1ppm.club/hallOfFame)**
+
 **Notes:**
 - If you would like to be mentionend on **twitter**, e.g. when project of the day (#POD), add your handle in brackets next to your name/nickname, for example **"ggerhard (@gerji)"**
 - Make sure you checked out/merged the latest version of this page
@@ -13,14 +15,27 @@ Add your projects to the end of this List!
   - Cancelled (?) - No result at all. Would be interesting to hear what happened though.
 
 ---
+## [sAbakumoff](https://github.com/sAbakumoff) (@sAbakumoff)
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [sociting](https://github.com/sAbakumoff/sociting2)     | Catalog of references to StackOverflow questions found in GitHub sources |Released|
 
-## [ggerhard](https://github.com/ggerhard) (@gerji)
+## [1ps0](https://github.com/1ps0)
+
+|Month   |Project                                               |Description             |
+|--------|------------------------------------------------------|------------------------------------------------|
+|1/2017 | [local-link](https://github.com/1ps0/local-link)     | A local LAN site for simple sharing of links, text, images, etc. |
+
+
+## [ggerhard](https://github.com/ggerhard)
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |11/2016 | [parsecal](https://github.com/ggerhard/parsecal)     | A ruby script to parse an iCal calendar and create a spreadsheet report |Released|
 |12/2016 | [node-pdf-service](https://github.com/ggerhard/node-pdf-service)     | RESTful PDF creation Service with NodeJS / Express / PhantomJS / Docker |Released|
-|01/2017 | [1ppm.github.io](https://github.com/1ppm/1ppm.github.io)     | 1ppm.club Website MVP | Started |
+|01/2017 | [1ppm.github.io](https://github.com/1ppm/1ppm.github.io)     | 1ppm.club Website + HallOfFame View | Released |
+|02/2017 | [1ppm.club](http://1ppm.club/)     | Dynamic 1ppm website, Social Login | Planning |
+|03/2017 | [Rocket Launch](https://github.com/1ppm/RocketLaunch)     | Consolidate and Review Links and Tweets for an MVP Database | Planning |
 
 ## [aguaviva](https://github.com/aguaviva)
 
@@ -71,7 +86,7 @@ Add your projects to the end of this List!
 | 01/2017 | [Earthquator](https://telegram.me/earthquator) | Telegram bot and channel that publishes earthquake news from USGS data feed into Telegram |
 
 
-## [Amar Lakshya](https://github.com/amar-laksh)
+## [amar-laksh](https://github.com/amar-laksh)
 
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
@@ -102,7 +117,7 @@ Add your projects to the end of this List!
 
 
 
-## [AlexKeyes](https://github.com/alex-keyes)
+## [alex-keyes](https://github.com/alex-keyes)
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
 | 01/2017 | [PHP Cowsay](https://github.com/Alex-Keyes/cowsay-php) | Cowsay written in PHP |
@@ -140,10 +155,12 @@ Add your projects to the end of this List!
 
 ## [zitterbewegung](https://github.com/zitterbewegung)
 
-|Month   |Project                                               |Description             |
-|--------|------------------------------------------------------|------------------------------------------------|
-|01/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. |
-|02/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|----------------------------|--------------------|
+|01/2017 | HN point inflation blogpost | [BigQuery analysis of Hackernews](https://medium.com/@zitterbewegung/measuring-point-inflation-c88c325bf090#.wjgnmfg6q) | Completed
+|02/2017 | ESP8266corder| Wi-fi sensor system based on a wio-link| Started
+|03/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. | Started
+|04/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
 
 ## [brooksgarrett](https://github.com/brooksgarrett)
 
@@ -162,12 +179,12 @@ Add your projects to the end of this List!
 |11/2017 | []() | |
 |12/2017 | []() | |
 
-## [Oyewale Ademola](https://github.com/saopayne)
+## [saopayne](https://github.com/saopayne)
 
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
 | 01/2017 | [DTRR](https://github.com/saopayne/DTRR) | This is a Android project example to showcase integration of Dependency Injection (Dagger 2) ,Retrofit ,Unit Testing (Junit), RxJava (ReactiveX |
-| 02/2017 | Groovy-Paystack | A Paystack.co library for developers to integrate into their existing project |
+| 02/2017 | GO-urltools | Some functions to parse and normalize URLs in GOLang. |
 
 
 ## [mechasparrow](https://github.com/mechasparrow)
@@ -175,8 +192,8 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |12/2016 | [cybernotes](http://cybernotes.herokuapp.com)        | A online note taking platform                  |Released|
-|1/2017 | [MusicList](https://musiclist.github.io)             | A simple list app for your music               |Released|
-
+|1/2017 | [MusicList](https://musiclist.github.io)              | A simple list app for your music               |Released|
+|2/2017 | [Vesna](https://github.com/Mechasparrow/Vesna)        | An opensource online forum for ideas           |Released|  
 ## [TestMarrko](https://github.com/TestMarrko)
 
 |Month   |Project                                               |Description             | Status                |
@@ -200,9 +217,10 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-|2017/01 |[Budget](https://github.com/jfoucher/budjetTracker)        | Offline budget tracker with online sync capability | Coding |
+|2017/01 |[Budget](https://budgt.eu)        | Offline budget tracker with online sync capability | Released |
+|2017/02 |[Lecture](https://github.com/jfoucher/Lecture)        | Learn to read app for children. In French | Released |
 
-## [Levi Bostian](https://twitter.com/levibostian)
+## [levibostian](https://twitter.com/levibostian)
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
@@ -250,15 +268,20 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-|12/2016 | [fuxes.github.io](https://fuxes.github.io) | Personal blog | Released |
-|01/2017 | SocialAlgo | A crowdspeaking platform for supporting NGOs campaigns. Spread massively and get awareness of your social campaigns through the help of your supporters  | Started |
-
+| 12/2016 | [fuxes.github.io](https://fuxes.github.io) | Personal blog | Released |
+| 01/2017 | Doople | A crowdspeaking platform for supporting NGOs campaigns. Spread massively and get awareness of your social campaigns through the help of your supporters  | Started |
+| 02/2016 | N/A | Learn Java and Apache Camel | Started |
+| 02/2016 | N/A | Write a scientific paper | Started |
 
 ## [Gautam Krishna R](https://github.com/gautamkrishnar)
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-| 10/2016 | [ASTRA](https://github.com/gautamkrishnar/ASTRA/) | A fully integrated workflow management system for government offices with built in queuing and complaint registration system | Released |
+| 1/2017 | [Naughtychecker.js](http://github.com/gautamkrishnar/naughtychecker.js/) | NodeJS module to check Naughty Strings, it is a set of strings which have a high probability of causing issues when used as user-input data. | Released |
+| 12/2016 | [Nothing Private](https://github.com/gautamkrishnar/nothing-private) | This project is a proof of concept that anyone can identify and track you, even if you are using Private Browsing or Icognito Mode in your web browser. | Released |
+| 11/2016 | [ASTRA](https://github.com/gautamkrishnar/ASTRA/) | A fully integrated workflow management system for government offices with built in queuing and complaint registration system | Released |
+| 10/2016 | [Joker](https://github.com/gautamkrishnar/joker) | Random jokes from the best sources | Started |
+| 9/2016 | [Openshift quickstart](https://github.com/gautamkrishnar/openshift-quickstart) | One click quickstart to make your website online in Redhat's openshift cloud without typing a single command | Released |
 | 8/2016 | [TcSO](https://github.com/gautamkrishnar/tcso/) | Try Catch Stack overflow (TcSo) Is a collection of Try statements in all the programming languages under the globe which catches the exception and searches for the cause of the caught exception in the stack overflow automatically. | Released |
 | 7/2016 | [Be like Bill](https://github.com/gautamkrishnar/Be-Like-Bill) | Be Like Bill meme generator and API created with PHP, Using this API you can include customized version of "Be like Bill" meme on your website. | Released |
 | 7/2016 | [SoCLI](http://github.com/gautamkrishnar/socli) | Stack overflow command line client. Search and browse stack overflow without leaving the terminal | Released |
@@ -280,7 +303,7 @@ Add your projects to the end of this List!
 |01/2017 |[8Chip](https://github.com/pcstl/8chip) | A [CHIP-8](https://en.wikipedia.org/wiki/Chip-8) emulator. | Started  |
 |02/2017 |Personal website                        | A prototype of my personal website.                        | Planning |
 
-## [kiran](https://github.com/chauhankiran)
+## [chauhankiran](https://github.com/chauhankiran)
 
 |Month   |Project                                               |Description            |Status                  |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
@@ -292,7 +315,7 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |11/2015 | [star.js](https://github.com/Decagon/star.js)     | A node library to automatically correct typos in messages based on the next message you send*. |Continued|
 
-## [tropicColin](https://github.com/colinrtaylor)
+## [colinrtaylor](https://github.com/colinrtaylor)
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
@@ -338,17 +361,18 @@ Add your projects to the end of this List!
 |01/2017 | [1ppmHallOfFameParse](https://github.com/VladimirRubin/1ppmHallOfFameParser)                   | 1ppm HallOfFame MD to JSON parser! | Started |
 
 
-## [Dylan Marriott](https://github.com/d-32)
+## [d-32](https://github.com/d-32)
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [PhotoCluster](https://github.com/D-32/1ppm#01-photocluster)                   | App to filter photos by creating clusters (iOS) | Planning |
 
 
-## [jakekschwartz](https://github.com/jakekschwartz)
+## [jakehschwartz](https://github.com/jakehschwartz)
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-|01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS | Planning |
+|01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper) | An HTML parser that looks for schema.org recipes using ScalaJS (proof of concept) | Released |
+|02/2017 | [sbt-release](https://github.com/jakehschwartz/sbt-release) | Adding branch switiching capabilities to [sbt-release](https://github.com/sbt/sbt-release) | In Review |
 
 
 ## [benwicks](https://github.com/benwicks)
@@ -369,6 +393,14 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [recipe-scraper](https://github.com/jakehschwartz/recipe-scraper)     | An HTML parser that looks for schema.org recipes using ScalaJS | Planning |
+
+
+## [amoghbanta](https://github.com/amoghbanta)
+
+|Month   |Project                                               |Description             |Status                |
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [ReactNativeEverywhere](https://github.com/amoghbanta/reactNativeEverywhere) | Starter kit to target multiple platforms :globe_with_meridians: :iphone: :computer: with react-native' APIs. | Released |
 |01/2017 | [umbrella-scheduler](https://github.com/retrocede/umbrella-scheduler) | Personal Scheduling and todo list tool. | Planning |
 
 
@@ -376,7 +408,9 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [gitattributes extension for VSCode](https://github.com/hashhar/vscode-gitattributes)  | Pull `.gitattributes` from GitHub and merge them into your local `.gitattributes` file | Released |
-|01/2017 | [stackoverflow shell](https://github.com/hashhar/stackoverflow-shell) | A .NET Core console app to use stackoverflow.com from a terminal. Will be unit testable and well designed. | Planning |
+|01/2017 | [stackoverflow shell](https://github.com/hashhar/stackoverflow-shell) | A .NET Core console app to use stackoverflow.com from a terminal. Will be unit testable and well designed. | Started |
+|02/2017 | [Windows-Hacks](https://github.com/hashhar/Windows-Hacks) | A collection of scripts, knowledge base articles, registry scripts, scheduled tasks to pimp out a windows installation. | Started |
+|02/2017 | [linux-deployment-toolbox](https://github.com/hashhar/linux-deployment-toolbox) | A loose framework of portable shell scripts to help provision a Linux system - installing packages, applying settings, installing software from source and a lot of other stuff. Basically a one-click system-restore for Linux. | Started |
 
 ## [josephbhunt](https://github.com/josephbhunt)
 
@@ -393,13 +427,13 @@ Add your projects to the end of this List!
 |01/2017 | [dailyprogrammer](https://github.com/qabbasi/dailyprogrammer) | Solved challenges from https://www.reddit.com/r/dailyprogrammer/ | Continued |
 |01/2017 | [pure-spider](https://github.com/qabbasi/pure-spider) | A remote-controlled ESP8266-based Hexapod programmed in Purescript | Started |
 
-## [Stuart P. Bentley](https://github.com/stuartpb) ([@stuartpb](https://twitter.com/stuartpb))
+## [stuartpb](https://github.com/stuartpb) ([@stuartpb](https://twitter.com/stuartpb))
 
 | Month   | Project                                              | Description | State |
 |---------|------------------------------------------------------|-------------|-------|
-| 2017-01 | [Rainpower][]                                        | A personal watchface for my Pebble Time watch showing time, date, watch and phone battery levels, temperature, and precipitation forecast | Started (currently viable but incomplete) |
+| 2017-01 | [Rainpower](https://github.com/stuartpb/rainpower-watchface) | A personal watchface for my Pebble Time watch showing time, date, watch and phone battery levels, temperature, and precipitation forecast | [Released](https://apps.getpebble.com/en_US/application/58915f4895ce5bfaf80007d0) |
 
-[Rainpower]: https://github.com/stuartpb/rainpower-watchface
+
 
 ## [jupazave](https://github.com/jupazave)
 
@@ -421,9 +455,80 @@ Add your projects to the end of this List!
 | 01/2017 | [Presentation Timer](http://www.presentation-timer.com/) | Countdown timer for conference presentations | Released |
 | 02/2017 | Failed this month. Just been too busy at work. |
 
+
 ## [roryok](https://github.com/roryok) ([@roryok](https://twitter.com/roryok))
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-|01/2017 | Unit Converter PWA | A progressive web app (offline enabled) for converting between SI/metric units  |Planning|
+|01/2017 | Unit Converter PWA | A progressive web app (offline enabled) for converting between SI/metric units (http://roryok.com/unitard)  | Released |
+|02/2017 | CalendarJenny | A node.js app to read event dates from both local (yaml, json) and remote sources and compile a printable calendar | Started |
+
+## [JoshHrach](https://github.com/JoshHrach) ([@JoshHrach](https://twitter.com/JoshHrach))
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [Provincial](https://github.com/JoshHrach/Provincial) | Provincial is a small Swift library to quickly get a list of states or provinces from various countries.  |Started|
+
+## [robhowell](https://github.com/robhowell) ([@playrob](https://twitter.com/playrob))
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [simple-commit-emoji](https://github.com/robhowell/simple-commit-emoji) | A simple set of emoji to improve readability of source control commit messages  |Completed|
+|02/2017 | [component-toolkit](https://github.com/robhowell/component-toolkit) | A toolkit to help build, test and develop UI components  |Started|
+|03/2017 | [opinionated.guide](https://github.com/robhowell/opinionated.guide) | A simple, pragmatic set of tools and techniques for developing web applications in 2017.   |Planning|
+|04/2017 | [shelved](https://github.com/robhowell/shelved) | JavaScript functions for getting stuff done   |Planning|
+|05/2017 | [rummage](https://github.com/robhowell/rummage) | Remote search and file downloading for geeks   |Planning|
+
+## [paep3nguin](https://github.com/paep3nguin)
+
+|Month   |Project                                               |Description                                     |State    |
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [TL;DR for MixMax](https://github.com/paeP3nguin/tldr-mixmax-enchancement)    | Link summarizer enhancement for [MixMax](https://mixmax.com/) |Released|
+
+## [karan10](https://github.com/karan10) ([@iamkarandev](https://twitter.com/iamkarandev))
+
+|Month   |Project                                               |Description                                     |State    |
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+| 01/2017 | [Directory Synchronizer](https://github.com/karan10/Sync-Dir) | A simple Project to synchronize all folders/files between two folders on different systems | Released |  
+| 02/2017 | [Top 10 Algorithms](https://github.com/karan10/Top-10-algorithms) | Repository containing Top 10 asked in interview questions solution by topics | Started |  
+| 02/2017 | [GaanaCLI](https://github.com/karan10/gaanacli) | Play youtube song in browser directly from terminal. | Released |  
+
+## [SaifMulla](https://github.com/saifmulla) ([@saifthe1](https://twitter.com/saifthe1))  
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [Simple Blog](https://github.com/saifmulla/simple-blog) | A simple multipurpose blog using python Flask framework to move current blog from GitHub pages and also to learn python development |Started|  
+
+## [rosswd](https://github.com/rosswd/) (@macabhaird)
+
+| Month  | Project | Description | State |
+| -----  | ------- | ----------- | ----- |
+| 01/2017 | [pushcap](https://github.com/rosswd/pushcap) | Push notifications for internet data usage on the Huawei B593s-22 Router | Released |
+
+## [rcdexta](https://github.com/rcdexta/) ([@rcdexta](https://twitter.com/rcdexta))
+
+| Month  | Project | Description | State |
+| -----  | ------- | ----------- | ----- |
+| 01/2017 | [react-trello](https://github.com/rcdexta/react-trello) | Pluggable components to add a trello like kanban board to your application | Released |
+
+
+
+## [msadowski](https://github.com/msadowski) ([@msadowski90](https://twitter.com/msadowski90))
+
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|01/2017 |[Haptic control of UAV](https://msadowski.github.io/1ppm/uav-haptic-control-pt1/)        | Project to control a UAV remotely using Novint Falcon Haptic controller | Started |
+
+## [nkantar](https://github.com/nkantar) ([@nkantar](https://twitter.com/nkantar))
+
+| Month | Project | Description | State |
+| ----- | ------- | ----------- | ----- |
+| 01/2017 | [Autohook](https://github.com/nkantar/Autohook) | A very, _very_ small Git hook "framework". Essentially a shell script meant to be symlinked to that looks for appropriately named scripts to run. | Released |
+| 02/2017 | [SendOtterLove.com](https://www.sendotterlove.com/) | Send cute otter pictures with puns to someone you love. | Released |
+
+## [milanchheda](https://github.com/milanchheda) ([@milanchheda](https://twitter.com/milanchheda))
+
+| Month | Project | Description | State |
+| ----- | ------- | ----------- | ----- |
+| 01/2017 | [FPL Analysis](https://github.com/milanchheda/fplanalysis) | FPL Analysis for Fantasy Premier League Managers. Shows different types of stats and charts for FPL managers and their teams. | Released |
 
