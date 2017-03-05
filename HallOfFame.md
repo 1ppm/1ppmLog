@@ -532,4 +532,10 @@ Add your projects to the end of this List!
 | ----- | ------- | ----------- | ----- |
 | 01/2017 | [FPL Analysis](https://github.com/milanchheda/fplanalysis) | FPL Analysis for Fantasy Premier League Managers. Shows different types of stats and charts for FPL managers and their teams. | Released |
 
+## [alkesh47](https://github.com/alkesh47)
+
+|Month   |Project                                               |Description             |State|
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|01/2017 | [URL Shortener](https://github.com/alkesh47/Toucan) | A url shortener service that shortens lengthy urls into short and manageable form. | Released |
+|02/2017 | [Weather Web-App](https://github.com/alkesh47/Wolf) | A JavaScript weather app that uses Yahoo! weather API to display current weather based on your location. | Released |
 
