@@ -517,7 +517,8 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description             | Status                |
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
-|01/2017 |[Haptic control of UAV](https://msadowski.github.io/1ppm/uav-haptic-control-pt1/)        | Project to control a UAV remotely using Novint Falcon Haptic controller | Started |
+|01/2017 |[Haptic control of UAV](https://msadowski.github.io/1ppm/uav-haptic-control-pt1/)        | Project to control a UAV remotely using Novint Falcon Haptic controller | Released |
+|02/2017 |[Haptic control of UAV - pt2](https://github.com/msadowski/px4_falcon)        | ROS nodes to control a Px4 based UAV  using haptic device| Released |
 
 ## [nkantar](https://github.com/nkantar) ([@nkantar](https://twitter.com/nkantar))
 
