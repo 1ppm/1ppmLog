@@ -543,6 +543,6 @@ Add your projects to the end of this List!
 
 ## [martineasy](https://github.com/martineasy)
 
-|Month   |Project                                               |Description             |
-|--------|------------------------------------------------------|------------------------------------------------|
-|03/2017 | CYOA Engine                                          | A Vue.js App that let's you create CYOA Stories|
+|Month   |Project                                               |Description             | State |
+|--------|------------------------------------------------------|------------------------------------------------|---------|
+|03/2017 | CYOA Engine                                          | A Vue.js App that let's you create CYOA Stories| Planning |
