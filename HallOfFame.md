@@ -534,7 +534,7 @@ Add your projects to the end of this List!
 | ----- | ------- | ----------- | ----- |
 | 01/2017 | [FPL Analysis](https://github.com/milanchheda/fplanalysis) | FPL Analysis for Fantasy Premier League Managers. Shows different types of stats and charts for FPL managers and their teams. | Released |
 
-## [alkesh47](https://github.com/alkesh47) 
+## [alkesh47](https://github.com/alkesh47)
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
