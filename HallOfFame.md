@@ -462,7 +462,7 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [Unit Converter PWA](https://github.com/roryok/unitard) | A progressive web app (offline enabled) for converting between SI/metric units | [Released](http://roryok.com/unitard) |
 |02/2017 | [CalendarJenny](https://github.com/roryok/calendarjenny) | A node.js app to read event dates from both local (yaml, json) and remote sources and compile a printable calendar | Completed |
-|03/2017 | [Electromail](https://github.com/roryok/electromail) | A boilerplate for an electron email app | Completed |
+|03/2017 | [ASCII Header](https://github.com/roryok/ASCIIheader) | A Visual Studio Code extension to create ASCII headers in your source  | In Progress |
 
 ## [JoshHrach](https://github.com/JoshHrach) ([@JoshHrach](https://twitter.com/JoshHrach))
 
@@ -512,6 +512,7 @@ Add your projects to the end of this List!
 | -----  | ------- | ----------- | ----- |
 | 01/2017 | [react-trello](https://github.com/rcdexta/react-trello) | Pluggable components to add a trello like kanban board to your application | Released |
 | 02/2017 | [chappie](https://github.com/rcdexta/chappie) | Chappie is a slackbot for remote workplaces | Released|
+| 03/2017 | [scrabble-app](http://app.scrabbler.click/) | A scrabble board built using react and aws lambda | Released |
 
 
 ## [msadowski](https://github.com/msadowski) ([@msadowski90](https://twitter.com/msadowski90))
@@ -527,6 +528,7 @@ Add your projects to the end of this List!
 | ----- | ------- | ----------- | ----- |
 | 01/2017 | [Autohook](https://github.com/nkantar/Autohook) | A very, _very_ small Git hook "framework". Essentially a shell script meant to be symlinked to that looks for appropriately named scripts to run. | Released |
 | 02/2017 | [SendOtterLove.com](https://www.sendotterlove.com/) | Send cute otter pictures with puns to someone you love. | Released |
+| 03/2017 | [Parsenvy](https://github.com/nkantar/Parsenvy) | Tiny utility for environment variable parsing in Python with type support. | Released |
 
 ## [milanchheda](https://github.com/milanchheda) ([@milanchheda](https://twitter.com/milanchheda))
 
@@ -541,8 +543,16 @@ Add your projects to the end of this List!
 |01/2017 | [URL Shortener](https://github.com/alkesh47/Toucan) | A url shortener service that shortens lengthy urls into short and manageable form. | Released |
 |02/2017 | [Weather Web-App](https://github.com/alkesh47/Wolf) | A JavaScript weather app that uses Yahoo! weather API to display current weather based on your location. | Released |
 
+
 ## [martineasy](https://github.com/martineasy)
 
 |Month   |Project                                               |Description             | State |
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |03/2017 | CYOA Engine                                          | A Vue.js App that let's you create CYOA Stories| Planning |
+
+## [karansapolia](https://github.com/karansapolia) ([@lzy_i](https://twitter.com/lzy_i)]
+| Month | Project | Description | State |
+| ----- | ------- | ----------- | ----- |
+| 04/2017 | [Phaser framework HTML5 game](https://github.com/karansapolia/Phaser2d) | An HTML5 game built following the Mozilla DevHacks Game Dev Guide using Phaser Framework | Released |
+
+
