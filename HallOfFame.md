@@ -384,8 +384,9 @@ Add your projects to the end of this List!
 ## [kenangel](https://github.com/kenangel)
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-|01/2017 | Retrofit mame cab to retropie  | replace old arcade cab with x-arcade and pi3 | Planning|
-
+|01/2017 | Retrofit mame cab to retropie  | replace old arcade cab with x-arcade and pi3 | Complete|
+|02/2017 | Write a mobile game | created a mobile game to release on android store | In Progress|
+|03/2017 | Start dash side project | a side project for data viz | Planning|
 
 
 ## [retrocede](https://github.com/retrocede)
