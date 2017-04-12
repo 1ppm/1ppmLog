@@ -528,6 +528,7 @@ Add your projects to the end of this List!
 | ----- | ------- | ----------- | ----- |
 | 01/2017 | [Autohook](https://github.com/nkantar/Autohook) | A very, _very_ small Git hook "framework". Essentially a shell script meant to be symlinked to that looks for appropriately named scripts to run. | Released |
 | 02/2017 | [SendOtterLove.com](https://www.sendotterlove.com/) | Send cute otter pictures with puns to someone you love. | Released |
+| 03/2017 | [Parsenvy](https://github.com/nkantar/Parsenvy) | Tiny utility for environment variable parsing in Python with type support. | Released |
 
 ## [milanchheda](https://github.com/milanchheda) ([@milanchheda](https://twitter.com/milanchheda))
 
