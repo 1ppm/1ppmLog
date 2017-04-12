@@ -462,7 +462,7 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [Unit Converter PWA](https://github.com/roryok/unitard) | A progressive web app (offline enabled) for converting between SI/metric units | [Released](http://roryok.com/unitard) |
 |02/2017 | [CalendarJenny](https://github.com/roryok/calendarjenny) | A node.js app to read event dates from both local (yaml, json) and remote sources and compile a printable calendar | Completed |
-|03/2017 | [Electromail](https://github.com/roryok/electromail) | A boilerplate for an electron email app | Completed |
+|03/2017 | [ASCII Header](https://github.com/roryok/ASCIIheader) | A Visual Studio Code extension to create ASCII headers in your source  | In Progress |
 
 ## [JoshHrach](https://github.com/JoshHrach) ([@JoshHrach](https://twitter.com/JoshHrach))
 
