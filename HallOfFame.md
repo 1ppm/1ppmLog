@@ -513,7 +513,7 @@ Add your projects to the end of this List!
 | 01/2017 | [react-trello](https://github.com/rcdexta/react-trello) | Pluggable components to add a trello like kanban board to your application | Released |
 | 02/2017 | [chappie](https://github.com/rcdexta/chappie) | Chappie is a slackbot for remote workplaces | Released|
 | 03/2017 | [scrabble-app](http://app.scrabbler.click/) | A scrabble board built using react and aws lambda | Released |
-| 03/2017 | [india-facts.in](http://www.india-facts.in/) | India in numbers | Released |
+| 04/2017 | [india-facts.in](http://www.india-facts.in/) | India in numbers | Released |
 
 
 ## [msadowski](https://github.com/msadowski) ([@msadowski90](https://twitter.com/msadowski90))
