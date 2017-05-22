@@ -191,7 +191,7 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |12/2016 | [cybernotes](http://cybernotes.herokuapp.com)        | A online note taking platform                  |Released|
 |1/2017 | [MusicList](https://musiclist.github.io)              | A simple list app for your music               |Released|
-|2/2017 | [Vesna](https://github.com/Mechasparrow/Vesna)        | An opensource online forum for ideas           |Released|  
+|2/2017 | [Vesna](https://github.com/Mechasparrow/Vesna)        | An opensource online forum for ideas           |Released|
 ## [TestMarrko](https://github.com/TestMarrko)
 
 |Month   |Project                                               |Description             | Status                |
@@ -335,6 +335,10 @@ Add your projects to the end of this List!
 |1/2017 | [TopShots](https://topshots.co/)     |Top shots for any Dribbble user for 2016. Inspired by best of 9 for instagram |Released|
 |1/2017 | [500products](http://500products.com/)     |A forever changing list of the Top 500 Products on Product Hunt |Released|
 |1/2017 | [TopLists](https://toplists.xyz/)     |A Leaderboard for Twitter Lists |Released|
+|2/2017 | [Wombos](http://www.wombos.co/)     |Easily experiment to find a great combination of fonts to use in your next web design.|Released|
+|4/2017 | [BotList Messenger Bot](https://www.messenger.com/t/botlistco)     |Search and discover chatbots on Messenger with BotList|Released|
+|4/2017 | [DashMetrics](http://dashmetrics.io/)     |Easily digestible infographic dashboards|Released|
+|5/2017 | [Will Robots Take My Job?](https://willrobotstakemyjob.com/)     |What is the Automation Risk Probability of your Job?|Released|
 
 
 
@@ -490,15 +494,15 @@ Add your projects to the end of this List!
 
 |Month   |Project                                               |Description                                     |State    |
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-| 01/2017 | [Directory Synchronizer](https://github.com/karan10/Sync-Dir) | A simple Project to synchronize all folders/files between two folders on different systems | Released |  
-| 02/2017 | [Top 10 Algorithms](https://github.com/karan10/Top-10-algorithms) | Repository containing Top 10 asked in interview questions solution by topics | Started |  
-| 02/2017 | [GaanaCLI](https://github.com/karan10/gaanacli) | Play youtube song in browser directly from terminal. | Released |  
+| 01/2017 | [Directory Synchronizer](https://github.com/karan10/Sync-Dir) | A simple Project to synchronize all folders/files between two folders on different systems | Released |
+| 02/2017 | [Top 10 Algorithms](https://github.com/karan10/Top-10-algorithms) | Repository containing Top 10 asked in interview questions solution by topics | Started |
+| 02/2017 | [GaanaCLI](https://github.com/karan10/gaanacli) | Play youtube song in browser directly from terminal. | Released |
 
-## [SaifMulla](https://github.com/saifmulla) ([@saifthe1](https://twitter.com/saifthe1))  
+## [SaifMulla](https://github.com/saifmulla) ([@saifthe1](https://twitter.com/saifthe1))
 
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
-|01/2017 | [Simple Blog](https://github.com/saifmulla/simple-blog) | A simple multipurpose blog using python Flask framework to move current blog from GitHub pages and also to learn python development |Started|  
+|01/2017 | [Simple Blog](https://github.com/saifmulla/simple-blog) | A simple multipurpose blog using python Flask framework to move current blog from GitHub pages and also to learn python development |Started|
 
 ## [rosswd](https://github.com/rosswd/) (@macabhaird)
 
