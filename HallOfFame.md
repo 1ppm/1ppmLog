@@ -553,6 +553,7 @@ Add your projects to the end of this List!
 ## [karansapolia](https://github.com/karansapolia) ([@lzy_i](https://twitter.com/lzy_i)]
 | Month | Project | Description | State |
 | ----- | ------- | ----------- | ----- |
-| 04/2017 | [Phaser framework HTML5 game](https://github.com/karansapolia/Phaser2d) | An HTML5 game built following the Mozilla DevHacks Game Dev Guide using Phaser Framework | Released |
+| 04/2017 | [Phaser framework HTML5 game](https://github.com/karansapolia/Phaser2d) | An HTML5 game built following the Mozilla DevHacks Game Dev Guide using Phaser Framework | Released ✅ |
+|05/2017 | [Natural Language Processing Demos in Compromise.js](https://karansapolia.github.io/NLP.JS/nlp.html) | An interactive webpage with Natural Language Processing demos built in Compromise.js and Bootstrap | Released ✅ |
 
 
