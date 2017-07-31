@@ -529,6 +529,9 @@ Add your projects to the end of this List!
 | 01/2017 | [Autohook](https://github.com/nkantar/Autohook) | A very, _very_ small Git hook "framework". Essentially a shell script meant to be symlinked to that looks for appropriately named scripts to run. | Released |
 | 02/2017 | [SendOtterLove.com](https://www.sendotterlove.com/) | Send cute otter pictures with puns to someone you love. | Released |
 | 03/2017 | [Parsenvy](https://github.com/nkantar/Parsenvy) | Tiny utility for environment variable parsing in Python with type support. | Released |
+| 04/2017 | [SPI.vim](https://github.com/nkantar/SPI.vim/commits/master) | Vim plugin for Python `import` sorting. | Released |
+| 05/2017 | [pep20.org](https://pep20.org) | Small tribute to [my favorite PEP](https://www.python.org/dev/peps/pep-0020/). | Released |
+| 06/2017 | [Starminder](https://starminder.xyz) | GitHub starred project reminder. | Released |
 
 ## [milanchheda](https://github.com/milanchheda) ([@milanchheda](https://twitter.com/milanchheda))
 
