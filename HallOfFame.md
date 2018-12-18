@@ -311,6 +311,7 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |State|
 |--------|------------------------------------------------------|------------------------------------------------|---------|
 |01/2017 | [1ppmHallOfFameParse](https://github.com/VladimirRubin/1ppmHallOfFameParser)                   | 1ppm HallOfFame MD to JSON parser! | Released |
+|11/2018 | TimeToGetOut                  | WIP | Planning |
 
 
 ## [Dylan Marriott](https://github.com/d-32)
